@@ -10,7 +10,7 @@
         <title>
           <xsl:value-of select="/article/front/article-meta/title-group/article-title"/>
         </title>
-        <link rel="stylesheet" type="text/css" href="judaica.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
       </head>
       <body>
 	      <xsl:call-template name="toc-div"/>
