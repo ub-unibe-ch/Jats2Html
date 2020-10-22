@@ -322,6 +322,10 @@ div:target {
 	background-color: #E7FBF4;
 }
 
+li.fn:target{
+	background-color: #E7FBF4;
+}
+
 
 .back h5 {
 
