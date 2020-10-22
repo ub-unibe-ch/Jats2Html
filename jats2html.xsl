@@ -23,7 +23,7 @@
   
   <xsl:template match="/article">
     <xsl:apply-templates>
-  </xsl:apply-templates></xsl:template>l
+  </xsl:apply-templates></xsl:template>
   
   
   <!-- toc -->
