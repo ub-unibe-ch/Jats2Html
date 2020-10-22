@@ -100,6 +100,7 @@
 	    	
     <table-wrap position="float" id="tab1">
       <caption>
+        <label>1</label>
         <p>The caption of this table</p>
       </caption>
       <table>
@@ -244,6 +245,7 @@
 </body>
 <back>
 <fn-group>
+  <title>Anmerkungen</title>
   <fn id="fn1">
     <p>A short footnote.</p>
   </fn>
