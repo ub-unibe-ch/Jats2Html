@@ -2,9 +2,11 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
                               xmlns:xlink="http://www.w3.org/1999/xlink"
                               xmlns:lang="http://www.w3.org/1999/xhtml">
-  <xsl:strip-space elements="*"/>
-  <xsl:output method="html" indent="yes"/>
+
+<xsl:strip-space elements="*"/>
+<xsl:output method="html" indent="yes"/>
   
+
   <xsl:template match="/">
     <html>
       <head>
@@ -215,9 +217,21 @@
       <xsl:attribute name="id">
         <xsl:value-of select="@id"></xsl:value-of>
       </xsl:attribute>
+      <xsl:if test="string(caption)">
+        <p class="table_caption">
+        <xsl:if test="string(label)">
+          <xsl:value-of select="label"/><xsl:text>&#x00A0;</xsl:text>
+        </xsl:if>
+        <xsl:value-of select="caption"/>
+        </p>
+      </xsl:if>
       <xsl:apply-templates/>
     </div>
   </xsl:template>
+  
+  <xsl:template match="//table-wrap/caption"/>
+  <xsl:template match="//table-wrap/label"/>
+
   
   <xsl:template match="//table">
     <table>
