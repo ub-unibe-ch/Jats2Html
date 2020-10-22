@@ -100,6 +100,7 @@
 	    	
     <table-wrap position="float" id="tab1">
       <caption>
+        <label>1</label>
         <p>The caption of this table</p>
       </caption>
       <table>
