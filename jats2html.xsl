@@ -23,7 +23,7 @@
   
   <xsl:template match="/article">
     <xsl:apply-templates>
-  </xsl:apply-templates></xsl:template>
+  </xsl:apply-templates></xsl:template>l
   
   
   <!-- toc -->
@@ -305,11 +305,17 @@
     </u>
   </xsl:template>
   
-  <xsl:template match="//list">
+  <xsl:template match="//list[@list-type='order']">
     <ol>
       <xsl:apply-templates/>
     </ol>
   </xsl:template> 
+  
+  <xsl:template match="//list[@list-type='bullet']">
+    <ul>
+      <xsl:apply-templates/>
+    </ul>
+  </xsl:template>
   
   <xsl:template match="//boxed-text">
     <div>
