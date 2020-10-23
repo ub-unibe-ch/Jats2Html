@@ -9,8 +9,8 @@ body {
     margin: 0 auto;
     padding: 0 3em 1em 3em;
     max-width: 900px;
+    }
 
-}
 h1,
 h2,
 h3,
@@ -565,9 +565,12 @@ a.fn-back {
 
 
 /* The TOC */
+
+
+@media screen and (min-width: 601px) {
 .toc {
     height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 250px; /* Set the width of the sidebar */
+    width: 10%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
@@ -575,6 +578,7 @@ a.fn-back {
     /*  background-color: #111; /\* Black *\/*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 0px;
+    float: left;
 }
 
 /* The navigation menu links */
@@ -596,7 +600,18 @@ a.fn-back {
 
 /* Style page content */
 .main {
-    margin-left: 280px; /* Same as the width of the sidebar */
+/*    margin-left: 280px; /\* Same as the width of the sidebar *\/*/
     padding: 0px 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+}
+
+
+@media screen and (max-width: 600px) {
+  .main, .toc {
+    width: 100%;
+    margin: 0;
+  }
 }
 
