@@ -430,17 +430,17 @@
     </li>
   </xsl:template>
 
-  <xsl:template match="/article/back/fn-group/fn/p[1]" priority="1">
+  <xsl:template match="/article/back/fn-group/fn/p[last()]" priority="1">
     <p>
+      <xsl:apply-templates/>
       <a class="fn-back">
         <xsl:attribute name="href">
           <xsl:text>#r</xsl:text>
           <xsl:value-of select="../@id"/>
         </xsl:attribute>&#11025;</a>
-      <xsl:apply-templates/>
     </p>
   </xsl:template>
-
+  
   <xsl:template match="/article/back/ref-list">
     <h2>
       <xsl:attribute name="id">
