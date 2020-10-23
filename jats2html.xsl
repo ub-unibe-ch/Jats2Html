@@ -378,7 +378,7 @@
       </li>
   </xsl:template>
   
-  <xsl:template match="/article/back/fn-group/fn/p[1]">
+  <xsl:template match="/article/back/fn-group/fn/p[1]" priority="1">
     <p>
       <a class="fn-back">
         <xsl:attribute name="href">
