@@ -38,7 +38,7 @@
   </xsl:template>
   
   <xsl:template name="toc-div">
-    <div class="w3-sidebar w3-bar-block" style="width:25%">
+    <div class="sidenav" style="width:25%">
 	<xsl:for-each select="//sec">
 	  <xsl:call-template name="heading-in-toc"/><br/>
 	</xsl:for-each>
