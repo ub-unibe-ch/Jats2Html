@@ -220,7 +220,7 @@
       <xsl:if test="string(caption)">
         <p class="table_caption">
         <xsl:if test="string(label)">
-          <xsl:value-of select="label"/><xsl:text>&#x00A0;</xsl:text>
+          <xsl:value-of select="label"/><xsl:text>:&#x00A0;</xsl:text>
         </xsl:if>
         <xsl:value-of select="caption"/>
         </p>
