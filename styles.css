@@ -461,6 +461,10 @@ p.pic_caption {
 	padding-bottom:1em;
 }
 
+p.pic_caption + p {
+	text-indent: 0;
+}
+
 p.table_label {
 
 	font-style:italic;
