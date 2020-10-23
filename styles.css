@@ -27,9 +27,10 @@ table-wrap {
 .metadata p.kwd-group {
 	margin-bottom: 1em;
 }
-.metadata p.pub-id__pub-id-type_doi, .metadata
+.metadata p.pub-id__pub-id-type_doi, .metadata  {
 	margin-top: 1em;
 }
+
 h1, h2, h3, h4 {
 	font-weight: 600;
 	-webkit-hyphens: auto;
@@ -48,10 +49,7 @@ p + p {
 
 p {
     display: block;
-    margin-block-start: 0em;
-    margin-block-end: 0em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin: 0;
 }
 	
 p:first-of-type {
@@ -201,8 +199,8 @@ div.abstract {
 }
 
 div.table-wrap {
-	margin-block-start: 1em; 
-	margin-block-end: 1em; 
+	margin-top: 2ex; 
+	margin-bottom: 2ex; 
 }
 
 
@@ -228,14 +226,14 @@ h2 {
 h3 {
 	font-weight: 600;
 	color: #44bb91;
-	margin: 1.5em 0 4 0;
+	margin: 1.5em 0 4em 0;
 	font-size: 1.3em;
 }
 
 h4 {
 	font-weight: 600;
 	color: #44bb91;
-	margin: 1.5em 0 2 0;
+	margin: 1.5em 0 2em 0;
 	font-size: 1em;
 
 }
@@ -247,7 +245,6 @@ h4 {
 	letter-spacing: 0.1em;
 }
 
-}
 div.body p:first-child {
 	margin-top: 2.75em;
 }
@@ -489,7 +486,7 @@ ol.numbers {
 	list-style-type:decimal;
 }
 
-ol.alphabet {i
+ol.alphabet {
 	list-style-type:lower-latin;
 }
 
