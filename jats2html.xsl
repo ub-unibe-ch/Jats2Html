@@ -15,10 +15,7 @@
         <link rel="stylesheet" type="text/css" href="styles.css" media="screen"/>
       </head>
       <body>
-        <xsl:call-template name="toc-div"/>
-        <div class="main">
           <xsl:apply-templates/>
-        </div>
       </body>
     </html>
   </xsl:template>
@@ -58,6 +55,7 @@
 
 
   <xsl:template match="/article/front">
+    <div class="main">
     <h1 class="article-title">
       <xsl:value-of select="article-meta/title-group/article-title"/>
     </h1>
@@ -83,8 +81,6 @@
         </a>
       </span>
     </xsl:for-each>
-
-
     <div class="metadata">
       <xsl:value-of select="journal-meta/journal-title-group/journal-title"/>
       <xsl:text>&#x00A0;Jg.&#x00A0;</xsl:text>
@@ -108,21 +104,26 @@
         License</a>
       <br/>
     </div>
-
-    <xsl:if test="string(article-meta/abstract)">
+    </div>
+    <xsl:call-template name="toc-div"/>
+    <div class="main"><xsl:if test="string(article-meta/abstract)">
       <div class="abstract">
         <i>
           <xsl:text>Abstract: </xsl:text>
         </i>
         <xsl:value-of select="article-meta/abstract"/>
       </div>
-    </xsl:if>
-
+    </xsl:if></div>
   </xsl:template>
 
   <!-- end front -->
   <!-- body -->
 
+  <xsl:template match="/article/body">
+    <div class="main">
+    <xsl:apply-templates/>
+    </div>
+  </xsl:template>
 
   <xsl:template match="/article/body/sec">
     <h2>
@@ -389,6 +390,13 @@
 
   <!-- end body -->
   <!-- back -->
+  
+  <xsl:template match="/article/back">
+    <div class="main">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
+  
   <xsl:template match="/article/front/article-meta/contrib-group/author-comment">
     <div class="author-comment">
       <xsl:apply-templates/>
