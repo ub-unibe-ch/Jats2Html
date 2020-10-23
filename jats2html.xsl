@@ -98,7 +98,7 @@
 
     <xsl:if test="string(article-meta/abstract)">
     <div class="abstract">
-      <i><xsl:text>Abstract:</xsl:text></i>
+      <i><xsl:text>Abstract: </xsl:text></i>
       <xsl:value-of select="article-meta/abstract"/>
     </div>
     </xsl:if>
