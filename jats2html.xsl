@@ -332,6 +332,9 @@
   
   <xsl:template match="//boxed-text">
     <div>
+      <xsl:attribute name="content-type">
+        <xsl:value-of select="@content-type"></xsl:value-of>
+      </xsl:attribute>
       <xsl:apply-templates/>
     </div>
   </xsl:template> 

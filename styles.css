@@ -439,7 +439,7 @@ img {
 
 p.pic {
 	text-align:center;
-	margin-top:15;
+	margin-top:0;
 	text-indent: 0em ;
 }
 
@@ -472,6 +472,12 @@ p.table_label {
 	font-size:small;
 	text-align:left;
 	padding-top:1em;
+}
+
+div[content-type="dedication"] {
+    text-align: right;
+    margin-left: 3em;
+    font-style: italic;
 }
 
 ol, ul {
