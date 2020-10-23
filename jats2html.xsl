@@ -273,7 +273,6 @@
   
 
   <xsl:template match="//fig">
-    <p class="pic">
     <img>
       <xsl:attribute name="src">
         <xsl:value-of select="graphic/@xlink:href"></xsl:value-of>
@@ -282,7 +281,6 @@
         <xsl:value-of select="@id"></xsl:value-of>
       </xsl:attribute>
     </img>
-    </p>
     <p class="pic_label"><xsl:value-of select="label"></xsl:value-of></p>
     <p class="pic_caption"><xsl:value-of select="caption"></xsl:value-of></p>
   </xsl:template>
