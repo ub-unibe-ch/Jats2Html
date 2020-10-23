@@ -427,9 +427,20 @@ p.table, .table_right, .table_centered {
 	text-align:right;
 }
 
+img {
+    max-width: 100%;
+    min-width: 50%;
+    margin-top: 2ex;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
 p.pic {
 	text-align:center;
 	margin-top:15;
+	text-indent: 0em ;
 }
 
 p.pic_label {
@@ -468,7 +479,7 @@ ol.numbers {
 	list-style-type:decimal;
 }
 
-ol.alphabet {
+ol.alphabet {i
 	list-style-type:lower-latin;
 }
 
