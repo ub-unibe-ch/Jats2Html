@@ -135,7 +135,7 @@
   <xsl:template match="/article/body/sec/sec/label"/>
   <xsl:template match="/article/body/sec/sec/title"/>
   
-  <xsl:template match="/article/body/sec/sec/sec/title">
+  <xsl:template match="/article/body/sec/sec/sec">
     <h4>
       <xsl:if test="string(label)">
       <xsl:value-of select="label"/><xsl:text>&#x00A0;</xsl:text>
