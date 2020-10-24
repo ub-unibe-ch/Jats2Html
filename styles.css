@@ -8,7 +8,7 @@ body {
     line-height: 1.4;
     margin: 0 auto;
     padding: 0 3em 1em 3em;
-    max-width: 900px;
+    max-width: 1200px;
     }
 
 h1,
@@ -567,9 +567,9 @@ a.fn-back {
 /* The TOC */
 
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 1000px) {
 .toc {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
+    height: auto; /* Full-height would be 100% */
     width: 10%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
@@ -604,14 +604,30 @@ a.fn-back {
     padding: 0px 10px;
     width: 60%;
     margin-left: 20%;
+	margin-right: 20%;
 }
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .main, .toc {
     width: 100%;
     margin: 0;
   }
+}
+
+/* FN Sidebar */
+
+@media screen and (min-width: 1000px) {
+li.fn:target {
+	height: auto; /* Full-height would be 100% */
+    width: 10%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    /*  background-color: #111; /\* Black *\/*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 0px;
+    float: right;
 }
 
