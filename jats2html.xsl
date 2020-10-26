@@ -392,31 +392,20 @@
   <!-- back -->
   
   <xsl:template match="/article/back">
-    <div class="main">
+
       <xsl:apply-templates/>
-    </div>
+
   </xsl:template>
   
-  <xsl:template match="/article/front/article-meta/contrib-group/author-comment">
-    <div class="author-comment">
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>
+ 
 
 
   <xsl:template match="/article/back/fn-group">
-    <h2>
-      <xsl:attribute name="id">
-        <xsl:value-of select="@id"/>
-      </xsl:attribute>
-      <xsl:value-of select="/article/back/fn-group/title"/>
-    </h2>
-    <div class="author-comment">
-      <xsl:value-of select="/article/front/article-meta/contrib-group/author-comment"/>
-    </div>
+    <div class="fn-sidebar">
     <ol class="fn-group">
       <xsl:apply-templates/>
     </ol>
+    </div>
   </xsl:template>
 
   <xsl:template match="/article/back/fn-group/title"/>
@@ -430,24 +419,17 @@
     </li>
   </xsl:template>
 
-  <xsl:template match="/article/back/fn-group/fn/p[last()]" priority="1">
-    <p>
-      <xsl:apply-templates/>
-      <a class="fn-back">
-        <xsl:attribute name="href">
-          <xsl:text>#r</xsl:text>
-          <xsl:value-of select="../@id"/>
-        </xsl:attribute>&#11025;</a>
-    </p>
-  </xsl:template>
+
   
   <xsl:template match="/article/back/ref-list">
+    <div class="main">
     <h2>
       <xsl:attribute name="id">
         <xsl:value-of select="@id"/>
       </xsl:attribute>
       <xsl:value-of select="/article/back/ref-list/title"/>
     </h2>
+    </div>
     <div class="ref-list">
       <xsl:apply-templates/>
     </div>
@@ -459,9 +441,9 @@
    </xsl:template>-->
 
   <xsl:template match="/article/back/ref-list/ref">
-    <p>
+    <div class="main">
       <xsl:apply-templates/>
-    </p>
+    </div>
   </xsl:template>
 
   <xsl:template match="/article/back/ref-list/title"/>
