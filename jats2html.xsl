@@ -106,13 +106,17 @@
     </div>
     </div>
     <xsl:call-template name="toc-div"/>
-    <div class="main"><xsl:if test="string(article-meta/abstract)">
+    <div class="main"><xsl:if test="string(article-meta)">
       <div class="abstract">
         <i>
           <xsl:text>Abstract: </xsl:text>
         </i>
         <xsl:value-of select="article-meta/abstract"/>
-      </div>
+      <i>
+        <xsl:text>Author comment: </xsl:text>
+      </i>
+      <xsl:value-of select="article-meta/contrib-group/author-comment"/>
+    </div>
     </xsl:if></div>
   </xsl:template>
 
@@ -388,35 +392,27 @@
     </li>
   </xsl:template>
 
+  
+  
+  
+  
   <!-- end body -->
   <!-- back -->
   
-  <xsl:template match="/article/back">
-    <div class="main">
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>
   
-  <xsl:template match="/article/front/article-meta/contrib-group/author-comment">
-    <div class="author-comment">
+  <xsl:template match="/article/back">
+
       <xsl:apply-templates/>
-    </div>
+
   </xsl:template>
 
 
   <xsl:template match="/article/back/fn-group">
-    <h2>
-      <xsl:attribute name="id">
-        <xsl:value-of select="@id"/>
-      </xsl:attribute>
-      <xsl:value-of select="/article/back/fn-group/title"/>
-    </h2>
-    <div class="author-comment">
-      <xsl:value-of select="/article/front/article-meta/contrib-group/author-comment"/>
-    </div>
+    <div class="fn-sidebar">
     <ol class="fn-group">
       <xsl:apply-templates/>
     </ol>
+    </div>
   </xsl:template>
 
   <xsl:template match="/article/back/fn-group/title"/>
@@ -429,7 +425,7 @@
       <xsl:apply-templates/>
     </li>
   </xsl:template>
-
+  
   <xsl:template match="/article/back/fn-group/fn/p[last()]" priority="1">
     <p>
       <xsl:apply-templates/>
@@ -440,14 +436,18 @@
         </xsl:attribute>&#11025;</a>
     </p>
   </xsl:template>
+
+
   
   <xsl:template match="/article/back/ref-list">
+    <div class="main">
     <h2>
       <xsl:attribute name="id">
         <xsl:value-of select="@id"/>
       </xsl:attribute>
       <xsl:value-of select="/article/back/ref-list/title"/>
     </h2>
+    </div>
     <div class="ref-list">
       <xsl:apply-templates/>
     </div>
@@ -459,9 +459,9 @@
    </xsl:template>-->
 
   <xsl:template match="/article/back/ref-list/ref">
-    <p>
+    <div class="main">
       <xsl:apply-templates/>
-    </p>
+    </div>
   </xsl:template>
 
   <xsl:template match="/article/back/ref-list/title"/>

@@ -599,35 +599,42 @@ a.fn-back {
 }*/
 
 /* Style page content */
-.main {
-/*    margin-left: 280px; /\* Same as the width of the sidebar *\/*/
-    padding: 0px 10px;
-    width: 60%;
-    margin-left: 20%;
-	margin-right: 20%;
-}
-}
 
 
-@media screen and (max-width: 1000px) {
-  .main, .toc {
-    width: 100%;
-    margin: 0;
+@media screen and (min-width: 1000px) {	/* dreipaltiges Layout für grosse Viewports */ 
+  .toc {
+    float: left;
+	width: 10%;
+   
   }
+  .main {
+    min-width: 60%;  
+    margin-left: 15em;
+	margin-right: 10em;
+  }	
+
+  .fn-sidebar  {
+    float: right;
+	width: 10%;
+	visibility: hidden;
+	
+   
+  }  
 }
 
 /* FN Sidebar */
 
-/* @media screen and (min-width: 1000px) {
-li.fn:target {
+@media screen and (min-width: 1000px) {
+  li.fn:target {
 	height: auto; /* Full-height would be 100% */
     width: 10%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
+    top: 40%; /* Stay at the top */
     /*  background-color: #111; /\* Black *\/*/
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 0px;
+    overflow: visible; /* Disable horizontal scroll */
+    padding-top: 10px;
     float: right;
-} */
+	visibility: visible;
+	font-size: small;
+}
 
