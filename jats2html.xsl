@@ -13,6 +13,7 @@
           <xsl:value-of select="/article/front/article-meta/title-group/article-title"/>
         </title>
         <link rel="stylesheet" type="text/css" href="styles.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="tufte.css" media="screen"/>
       </head>
       <body>
           <xsl:apply-templates/>
@@ -112,6 +113,7 @@
           <xsl:text>Abstract: </xsl:text>
         </i>
         <xsl:value-of select="article-meta/abstract"/>
+        <br></br><br></br>
       <i>
         <xsl:text>Author comment: </xsl:text>
       </i>
@@ -209,21 +211,27 @@
         <xsl:value-of select="."/>
       </a>
     </xsl:if>
+    
+    
     <xsl:if test="@ref-type = 'fn'">
-      <sup>
-        <a class="xref-bibr">
-          <xsl:attribute name="href">
-            <xsl:text>#</xsl:text>
+      
+        <label class="margin-toggle sidenote-number">
+          <xsl:attribute name="for">
             <xsl:value-of select="@rid"/>
           </xsl:attribute>
-          <xsl:attribute name="id">
-            <xsl:text>r</xsl:text>
-            <xsl:value-of select="@rid"/>
-          </xsl:attribute>
-          <xsl:value-of select="."/>
-        </a>
-      </sup>
+        </label>
+     
+      <input class="margin-toggle">
+        <xsl:attribute name="id">
+          <xsl:value-of select="@rid"/>
+        </xsl:attribute> 
+        <xsl:attribute name="type">
+          <xsl:text>checkbox</xsl:text>
+          <!--<xsl:value-of select="@rid"/>-->
+        </xsl:attribute> 
+      </input>
     </xsl:if>
+    <span class="sidenote">This is a sidenote.</span>
   </xsl:template>
 
   <xsl:template match="//named-content">
