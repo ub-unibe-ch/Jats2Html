@@ -586,8 +586,8 @@ a.fn-back {
 
 @media screen and (min-width: 1000px) {
 .toc {
+    position: fixed;
     height: auto; /* Full-height would be 100% */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     margin: 0 auto;
@@ -595,6 +595,8 @@ a.fn-back {
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 0px;
     float: left;
+    width: 10%;
+    max-width: 230px;
 }
 
 /* The navigation menu links */
