@@ -88,6 +88,7 @@ a:hover {
     color: #000;
     text-decoration: underline;
     background: #E7FBF4;
+	
 }
 b,
 .bold {
@@ -586,7 +587,6 @@ a.fn-back {
 @media screen and (min-width: 1000px) {
 .toc {
     height: auto; /* Full-height would be 100% */
-    width: 10%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
