@@ -42,7 +42,6 @@
 
   <xsl:template name="toc-div">
     <div class="toc">
-      <h2>TOC</h2>
       <xsl:for-each select="//sec | //fn-group | //ref-list">
         <xsl:call-template name="heading-in-toc"/>
         <br/>

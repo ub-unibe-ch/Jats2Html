@@ -587,13 +587,12 @@ a.fn-back {
 @media screen and (min-width: 1000px) {
 .toc {
     position: fixed;
-    height: auto; /* Full-height would be 100% */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
-    margin: 0 auto;
-    /*  background-color: #111; /\* Black *\/*/
+    margin: 5em auto;
+    /*  background-color: #eee;*/
     overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 0px;
+    padding-top: 10px;
     float: left;
     width: 10%;
     max-width: 230px;
@@ -601,11 +600,16 @@ a.fn-back {
 
 /* The navigation menu links */
 .toc a {
-    padding: 0px 0px 0px 16px;
+    padding: 6px 8px 6px 16px;
     text-decoration: none;
-    color: #111;
+    color: #44bb91;
     display: block;
     font-size: small;
+}
+
+.toc a:hover {
+    font-weight: bold;
+    background-color: transparent;
 }
 
 .toc h2 {
