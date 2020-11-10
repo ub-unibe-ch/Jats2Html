@@ -42,7 +42,14 @@
 
   <xsl:template name="toc-div">
     <div class="toc">
-      <h2>Contents</h2>
+      <h2>
+        <xsl:if test="/article/@xml:lang='en'">
+          Contents
+        </xsl:if>
+        <xsl:if test="/article/@xml:lang='de'">
+          Inhalt
+        </xsl:if>
+      </h2>
       <xsl:for-each select="//sec | //fn-group | //ref-list">
         <xsl:call-template name="heading-in-toc"/>
         <br/>
