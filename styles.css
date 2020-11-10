@@ -581,37 +581,6 @@ a.fn-back {
 }
 
 
-/* The TOC */
-
-.toc {
-   
-    top: 0; /* Stay at the top */
-    margin: 3em auto;
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 1em;
-    padding-bottom: 1.5em;
-    float: center;
-}
-
-/* The navigation menu links */
-.toc a {
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-top:0.5em;
-    text-decoration: none;
-    color: black;
-    display: inline-block;
-}
-
-.toc a:hover {
-  color: #44bb91;
-  background-color: #eee;
-}
-
-
-.toc h2 {
-}
-
 @media screen and (min-width: 1000px) {
 .toc {
     position: fixed;
@@ -646,6 +615,7 @@ a.fn-back {
 
 
 .toc h2 {
+    display: none;
 }
 
 
@@ -666,5 +636,40 @@ a.fn-back {
     width: 100%;
     margin: 0;
   }
+  
+  /* The TOC */
+
+.toc {
+    top: 0; /* Stay at the top */
+    margin: 0em;
+    margin-top: 
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+/* The navigation menu links */
+.toc a {
+    padding-left: 0em;
+    padding-right: 1em;
+    padding-top:0.5em;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.toc a:hover {
+  color: #44bb91;
+  background-color: transparent;
+}
+
+.toc h2 {
+    margin-top: 0em;
+}
+
+div.abstract {
+    margin-bottom: 0em;
+}
+
 }
 

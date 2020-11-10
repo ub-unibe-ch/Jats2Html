@@ -42,6 +42,7 @@
 
   <xsl:template name="toc-div">
     <div class="toc">
+      <h2>Contents</h2>
       <xsl:for-each select="//sec | //fn-group | //ref-list">
         <xsl:call-template name="heading-in-toc"/>
         <br/>
@@ -104,7 +105,6 @@
       <br/>
     </div>
     </div>
-    <xsl:call-template name="toc-div"/>
     <div class="main"><xsl:if test="string(article-meta/abstract)">
       <div class="abstract">
         <i>
@@ -113,6 +113,7 @@
         <xsl:value-of select="article-meta/abstract"/>
       </div>
     </xsl:if></div>
+    <xsl:call-template name="toc-div"/>
   </xsl:template>
 
   <!-- end front -->
