@@ -8,7 +8,7 @@ body {
     line-height: 1.4;
     margin: 0 auto;
     padding: 0 3em 1em 3em;
-    max-width: 1200px;
+    max-width: 1400px;
     }
 
 h1,
@@ -589,44 +589,45 @@ a.fn-back {
     position: fixed;
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
-    margin: 5em auto;
-    /*  background-color: #eee;*/
+    margin: 3em auto;
+    background-color: #eee;
     overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 10px;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
     float: left;
-    width: 10%;
-    max-width: 230px;
+    width: 15em;
+    border-radius: 25px;
+    border: 0px solid #eee;
 }
 
 /* The navigation menu links */
 .toc a {
-    padding: 6px 8px 6px 16px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top:0.5em;
     text-decoration: none;
-    color: #44bb91;
-    display: block;
-    font-size: small;
+    color: black;
+    display: inline-block;
 }
 
 .toc a:hover {
-    font-weight: bold;
-    background-color: transparent;
+  color: #44bb91;
+  background-color: #eee;
 }
+
 
 .toc h2 {
 }
 
-/* When you mouse over the navigation links, change their color */
-/*.sidenav a:hover {
-  color: #f1f1f1;
-}*/
+
 
 /* Style page content */
 .main {
 /*    margin-left: 280px; /* Same as the width of the sidebar *\/*/
     padding: 0px 10px;
     width: 60%;
-    margin-left: 20%;
-	margin-right: 20%;
+    margin-left: 17em;
+	margin-right: auto;
 }
 }
 
