@@ -592,8 +592,9 @@ a.fn-back {
     margin: 3em auto;
     background-color: #eee;
     overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 1em;
     padding-bottom: 1.5em;
-	padding-left: 1.5em;
+	padding-left: 1em;
     float: left;
     width: 15em;
     border-radius: 25px;
