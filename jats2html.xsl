@@ -26,6 +26,7 @@
 
 
   <!-- toc -->
+  
   <xsl:template name="heading-in-toc">
     <a>
       <xsl:attribute name="href">
@@ -40,6 +41,11 @@
     </a>
   </xsl:template>
   
+  <!-- 
+    Das hier ist möglicherweise zu kompliziert.
+    man es sich sparen, wenn man jeweils den Titel bei der fn-group einträgt.
+    oder man baut ein prä-prozessor xsl...
+  -->
   <xsl:template name="fn-group-heading-in-toc">
     <a>
       <xsl:attribute name="href">
