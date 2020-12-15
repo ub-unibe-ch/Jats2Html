@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN"
+                  "JATS-publishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="de">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">JNDF</journal-id>
+<journal-title-group>
+<journal-title>Judaica: Neue digitale Folge</journal-title>
+<abbrev-journal-title>JNDF</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2673-4273</issn>
+<publisher>
+<publisher-name>Bern Open Publishing</publisher-name>
+<publisher-loc>Bern, Switzerland</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">https://doi.org/10.36950/jndf.1.5</article-id>
+<title-group>
+<article-title>Esters Handlungsmacht in männerdominierten Strukturen: Jüdischer Feminismus zwischen patriarchaler Tradition und neuer Lesart biblischer Texte</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Kaiser</surname>
+<given-names>Nora Luisa</given-names>
+</name>
+<email>nora.kaiser@posteo.ch</email>
+<aff>Universität Zürich</aff>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub">
+<month>10</month>
+<year>2020</year>
+</pub-date>
+<volume>1</volume>
+<permissions>
+<copyright-statement>Copyright © 2020, Nora Luisa Kaiser. This work is licensed under Creative Commons Attribution 4.0 International.</copyright-statement>
+<copyright-year>2020</copyright-year>
+<copyright-holder>Nora Luisa Kaiser</copyright-holder>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This work is licensed under Creative Commons Attribution 4.0 International.</license-p>
+</license>
+</permissions>
+<abstract>
+<p>This paper on the book of <italic>Esther</italic> takes up feminist literary criticism with a special emphasis on the concept of agency. It highlights concrete moments of empowerment of Queen Ester. Along the recognition that feminism always underscores the question of power, the figure of Ester is analyzed with regard to the notion of exile and in relation to Mordochai and the king Ahasveros. Where do we find moments of empowerment in this situation of heteronomy?</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Feministische Theorie, Jüdischer Feminismus, Agency</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="einleitung">
+  <label>1</label>
+  <title>Einleitung</title>
+    <disp-quote>
+      <p xml:lang="en">Being a feminist (religious) Jew in Israel is even more of a problem. Feminism is still an “F” word in Israel. To feminists in Israel, being a religious Jew (or identifying as a Jew rather than as an Israeli) is equated with sleeping with the enemy.<xref ref-type="fn" rid="fn1">1</xref></p>
+    </disp-quote>
+  <p>Wie Naomi Graetz in dem feministisch-jüdischen Werk <italic>Unlocking the Garden</italic> deutlich zur Sprache bringt, ist eine feministische Haltung mit der jüdischen Religion (in beide Richtungen) nicht ohne Weiteres vereinbar. Zum einen seien die religionsgemeinschaftlichen Strukturen und familiären Rahmenbedingungen bei vielen praktizierenden Jüdinnen und Juden eher traditionell patriarchalisch angelegt. Zum anderen würden feministische Haltungen mit modernen Werten gleichgesetzt, die oftmals verschränkt sind mit säkularen, traditions- und religionskritischen Anschauungen, was wiederum mit der jüdischen Religion (und weiteren Religionen) per se in einem Gegensatz steht. Gibt es Möglichkeiten, sich dennoch mit Feminismus innerhalb der jüdischen Religionstradition auseinanderzusetzen? Feminismus an sich leitet verschiedene Diskussionsthemen ein; im Zentrum steht oftmals die Umstrukturierung von Machtgefügen zwischen Männern und Frauen. Im Folgenden wird die Frage nach feministischen Betrachtungsansätzen am Text <italic>Ester</italic> und konkret an der Figur Ester untersucht.<xref ref-type="fn" rid="fn2">2</xref></p>
+  <p>Wo lassen sich Momente der Macht und Ohnmacht bei <italic>Ester</italic> erkennen? Diese Frage ist unweigerlich geknüpft an jene der Weiblichkeit und des Exils. Ohne die Betrachtung spezifisch unter einer feministischen Folie durchführen zu müssen, fällt auf: Eine der Hauptfiguren ist weiblich, und sie tritt aus der herkömmlichen Rolle der Frau in der hebräischen Bibel heraus, nämlich aus dem häuslichen Kontext als Ehefrau eines Juden. Es entsteht eine Dysbalance, da Ester durch die Heirat mit dem Perserkönig nicht mehr in die traditionelle Hierarchie der jüdischen Familie eingeordnet werden kann. Was bedeutet dieser Rollenwechsel für die Selbstbestimmung Esters? Wo lassen sich Momente der Befähigung einer weiblichen Figur im exilischen Umfeld festmachen? Der Umstand des Exils beeinflusst die gestellten Fragen massgeblich. Und nicht nur die Figur Ester ist davon betroffen, sondern das gesamte jüdische Volk im persischen Reich. Das Exil ist der Inbegriff der Machtlosigkeit, und dennoch lassen sich genau im Umfeld von Unterdrückung und Handlungseinschränkung interessante Mechanismen der Ermächtigung erkennen.</p>
+</sec>
+<sec id="jüdischer-feminismus-feministisches-judentum4">
+  <label>2</label>
+  <title>Jüdischer Feminismus – feministisches Judentum</title>
+    <disp-quote>
+      <p xml:lang="en">Feminism makes us suspect the authority of our texts, since we have been written out of the texts and we suspect that God was not necessarily speaking through those men who are responsible for a sexist type of Judaism. Yet the feminist Jew is very much in a relationship with Judaism—even if the relationship is acrimonious.<xref ref-type="fn" rid="fn4">4</xref></p>
+    </disp-quote>
+  <p>Feminismus und Judentum als zwei sich widersprechende Welten<xref ref-type="fn" rid="fn3">3</xref>: Feministische Werte verstünden sich nach Graetz als global angedachte Bindung zu Frauen und Gemeinschaft von Frauen, Judentum hingegen transportiere viel eher ein Bild der Abgrenzung von anderen Völkern und Religionsgemeinschaften.<xref ref-type="fn" rid="fn5">5</xref> Weiter sei die hierarchische und patriarchale Ordnung der jüdischen Gemeinschaft nur schwer zu vereinen mit einer feministischen Sichtweise. Wegweisend für den jüdischen Feminismus ist Judith Plaskows Lebenswerk, insbesondere die Publikation <italic>Standing Again at Sinai: Judaism from a Feminist Perspective</italic> aus dem Jahr 1991. Plaskow bemerkt, sich auf Simone de Beauvoirs Werk <italic>Das andere Geschlecht</italic> beziehend, dass weibliche Erfahrung nicht in die kulturelle Überlieferung des Judentums einfliessen konnte und so jegliche weibliche Erscheinung in der Schrifttradition durch Männer gestaltet ist. So geht auch auf Plaskow die Idee des <italic>Schweigens des weiblichen Judentums</italic> zurück, das zu brechen ist. Ausserdem schlägt sie einen grösseren Stellenwert der Theologie vor: Das Gesetz sei vorrangig behandelt und Theologie würde oftmals als unwichtig abgetan. Zwischen Theologie und religiöser Praxis bestünde eine sich gegenseitig verstärkende Beziehung, die bestehende Verhältnisse zementieren oder Paradigmenwechsel einleiten könne. „Solange Theologie als unwichtig abgetan wird, wird der Sexismus, wie er in bestimmten jüdischen Ideen eingebaut ist, durch die Vernachlässigung der Theologie unterstützt und begünstigt.“<xref ref-type="fn" rid="fn6">6</xref> Weitere Autorinnen treten stärker aus dem jüdischen Kosmos und betrachten das Judentum als eine religiöse und ethnische Gemeinschaft unter vielen. So stellen sie beispielsweise einen Vergleich zwischen jüdischer und weiblicher Erfahrung an; die beide über Jahrhunderte von Unterdrückung geprägt waren.<xref ref-type="fn" rid="fn7">7</xref> Hierbei fehlt jedoch die Bemerkung der doppelten Unterdrückung von jüdischen Frauen, die zum einen innerhalb ihrer Gemeinschaft von Männern dominiert werden und zum anderen unter dem weit verbreiteten und über Jahrhunderte präsenten Judenhass und Antijudaismus leiden. Feminismus wird von den meisten jüdischen Autorinnen und auch in vorliegender Arbeit nicht unter denselben radikalen Prämissen verhandelt, wie dies einschlägige Autorinnen der Disziplin ohne religiöses Bekenntnis – allen voran Simone de Beauvoir und später Judith Butler – machen: Butler spricht sich für die Entkoppelung einer binären Geschlechtsidee und für die Anerkennung des konstruierten Geschlechts auf sozialer, psychischer und physischer Ebene aus. Allein aufgrund des Quellentextes <italic>Ester</italic>, der klare Geschlechtsgrenzen setzt, kann die Perspektive im vorliegenden Rahmen kaum berücksichtigt werden. Für jüdische Feministinnen scheint das Festhalten an der Gemeinschaft und an religiösen Überzeugungen nach einem gemässigteren Umgang und Formulierungen innerhalb des überhaupt verhandelbaren Spektrums zu verlangen.<xref ref-type="fn" rid="fn8">8</xref> Dass ebendieses Spektrum nicht festgeschrieben ist und im Zuge gegenseitiger Handlungen und damit auch Machtausübung immer wieder neu beschrieben werden kann, muss hervorgehoben werden und ist eine wichtige Hypothese der vorliegenden Analyse. Wo sich diese Grenze befindet, trägt entscheidend zur Definition von Zugehörigkeit und Ausschluss bei. So können soziale Aspekte der Glaubensgemeinschaft nicht unbeachtet bleiben. Jüdische Feministinnen<xref ref-type="fn" rid="fn9">9</xref> können kaum als Schreibtischtäterinnen agieren, die Auswirkung auf gemeinschaftliche Aushandlungsmechanismen scheinen unweigerlich mit der Forschung verknüpft. Die Vereinigung <italic>Feminist Studies in Religion</italic> wird neben namhaften Exponentinnen aus der christlichen und islamischen Theologie sowie der Religionswissenschaft auch von prominenten Judaistinnen getragen. Das <italic>Journal of Feminist Studies in Religion</italic>, „the oldest interdisciplinary, inter-religious feminist academic journal in religious studies“,<xref ref-type="fn" rid="fn10">10</xref> wurde von Plaskow mitgegründet. Während sich dieser Feminismus in erster Linie auf dem akademischen Feld bewegt, fliesst er andernorts direkter in das jüdische Leben ein. Die <italic>Jewish Orthodox Feminist Alliance</italic> (JOFA) ist eine institutionalisierte Akteurin, die die enge Verschränkung von lebensweltlichen Fragen und religiöser Tradition von Jüdinnen anerkennt und in einen feministischen Kontext hebt. In folgendem Satz auf der Website der JOFA wird indes klar, dass für praktizierende Jüdinnen die Ebenen von Texttradition, Ritualen und Alltag nicht ohne Weiteres voneinander getrennt werden können: „Whether you’re looking to find gender inclusive prayer services, ways to empower your Purim practices, or you want to borrow a Torah for a special occasion, JOFA has you covered.“<xref ref-type="fn" rid="fn11">11</xref> Der Verweis auf Purim zeigt die Relevanz des Buchs <italic>Ester</italic> und die der damit verbundenen Rituale für den jüdischen Feminismus auf. Die Organisation <italic>Bet Debora Jewish Women’s Perspectives</italic> nennt ihr Wirken nicht direkt feministisch, sondern öffnet den Blick allgemeiner auf ,jüdische Frauen‘.<xref ref-type="fn" rid="fn12">12</xref> Beim genaueren Hinsehen werden an Tagungen von Bet Debora klassische feministische Themen verhandelt wie die Verteilung von Macht und Frauenfiguren in der Geschichte und religiöser Tradition. Netzwerke scheinen für jüdischen Feminismus von grosser Bedeutung zu sein. Dies ist beispielsweise auch am <italic>Jewish Women’s Archive</italic> gut ersichtlich: Die auf der Seite publizierten Beiträge dienen nicht nur der Information, sondern auch dem Austausch zwischen jüdischen Frauen auf der ganzen Welt. Hierbei lässt sich beobachten, dass die publizierten Artikel rege kommentiert werden und teils die Botschaft der weiblichen Ermächtigung (abseits von Wissenschaftlichkeit) in sich tragen, wie folgendes Zitat der Userin Bethasda illustriert:</p>
+    <disp-quote>
+      <p xml:lang="en">The book of Esther is an important one for the voice and story of women. She was strong and used all she had to make a difference in her people’s lives. Women were not equal as they are in today’s times and I feel that she was so courageous! She put her life on the line for her beliefs! Even if the story is fiction…it says something about society’s view of women at the time and where it was headed in the future. That’s our story ladies!<xref ref-type="fn" rid="fn13">13</xref></p>
+    </disp-quote>
+  <p>Judentum kann ohne Texttradition weder gedacht noch gelebt werden. Die Implementierung einer feministischen Lesart in die Texttradition nimmt einen wichtigen Stellenwert für das feministische Judentum ein. Judith Baskin bemerkt über die rabbinische Literatur:</p>
+    <disp-quote>
+      <p xml:lang="en">Highly edited over many centuries, this multivocal literature was created by men whose personal piety, individual experiences of the world, and vivid imaginations shaped an idealized social order which often had scant connection to the actual realities of Jewish life in the environments in which they lived.</p>
+      <p xml:lang="en">Rabbinic views about women are as varied as rabbinic opinions on other subjects, but they rest on the conviction of women’s essential otherness from men. The Talmudic statement that “women are a separate people” (B. Shabbat 62a) conveys the basic rabbinic conviction that females are human entities creates by God with physical characteristics, human qualities, and social functions inherently dissimilar from those of males.<xref ref-type="fn" rid="fn14">14</xref></p>
+    </disp-quote>
+  <p>Auch wenn die Perspektiven auf die Geschlechter schon immer vielfältig waren, täuscht dies nicht über den Umstand hinweg, dass sie in erster Linie durch einen männlichen Blick geprägt sind. Da die rabbinische Literatur an sich schon verschiedene Kontroversen bietet, scheint ein kritischer Umgang hier weniger problematisch als hinsichtlich des Tanachs. Die Etablierung einer neuen Lesart religiöser Texte und die Forderung, Allgemeingültigkeiten grundlegend zu hinterfragen, ist eine zentrale Forderung jüdischer Feministinnen. Rechtfertigungen und Vergleiche mit anderen Traditionen, die noch sexistischer und/oder patriarchaler sind, oder historische Relativierung hingegen könnten zu Akzeptanz der bisherigen Haltungen führen und seien wenig wünschenswert.<xref ref-type="fn" rid="fn15">15</xref> Dass der Tanach patriarchal ist, sei auch für jüdische Feministinnen ein tiefgreifendes Eingeständnis.<xref ref-type="fn" rid="fn16">16</xref> Nach Graetz gibt es drei Ansätze, im 21. Jahrhundert biblische Texte zu lesen: (i) Die Tora als Äusserung des Willen Gottes anerkennen. Hierbei stelle sich die Frage, wie mit Passagen über Missbrauch von Frauen umzugehen sei. (ii) Die anthropologische Annäherung anerkennt die Tora als Menschenwerk, das im sozio-historischen Kontext gelesen und gedeutet werden müsse. Wenn Textstellen weibliches Unvermögen darstellen, sollen diese radikal überdacht und geändert werden. (iii) Die feministische Annäherung ist darin bestrebt, die Texttradition zu respektieren, suche aber nach noch nicht entdeckten Leseweisen, die dem heutigen feministischen Verständnis eher entsprächen als die bisherigen Interpretationen.<xref ref-type="fn" rid="fn17">17</xref> Graetz bedient sich unter anderem der Sichtweise der Literaturwissenschaftlerin und Feministin Judith Fetterley und deren Werk <italic>The Resisting Reader: A Feminist Approach to American Fiction</italic>.<xref ref-type="fn" rid="fn18">18</xref> Graetz adaptiert die Sichtweise auf profane Literatur für das Bibelstudium:</p>
+    <disp-quote>
+      <p xml:lang="en">This leads to feminists approaching the Bible critically as a “resisting reader rather than an assenting reader and, by this refusal to assent, to begin the process of exorcising the male mind that has been implanted in us.”<xref ref-type="fn" rid="fn19">19</xref></p>
+    </disp-quote>
+  <p>Die Bibel anti-patriarchal und anti-hierarchisch zu lesen, bedeute, die traditionelle Bibellektüre zu verwerfen. Mit dieser Praxis würden Leerstellen im Text entdeckt: Frauen, die nicht erwähnt werden, und Frauen, deren Namen nicht genannt sind, kämen zum Vorschein.<xref ref-type="fn" rid="fn20">20</xref> Die Rolle der Frau in der Bibel soll in einer feministischen Lesart ganzheitlich hinterfragt werden. „Women are often expected to make self-sacrifice and to live for others. In addition they are often cast in the roles of immigrants and displaced persons who follow their husbands; victims of abuse: rape; incest, neglect.“<xref ref-type="fn" rid="fn21">21</xref> Oftmals würden Frauen in einer feministischen Lesart Rollenmodelle zugeschrieben, sowohl positive als auch negative. Ester bedient hierbei ein ambivalentes Rollenbild, je nach Perspektive gilt sie als Heldin oder Abtrünnige. Eine typisch ‚weibliche‘ Handlungsmöglichkeit innerhalb von Machtpositionen, sei das Bedienen von <italic>List</italic>. Dabei handle die Frau jedoch meist auf einer moralisch umstrittenen Ebene.<xref ref-type="fn" rid="fn22">22</xref> Aber auch ebendiese moralischen Richtlinien können als Produkt männlicher Ausformulierung erachtet werden.</p>
+</sec>
+<sec id="feministische-ansätze-in-der-ester-forschung">
+  <label>3</label>
+  <title>Feministische Ansätze in der Ester-Forschung</title>
+  <p>Eine Sicht auf <italic>Ester</italic> bleibt im weitesten Sinne innerhalb der traditionellen Annahmen von biologischem und kulturellem Geschlecht. Anstatt die Determinierung von Esters Geschlecht zu hinterfragen und Butler folgend zu betrachten, inwiefern ihre Weiblichkeit konstruiert ist, geht vorliegende Analyse von gesetzten Geschlechtsgrenzen aus. Diese Geschlechtsgrenzen äussern sich zum einen im biologischen Geschlecht, nämlich wie der Körper konstituiert ist und so in die Kategorien weiblich, männlich und in ein drittes Geschlecht eingeteilt werden.<xref ref-type="fn" rid="fn23">23</xref> Zum anderen äussert sich das Geschlecht als das Konzept <italic>Gender</italic>, das hier als identisch zum biologischen Geschlecht dargestellt wird. Auf dieser Kategorisierung der Geschlechter baut sowohl die Erzählung als auch deren Rezeption zu einem beachtlichen Teil auf.</p>
+  <p>Die feministische Sozialwissenschaftlerin Elizabeth Janeway führt in <italic>On the Power of the Weak</italic> aus, inwiefern Machtverhältnisse meist auch das Geschlechterverhältnis tangieren. Dabei erklärt sie, dass mit Macht unter anderem Autorität, Dominanz und Handlungsfreiheit assoziiert werde. In der machtvollen Position zu sein, hiesse aber auch, diese verteidigen zu müssen. Und damit sei eine Angst vor den Machtlosen verbunden, welche die dominante Position der Mächtigen entweder erhalten und erneuern oder abbauen, falls die Möglichkeit dazu besteht. Die Position der Machtvollen sei ständig Gefahren ausgesetzt, die diese Position und damit auch den Machtgrad abschwächen könnten. Janeway zählt zwar einzelne machtvolle Frauen auf, insgesamt seien Frauen jedoch meist in der Rolle der Schwachen, was ihnen wiederum zur Erlangung von Überlebenstechniken verholfen habe.<xref ref-type="fn" rid="fn24">24</xref> Sindie Ann White nimmt diesen Ansatz für eine Interpretation von <italic>Ester</italic> auf, auch hinsichtlich der schwachen Position des jüdischen Volkes im Exil.<xref ref-type="fn" rid="fn25">25</xref> Eine weitere feministische Autorin ohne religiöse Positionierung, die White zitiert, ist Carol Gilligan. Deren Buch <italic>In a Different Voice</italic> liefere insbesondere neue Betrachtungsvorschläge, inwiefern sich Frauen beziehungsweise Männer innerhalb einer Gesellschaft sozial orientieren. Während sich Männer sozial über ihre Position identifizieren, seien bei Frauen viel eher Beziehungen für die soziale Identifikation relevant, was White auch bei Ester bestätigt sehe.<xref ref-type="fn" rid="fn26">26</xref></p>
+  <p>Die jüdische Lesart von <italic>Ester</italic> unterscheidet sich von christlicher oder bekenntnisneutraler in der Performativität der Texte in der Liturgie. Der Text ist im jüdischen Umfeld unweigerlich mit den Festivitäten rund um das Purimfest verbunden, wodurch der Text eine andere Aktualisierung erfährt als in der christlichen Tradition. Der Aspekt der Performativität wird im letzten Kapitel kurz ausgeführt.</p>
+    <disp-quote>
+      <p xml:lang="en">The savior figure at the end of biblical history is Esther, another marginal figure. She was a Jew living in exile who became queen of Persia and used her royal connections to foil the villain Haman’s plot to destroy Persia’s Jews. These women, who conquered mighty enemies by their wits and daring, were symbolic representations of the people and pointed to the salvation of Israel.<xref ref-type="fn" rid="fn27">27</xref></p>
+    </disp-quote>
+  <p><italic>Ester</italic> bietet an sich bereits viel Stoff für eine feministische Bearbeitung an. Im Gegensatz zu anderen biblischen Texten ist die Präsenz von Weiblichkeit bereits im Text explizit genannt. Graetz fragt nämlich im Kontext anderer Bibelabschnitte nach Möglichkeiten, das weibliche Moment überhaupt erst in den Text einzuführen, wenn dieses gänzlich absent ist. Ebenso werden oftmals keine Eigennamen von Frauen genannt.<xref ref-type="fn" rid="fn28">28</xref> Bei <italic>Ester</italic> hingegen scheint es feministischen Leserinnen um eine Rehabilitation der Figur Ester zu gehen. So wird verschiedentlich aufgeführt, wie Ester bei vielen nicht-feministischen Interpretinnen und Interpreten in Mordochais Schatten zu stehen hat, insofern sie ihm die Rettung des jüdischen Volkes im Exil anrechnen. Möglicherweise ist genau die Ambivalenz für eine feministische Betrachtung so ergiebig; Ester ist nicht die hörige Ehefrau eines verdienstvollen Juden – sie steht gewissermassen für sich allein. Rachel Adelman folgt dem Ansatz Baskins, Graetz’ und vielen weiteren in der Etablierung eines neuen, feministischen Lesens der biblischen Texte und nähert sich so <italic>Ester</italic>:</p>
+    <disp-quote>
+      <p xml:lang="en">In this reading, I draw on the insights of rabbinic midrash—a method of filling in gaps in the biblical text that is over two millennia old; characters can be hyperbolically valorized or demonized and ironies made explicit, as they are pitched at sharper angles. The rabbis, however, had their own agenda with respect to the MT of the Esther scroll—preoccupation with assimilation, the absence of divine providence, the dearth of prayer and Jewish practice—and thus felt compelled to fill in the lacunae in the biblical text for their own purposes.<xref ref-type="fn" rid="fn29">29</xref></p>
+    </disp-quote>
+  <p>Leila Leah Bronner fasst zusammen, dass die rabbinischen Quellen Esters Macht und Autorität durchaus anerkennen würden. Es sei gar eine Bemühung in der Midraschliteratur zu erkennen, Ester eine starke jüdische Identität zuzuschreiben, was im Text nicht explizit gegeben ist.<xref ref-type="fn" rid="fn30">30</xref> Ester sei eine der einzigen weiblichen Figuren, deren Macht (Bronner verwendet den Begriff <italic>leadership</italic>, also Führung) unkritisch akzeptiert werde. Die Weiblichkeit werde in den Ausführungen in Talmud und Midrasch stark betont, die Sexualität hervorgehoben und der Ton sei erotisch gefärbt. „Her physical beauty makes her the object of a king’s desire, and it leads to her ability to save her nation.“<xref ref-type="fn" rid="fn31">31</xref> Dies zeigt auf, dass die Figur Ester durchaus gelobt wird, jedoch bewegen sich die Gründe und Argumentationen auf einer anderen Ebene als bei männlichen Helden biblischer Texte. Aufgrund von aussergewöhnlicher Schönheit zu einer wichtigen biblischen Frau zu werden, bestätigt das patriarchale Moment: Die Frau wird durch diese Haltung versachlicht, ihre Identität als Subjekt wird weniger gut erkennbar.</p>
+  <p>In den 1960-er Jahren führt Shemaryahu Talmon den Ansatz ein, dass <italic>Ester</italic> hinsichtlich der Textsorte ein <italic>wisdom-tale</italic> sei, also ein Märchen, das die Weisheit des Protagonisten – Mordochai – ins Zentrum rücke. Indem Talmon ein Dreieck mit (i) dem mächtigen, aber dummen König Ahasveros, (ii) dem rechtschaffenen Weisen Mordochai und (iii) dem Intriganten Haman aufzeigt, entledigt er Ester kurzum jeglicher Macht und Wertschätzung.<xref ref-type="fn" rid="fn32">32</xref> Diese Analyse wird unter anderem von White in ironischem Ton rezipiert, die Ester wieder ins Zentrum der Betrachtung rückt.<xref ref-type="fn" rid="fn33">33</xref> Weiter weist Talmon auf eine Parallele zwischen Ester und Joseph hin, die ebenfalls verschiedentlich aufgenommen wird.<xref ref-type="fn" rid="fn34">34</xref> Adelman beispielsweise bietet mit <italic>‘Passing Strange’: Gender Crossing in the Story of Joseph and Esther</italic> ausführliche Überlegungen, inwiefern Joseph und Ester ihr soziales und kulturelles Geschlecht <italic>Gender</italic> je nach Situation ändern. Deren Aufenthalt am Hof eines (fremden) Königs, die Schönheit beider, den wichtigen Aspekt der gender-konstituierenden Kleidung und weitere Punkte greift sie hierfür auf; so hätten sowohl Ester als auch Joseph weibliche Eigenschaften hinsichtlich ihrer aussergewöhnlichen Schönheit, sobald Ester jedoch aus der Passivität (der Schönheit) tritt und handelt, erhalte sie eine maskuline Note. Somit verbindet Adelman Aktivität – oder Befähigung – mit Männlichkeit.<xref ref-type="fn" rid="fn35">35</xref></p>
+  <p>Auch die christlich-theologische Rezeption stellt die Figur Ester verschiedentlich in den Schatten Mordochais und identifiziert diesen als den wahren Helden der Erzählung. Carey A. Moore deutet die umstrittene Stellung von <italic>Ester</italic> im biblischen Kanon unter anderem damit, dass Ester nicht zu den ehrenvollen Jüdinnen gehöre: „[S]he failed to observe the laws of <italic>kašrût</italic> and was evidently at first not willing to help her own people. (In the Hebrew version, at least, Ester seems to be Jewish in a sense more ethnic than religious.)“<xref ref-type="fn" rid="fn36">36</xref> Moore sieht in Ester lediglich eine Figur, die Mordochais Befehle ausführt.<xref ref-type="fn" rid="fn37">37</xref> Neben Moore gibt es weitere Theologen und Theologinnen, die diesem Interpretationsstrang folgen. Erstaunlich ist, dass die Figur Ester in der christlichen Theologie offenbar stärker kritisiert wird als in der jüdischen Rezeption (wo sie teils eher ignoriert als kritisiert wird); die christlichen Argumente beziehen sich dabei immer wieder auf jüdische Gesetze und Werte. Im Kommentar der Zürcher Bibel wiederum wird Ester durchaus in den Mittelpunkt gerückt und gewürdigt:</p>
+  <disp-quote>
+    <p>Das Buch Ester erzählt vom Aufstieg der Jüdin Ester zur persischen Königin und von ihrem mutigen Verhalten, durch das die Juden in der Fremde vor der Vernichtung gerettet werden. Neben Rut ist Ester die einzige Frauengestalt im hebräischen Alten Testament, nach der ein ganzes Buch benannt ist.<xref ref-type="fn" rid="fn38">38</xref></p>
+  </disp-quote>
+  <p>Im Zuge feministischer Autorinnen wird die Wertschätzung für die Figur Ester betont und in einen Gender-Diskurs gehoben. Wegweisend für den feministischen Blick auf die Bibel ist Elisabeth Schüssler Fiorenzas Lebenswerk. Schüssler Fiorenza schlägt eine Brücke zum Judentum und spricht sich gegen Antijudaismus aus:</p>
+  <disp-quote>
+    <p>Vielmehr muss christlich-feministische Forschung das frühe Christentum und das frühe Judentum in einer Art und Weise konzipieren, dass sie Frauen und marginalisierte Männer als zentrale AgentInnen, die die christlichen und jüdischen Anfänge bestimmt haben, sichtbar machen kann. Dazu ist eine Neubewertung der theologischen Rahmenvorstellungen erforderlich, die christlichen Antijudaismus als linke Hand der Christologie und göttliche Männlichkeit als ihre rechte Hand produziert haben.<xref ref-type="fn" rid="fn39">39</xref></p>
+  </disp-quote>
+  <p>So eignet sich White den Blick Schüssler Fiorenzas an, um <italic>Ester</italic> abseits vom gängigen Androzentrismus kritisch-feministisch zu lesen. White nimmt dabei Bezug auf diverse einschlägige Beiträge zu <italic>Ester</italic> und versucht, die Stellung der Figur Ester ganzheitlich zu rehabilitieren. Esters Eigenschaften seien weiblich – möglicherweise ist dies ihr einziger Fehler, weshalb andere Rezipienten und Rezipientinnen die Figur nicht wertschätzen. Nach White vertrete die Figur jedoch ein Erfolgsmodell für eine erfolgreiche Lebensführung im unsicheren Exil.<xref ref-type="fn" rid="fn40">40</xref> Rebecca S. Hancock ergründet die Rolle der Räumlichkeit hinsichtlich der Geschlechter und wo die weibliche Autorität festgemacht werden kann: Indem Ester sich dem König unaufgefordert nähert, überquert sie räumliche Linien, die nicht nur anhand des Status, sondern auch anhand des Geschlechts formuliert werden.<xref ref-type="fn" rid="fn41">41</xref> Weiter vergleicht Hancock Ester mit persischen Königinnen und deren Geschlechterstereotypen, und im Kapitel „Esther the Politician“ liegt der Fokus auf der Beratungstätigkeit Esters und ihrem Handeln in der Öffentlichkeit.<xref ref-type="fn" rid="fn42">42</xref></p>
+</sec>
+<sec id="ester-zwischen-unterdrückung-und-ermächtigung">
+  <label>4</label>
+  <title>Ester zwischen Unterdrückung und Ermächtigung</title>
+  <p>Aus vielen Beiträgen geht hervor, dass die Figur Ester an sich eine wirkungsschwache Person darstellt. Die junge Frau wird aus der Obhut Mordochais in jene des Königs gereicht, wodurch sie – vom jüdischen Waisenkind zur Königsgemahlin – einen bemerkenswerten Aufstieg vollzieht. Jedoch ist ihr Umfeld so stark patriarchal geprägt, dass ihr dadurch keine direkte Macht zuteilwird. Sie bleibt als Frau ein fremdbestimmtes Objekt, das sich nach patriarchalen Regeln zu verhalten hat. Die Machtlosigkeit ergibt sich zweifach aus dem Geschlecht. Sex und Gender überschneiden sich hinsichtlich des Aufenthalts im Harem, wo sie räumlich abgeschottet ist: (1.) von der Gesellschaft insgesamt und (2.) von den Männern innerhalb des Palasts. Aufgrund ihres biologischen und sozialen Geschlechts werden ihr kaum Möglichkeiten der Selbstbestimmung zuteil. Der Eunuch Hagai entscheidet über ihre Körperpflege und ihr äusserliches Auftreten. Weiter ergibt sich eine zweischichtige Machtlosigkeit aus ihrer Herkunft. Zum einen ist der Umstand, dass sie ihre wahre Identität nicht preisgeben darf, ein Indiz für Machlosigkeit. Sie wird nur zur Königin, indem sie sich eine Maske auflegt, und sie bleibt in einer prekären Lage, weil ein Ablegen der Maske schwerwiegende Konsequenzen haben könnte. Zum anderen gehört sie dem jüdischen Volk an, das im Exil einen tiefen Status hat und aufgrund der Fremdherrschaft mit ständiger Machtlosigkeit konfrontiert ist. In der Konstellation der sie umgebenden Menschen gehört Ester je nach Kontext zur subalternen Gruppe, obwohl sie die Königin ist.<xref ref-type="fn" rid="fn43">43</xref> Im biblischen Text wird Esters sozialer Aufstieg zum einen mit ihrer Schönheit erklärt, zum anderen sei sie im Wettbewerb aufgrund ihrer Beliebtheit beim Eunuchen so weit gekommen, der sie nach den Vorlieben des Königs pflegt und kleidet. Ester wird somit als Objekt der Begierde gehandelt, aber auch als sozialer Faktor, der zufällig zustande kommt. Eine Stimme erhält Ester erst später, im ersten Teil der Erzählung spricht sie nicht. Im Folgenden soll die These näher geprüft werden, dass die Macht Esters nicht in ihrer Stellung als Königin zu finden ist, sondern einzig in ihren Handlungen. Dies ist eng verschränkt mit der Frage, wie Macht bei <italic>Ester</italic> definiert werden kann. Die Verwendung des Begriffs Macht ist je nach Gesichtspunkt unterschiedlich zu beurteilen: Versteht sich unter der Macht Esters die (mögliche) Autonomie als Frau oder ist ihr Erfolg zur Rettung des Volkes ein Machtmoment?</p>
+  <sec id="agency">
+    <label>4.1 </label>
+    <title>Agency</title>
+    <p>Unter dem Konzept <italic>Agency</italic> finden sich unterschiedliche Herangehensweisen und Betrachtungsspektren, meist sozialwissenschaftlicher Ausrichtung. Agency findet sich interdisziplinär beispielsweise in Untersuchungen linguistischer Ausrichtung, in den Gender Studies und in der historischen Forschung. Die Grunddefinition von Agency ist die Fähigkeit, als selbstbestimmtes Subjekt zu handeln; der Grad dieser Fähigkeit wird demnach über die soziale Stellung bestimmt. Gelegentlich wird Agency auch mit <italic>Ermächtigung</italic> übersetzt. Der Anthropologe Paul Kockelman zieht folgenden Schluss zu Agency: Je grösser die Handlungsfähigkeit eines Subjektes ist, desto grösser ist die Verantwortung über sein Handeln. Anhand des Spielraums der jeweiligen Agency kann das Maß an Flexibilität, Verantwortung, Wissen, Macht, Bewusstsein und Berechnung bestimmt werden. Kockelman unterscheidet, in Anlehnung an Michel Foucaults <italic>savoir</italic> und <italic>pouvoir</italic>, zwischen <italic>residental agency</italic>, der Macht über Prozesse, und <italic>representational agency</italic>, dem Wissen über Prozesse.<xref ref-type="fn" rid="fn44">44</xref> Unter einer Agency-Folie scheinen in der Betrachtung auf schwache Subjekte neue Facetten sichtbar zu werden, so findet sich dieses Konzept oftmals rund um Fragestellungen der Emanzipation von sozial schwächeren Personen einer Gesellschaft (meist Frauen, Menschen mit körperlicher und geistiger Behinderung oder Menschen mit von der Norm abweichender sexueller Orientierung). Sumi Madhok, Anne Phillips und Kalpana Wilson suchen nach solchen Emanzipationsmomenten bei Frauen, indem sie Kritik üben an der Sichtweise, dass eine Frau bei der Heirat in den Besitz des Ehemannes übergeht und sich damit auch ihre Agency in der seinen auflöst.<xref ref-type="fn" rid="fn45">45</xref> Der stärker aus der Philosophie und Politikwissenschaft geprägte Begriff der Autonomie entspräche zwar auf weiten Strecken dem Konzept von Agency, jedoch sei Autonomie grösser angelegt, beinhalte beispielsweise Selbstkontrolle des Subjekts, was bei Agency nicht immer der Fall ist. Weiter sei Autonomie stärker mit einer Wertung verknüpft: Autonomie sei eher mit einer positiven Zuschreibung verknüpft als Agency.<xref ref-type="fn" rid="fn46">46</xref></p>
+    <p>Agency ist hinsichtlich der Betrachtung von Machtkonzeptionen besonders fruchtbar: Sowohl Foucault als auch Butler verstehen Macht als Konstrukt aus Handlungen (vollzogen von Subjekten oder Gruppen), die Subjekte selbst besitzen per se keine Macht. Das ständige Handeln und Wiederholen ebendieser Handlungen festige oder verändere herrschende Machtkonstellationen. Aus wiederholenden Handlungen als <italic>artikulatorische Praxis</italic> entstünden wiederum Normen.<xref ref-type="fn" rid="fn47">47</xref> Wer hierbei aufgrund einer tiefen hierarchischen Stellung an dieser Praxis nur passiv teilnehmen kann, ist machtlos; die aktive Teilnahme wiederum kann als Agency oder gar als <italic>Empowerment</italic> benannt werden. Der Begriff Befähigung ist ebenfalls passend im Kontext von Agency, indem er die erlangte Fähigkeit zum Handeln beschreibt. Ermächtigung setzt den Akzent stärker auf die Machtergreifung.</p>
+  </sec>
+  <sec id="handeln-innerhalb-fremder-und-eigener-machtstrukturen">
+    <label>4.2 </label>
+    <title>Handeln innerhalb fremder und eigener Machtstrukturen</title>
+    <p>Wenn nun Macht durch Handlungen konstruiert wird, so müssen wir bei <italic>Ester</italic> nach handelnden Subjekten Ausschau halten. Durch die Umsiedlung des jüdischen Volkes ins babylonische Exil wird die Macht des persischen Königs Ahasveros über das jüdische Volk gefestigt: Die Handlungsmöglichkeiten des Machthabers werden ausgeweitet, er kann über das jüdische Volk verfügen, dessen Handlungsmöglichkeiten stark eingeschränkt werden. Die beschriebene Gesellschaftsordnung scheint eine klare und strenge Hierarchie nach monarchischem Muster zu generieren; die Ernennung von Titeln, das Zeigen von Symbolen wie dem königlichen Kopfschmuck und das Ausrichten von Festen wirken hierfür festigend. Neben der Grenze zwischen Heimat und Exil verläuft eine weitere Grenze zwischen Privatem und Öffentlichem. Gender spielt hierbei eine Rolle, da nur Männern das Handeln in der Öffentlichkeit zugerechnet wird. Ester wird erst durch das Hervortreten in einen anderen räumlichen Kontext, der stärker von der Öffentlichkeit geprägt ist, überhaupt erst sicht- und erzählbar. Obwohl sie im königlichen Hof räumlich stark abgetrennt ist von der Außenwelt, gibt es Kommunikationsmöglichkeiten nach aussen, woraus Handlungsmöglichkeiten entstehen und die Machtdynamik mitbestimmt wird.<xref ref-type="fn" rid="fn48">48</xref></p>
+    <p>Weiter gibt es einige Hinweise, wie die Stellung von sozialem und biologischem Geschlecht festgesetzt wird. Die Weigerung Waschtis, sich vor dem König und den Fürsten zu zeigen, wird als Verfehlung gegen alle (Männer) beschrieben: gegen den König, die Fürsten, „gegen alle Völker, die in allen Provinzen des Königs Xerxes sind“.<xref ref-type="fn" rid="fn49">49</xref> Bea Wyler verweist auf den Befehl, das Schreiben in die Provinzen für jedes Volk in ihrer eigenen Sprache und Schrift zu senden: „[J]eder Mann müsse das Sagen haben in seinem Haus und dabei befehlen können in der Sprache seines Volkes.“<xref ref-type="fn" rid="fn50">50</xref> Nach Wyler werden über die Sprache als Machtinstrument die Frauen zum Schweigen gebracht; die Macht des babylonischen Reichs bestehe vollständig aus männlicher Macht und gehe auf die Untertanen über, die aufgerufen werden ihre Frauen zu unterdrücken.<xref ref-type="fn" rid="fn51">51</xref> Hierbei wird deutlich, wie wichtig die Wiederholung von festgeschriebenen Handlungen zum Machterhalt für die herrschende Gruppe ist. Als Folge der Ermächtigung Waschtis, sich der Ordnung zu entziehen und nicht mehr nach ihr zu handeln, wird ihr zur Strafe jegliche institutionalisierte Macht entzogen. In der Erzählung wird darauf die oben genannte Anordnung erlassen, die gebietet, dass alle Frauen im Reich ihren Männern zu dienen haben. Die eingeschränkte Handlungsmacht der Frauen muss aufgrund des Verstosses von Waschti erneuert und betont werden. Die mindere Stellung der Frau wird in diesem Kontext zudem sprachlich akzentuiert, indem eine Betonung auf dem Aussehen der Frauen liegt; der weibliche Körper hat die Funktion, dem König zu gefallen und wird seiner Handlungsmöglichkeiten beraubt.</p>
+    <p>In diese Konstellation ist die Erzählung <italic>Ester</italic> eingebettet. Mordochai, der sich an die vorgegebenen Strukturen im babylonischen Exil anpasst und innerhalb des ihm verfügbaren Spielraums handelt, kann den König vor einem Anschlag retten und schreibt die Machtkonstellation durch diese Handlung fest. Die Loyalität gegenüber dem König wird oftmals mit der Aufforderung in Jeremia 29:7 in Verbindung gebracht, im Exil innerhalb der vorhandenen Strukturen zu handeln und sich im bestehenden System einzufügen. Vor Haman jedoch emanzipiert sich Mordochai; er hinterfragt die geforderte Verbeugung, verweigert sie und demonstriert seine Entscheidungs- und Handlungsfreiheit. Hieraus ließe sich weiter schließen, dass Mordochai durch seinen männlichen Habitus ein solches <italic>Empowerment</italic> eher erlaubt ist als einer Frau, deren Agency zusätzlich durch das soziale Geschlecht eingeschränkt wird. Mordochai besitzt aufgrund seiner jüdischen Identität zwar weniger Handlungsmacht als andere Männer, Ester jedoch sieht sich aufgrund ihres Geschlechts mehrfach in ihrer Freiheit eingeschränkt: Gemäß der Tradition der jüdischen Religionsgemeinschaft ist sie als Frau erst ihrem Vater, nach dessen Tod dem Verwandten Mordochai unterstellt. Im ebenfalls patriarchal aufgebauten babylonischen Exil wird diese untergeordnete Stellung der Frau weiter gefestigt.</p>
+  </sec>
+  <sec id="die-ermächtigung-esters">
+    <label>4.3</label>
+    <title>Die Ermächtigung Esters</title>
+    <p>Nun stellt sich die Frage, ob Esters Handlungen überhaupt als eigenständig erachtet werden können, und wo diese in der Festschreibung der Machtstrukturen einzuordnen sind. Ester geht nicht eigenständig zum Palast des Königs und bietet sich als neue Frau an, sondern wird dorthin gebracht; der Satz steht im Passiv, Ester wird die Handlungsfreiheit entzogen.<xref ref-type="fn" rid="fn52">52</xref> Auch im Weiteren sind viele Handlungen Esters durch jemanden vorbestimmt: Sie handelt nach Mordochais Befehl (und gibt ihre jüdische Identität nicht preis), nach Ratschlägen des Eunuchen (und kleidet sich entsprechend den Vorlieben des Königs) und gehorcht ihrem Ehemann, dem König, und zeigt sich nur, wenn er dies wünscht. Dies wird von diversen Rezipienten als uneigenständig qualifiziert. Wyler benennt nur einen zweifachen Gehorsam Esters (ohne den Gehorsam des Eunuchen, der im patriarchalen Machtkonstrukt ohnehin eine Spezialrolle einnimmt) und beurteilt Ester als passive Gespielin des Königs ohne politische Rolle.<xref ref-type="fn" rid="fn53">53</xref> Diese Sichtweise berücksichtigt jedoch zu wenig, dass ihr eine solche Rolle im erlaubten Rahmen gar nicht zusteht, insbesondere nach dem Beschluss des Königs, dass sich alle Frauen ihren Männern unterordnen müssen. White wiederum sieht in der Zurückhaltung das reflektierte Handeln Esters, die keine direkte Konfrontation riskiert und aus Selbstschutz defensiv innerhalb der stark eingeschränkten Möglichkeiten handelt.<xref ref-type="fn" rid="fn54">54</xref> Möglicherweise ist diese vermeintlich passive Rolle Esters hinsichtlich des Bewusstseins über die eigenen Möglichkeiten gar reflektierter als Mordochais sture Verweigerung der Ehrerbietung gegenüber Haman. Diese Betrachtungsweise erlaubt es, den Moment des aktiven Heraustretens aus der bisherigen Machtkonstellation – den Moment des aktiven Handelns, des <italic>Empowerments</italic>, der Ermächtigung, der Emanzipation – festzuhalten. Aufgrund Mordochais Verweigerung kommt es zur Krise: Die Beleidigung Hamans durch Mordochai bestimmt das Schicksal des ganzen jüdischen Volkes, das vernichtet werden soll. Mordochai bittet Ester um Hilfe und fordert sie zum Handeln auf. Jedoch weiß Ester, dass niemand ungerufen vor den König treten darf. Wendy Amsellem hält hierzu fest:</p>
+      <disp-quote>
+        <p xml:lang="en">This is a moment of crisis for Esther. She is caught between conflicting obediences for her foster father and husband. In addition, to come before the king unsummoned is an abnegation of her role as Vashti’s replacement. She was chosen to be queen since she represented the antithesis of Vashti’s persona. Esther’s position, her identity and quite possibly her life are all closely tied to her obedience to the king. In this moment of fate, Esther looks into the mirror and discovers that she does not look quite so different from Vashti after all. She takes matters into her own hands and stands up to both sources of authority. Esther assumes control of Mordechai’s plan, changing and amending as she sees fit. Like Vashti, she will appear before the king only when she decides that the time is right—in this case after three days of fasting.<xref ref-type="fn" rid="fn55">55</xref></p>
+      </disp-quote>
+    <p>Gehorsam und Ungehorsam sind ebenfalls an Handlungen gebunden, nämlich an solche, die Macht bestätigen oder hinterfragen. Der Grund für Esters Ermächtigung hat hierbei sozialen, gemeinschaftlichen Charakter, da das jüdische Volk in Gefahr ist. Das Versteckspiel ihrer wahren Identität wird plötzlich zur Chance, aus ihrer Rolle herauszutreten und aktiv zu handeln. Die davor als passiv wahrgenommenen Handlungen dienten dem Selbstschutz und der Erlangung einer höheren gesellschaftlichen Position, die es ihr wiederum erlaubt, aus der Passivität herauszutreten und gehört zu werden. Ester ergreift nun das Wort für das jüdische Volk, das zur Gruppe der Subalternen gehört, die nicht gehört werden (können).<xref ref-type="fn" rid="fn56">56</xref></p>
+    <p><italic>Ester</italic> ist unter anderem auch aufgrund der Absenz Gottes ein bemerkenswerter Bibeltext. In Bezug auf die Emanzipation der Ester-Figur wird deren Handeln dadurch noch eindrücklicher: Mordochai kündigt an, dass bei einem Nichteinschreiten Esters „Rettung von anderer Seite“<xref ref-type="fn" rid="fn57">57</xref> käme – einer transzendenten Macht, die meist als Gott der Juden identifiziert wird. Anstatt es darauf ankommen zu lassen und auf Gottes Eingreifen zu hoffen (nicht jedoch auf ihren eigenen Untergang, den Mordochai ihr prophezeit), übernimmt Ester Verantwortung für ihr Volk und beginnt zu handeln. Menschliche Konflikte werden so dank menschlichem Handeln gelöst. Könnte hier gar von einer Emanzipation Esters gegenüber Gott gesprochen werden – nicht im Sinne einer Ablehnung Gottes, sondern einer Ermächtigung der eigenen Entscheidungs- und Handlungsfreiheit in weltlichen Belangen?<xref ref-type="fn" rid="fn58">58</xref></p>
+    <p>Wylers Betrachtung,<xref ref-type="fn" rid="fn59">59</xref> ob Ester als Frau oder Jüdin handelt, scheint unzulässig: Diese Perspektive blendet aus, dass Individuen immer mehrere Identitätsmerkmale und -hintergründe haben. Ester handelt immer als Frau und Jüdin, ihre Identität bleibt ständig doppelt marginal. Entgegen allen Regeln beginnt sie zu handeln und erlangt aus dieser gesteigerten Agency heraus eine Stimme; nun kann sie als Diplomatin zwischen dem König und Mordochai sowie zwischen König Ahasverus und dem Volk Israel verhandeln.<xref ref-type="fn" rid="fn60">60</xref> Dabei ist sie einerseits Teil beider Seiten – als Ehefrau des Königs und als Jüdin –, aber stets auch Frau, die innerhalb dieser Machtstrukturen eigentlich keine Befugnis zu politisch relevanten Handlungen hat. Nach Wyler ist Esters Emanzipation dennoch unvollständig. Sie hätte die Auflehnung gegen Diskriminierung nur für den ethnisch begründeten Hass gegen das jüdische Volk im Exil, nicht jedoch für den frauenabwertenden, sexistischen Teil der doppelten Marginalisierung vollbracht.<xref ref-type="fn" rid="fn61">61</xref> Waschti sei aus feministischer Sicht die wahre Heldin dieser Erzählung, indem sie sich dem sexistischen Blick auf Frauen gänzlich entzieht und aus dem Puppenhaus entwischt.<xref ref-type="fn" rid="fn62">62</xref> Diese Perspektive der vollständigen Emanzipation nimmt wiederum die Rettung des jüdischen Volkes zu wenig in den Blick. Würde sich Ester wie Waschti dem König entziehen, wäre zwar das patriarchale Machtsystem in Frage gestellt, jedoch ist damit dem jüdischen Volk im Exil nicht geholfen. Sawyer bezeichnet Waschtis Handeln als Widerstand, sie lehne die männerdominierte Machtordnung gänzlich ab, Ester hingegen handle im Sinne des Pragmatismus und beeinflusse das Patriarchat (und die Judenfeindschaft) innerhalb der vorgefundenen Strukturen.<xref ref-type="fn" rid="fn63">63</xref> Würde Ester vollkommen ideologisch handeln und die patriarchalen Grenzen überschreiten, würde sie wieder zu den Subalternen gehören und hätte keine Stimme mehr zur Rettung ihres Volkes vor der Vernichtung, sie würde gar mit diesem vernichtet werden. Gelobt für die Rettung der Juden im babylonischen Exil wird jedoch nicht nur Ester, sondern auch Mordochai. Folgend sollen einige Perspektiven nachgezeichnet werden, die Ester zur wahren Heldin der Erzählung erheben – oder eben Mordochai den Ruhm zusprechen.</p>
+  </sec>
+</sec>
+<sec id="ester-versus-mordochai-wem-gebührt-mehr-ruhm">
+  <label>5</label>
+  <title>Ester versus Mordochai – wem gebührt (mehr) Ruhm?</title>
+  <p>Folgende zwei Zitate stehen einander unversöhnlich gegenüber. Während nach Moore Mordochai der größere Held ist (zumindest in der hebräischen Fassung), vertritt White die Haltung, Ester sei die wahre Heldenfigur. Beide Betrachtungen operieren mit dem Argument der Vernunft, sehen diese jedoch unter anderer Zuteilung.</p>
+    <disp-quote>
+      <p  xml:lang="en">Between Mordecai and Esther the greater hero in the Hebrew is Mordecai, who supplied the brains while Esther simply followed his directions; it is in the Septuagint that Esther steals the show from Mordecai […].<xref ref-type="fn" rid="fn64">64</xref></p>
+    </disp-quote>
+    <disp-quote>
+      <p  xml:lang="en">I believe Esther is the true heroine of the tale, and the traits in her character and her actions that make her successful in the precarious world of the Diaspora. Mordecai, while certainly a sympathetic character, is not successful because he refuses to fit into the situation in which he finds himself. Esther unravels the plot of Haman and strengthens her position, while affirming, in the end, her ethnic identity as a Jew.<xref ref-type="fn" rid="fn65">65</xref></p>
+    </disp-quote>
+  <p>Moore legt das Augenmerk stärker auf die Tatsache, dass Ester eine umstrittene Figur ist, und schreibt ihr eine passive Rolle zu. Ester sei mehrfach fehlbar, indem sie die Speisevorschriften am Königshof nicht befolge und eine Mischehe eingehe. So kommt Moore zum Schluss, dass der einzige Grund für die Kanonisierung von <italic>Ester</italic> das Purimfest sein kann.<xref ref-type="fn" rid="fn66">66</xref> Auch nach Paton sei Mordochai die interessantere Figur, der durch seine Verweigerung gegenüber Haman wahre Unabhängigkeit demonstriere.<xref ref-type="fn" rid="fn67">67</xref> Beide scheinen jedoch auszublenden, in welch patriarchalen, sexistischen Machtstrukturen Ester sich zu bewegen hat. Insofern kann Moores Ansatz für die vorliegende Analyse keinen Mehrwert leisten. White setzt entgegen, dass es keinen einleuchtenden Grund für Mordochais Verweigerung gegenüber Haman gebe, schließlich würden auch andere Juden in biblischen Erzählungen den jeweiligen Herrschern huldigen und somit die politische Situation anerkennen – und gemäss Jeremia 29:7 „der Stadt Bestes suchen“.<xref ref-type="fn" rid="fn68">68</xref> Mordochais Ermächtigung gegen Haman könne entweder als egoistische Handlung betrachtet werden oder als blinde Treue zu Gott, dafür aber sein irdisches Leben zu gefährden.</p>
+  <p>In Beschreibungen von heldenhaften Handlungen wird der Umstand oftmals ausgeblendet, dass allein schon die Attribute einer heldenhaften Figur stark androzentrisch konnotiert sind. Wie werden Heldinnen dargestellt? Die Messung des Ruhms wird über inadäquate Parameter angestellt; so kommt es gezwungenermaßen zum Ergebnis, dass Mordochai der Held ist. Ester wird als schön dargestellt, jedoch wird wenig über andere Eigenschaften ausgesagt. Sie will am Hof Gefallen finden, was als passiv abgetan wird. In Anlehnung an Janeways <italic>Power of the Weaks</italic> arbeitet White hierbei das Argument heraus, dass der Nutzen von körperlicher Anziehung zu Esters Überlebensstrategien als marginaler Figur gehöre.<xref ref-type="fn" rid="fn69">69</xref> Das Schweigen Esters zu ihrer jüdischen Identität ist auf Mordochais Ratschlag hin erfolgt; nach Moore sei dies eine Unterordnung Esters gegenüber Mordochai – was ein Indiz für Mordochais Heldentum sei –, White will dies hingegen als kluge Handlung lesen: Da Mordochai Erfahrung am Königshof hat, ist Esters Befolgung des Ratschlags die logische Folge.<xref ref-type="fn" rid="fn70">70</xref> Weiter führt White aus, dass die soziale Orientierung von Männern und Frauen sehr unterschiedlich sei: Während Männer sich über ihre Stellung in der Gesellschaft definierten, sei für Frauen die Beziehung zu anderen wichtiger. Dies erkläre auch den Rückzug Esters aus politischen Angelegenheiten, nachdem die größte Gefahr für das jüdische Volk gebannt ist.<xref ref-type="fn" rid="fn71">71</xref> An Whites Betrachtung könnte kritisiert werden, dass in ihren Argumenten Gender-Stereotype weiter bestätigt und gefestigt werden, anstatt dass versucht würde diese abzubauen. Lillian Klein greift die sozialen Werte <italic>Ehre</italic> (honour) und <italic>Scham</italic> (shame) auf, die ebenso mit Handlungen verbunden werden, die Macht festigen respektive abbauen können. Sie entdeckt das strukturelle Problem des Patriarchats, das Ester nur als beschämte, zurückhaltende Figur handeln lässt. Obwohl sie die entscheidenden Wendungen in der Handlung einleitet, ist am Ende der Erzählung Mordochai die ruhmvolle Figur, die dem jüdischen Volk im Exil Existenzberechtigung und Ehre verschafft.<xref ref-type="fn" rid="fn72">72</xref> Hierbei kann auf Kockelmans Parameter hinsichtlich Verantwortungsnahme und Agency verwiesen werden.<xref ref-type="fn" rid="fn73">73</xref> Da Ester kaum Agency besitzt, ist die Verantwortung ihrer (Nicht-)Handlungen um einiges kleiner als jene Mordochais; aus dieser Überlegung kann das Gefälle zwischen Mordochai und Ester wiederum stark relativiert werden.</p>
+</sec>
+<sec id="die-performativität-der-ester-rezeption">
+  <label>6</label>
+  <title>Die Performativität der <italic>Ester-</italic>Rezeption</title>
+  <p>Gail Katz nimmt die Frage der (fehlenden) Wertschätzung Esters ebenfalls auf und weist darauf hin, dass Mordochai im Rahmen des Purim-Festes performativ in den Mittelpunkt gestellt werde. Vier Verse würden rituell besonders hervorgehoben und repetiert:<xref ref-type="fn" rid="fn74">74</xref></p>
+  <disp-quote>
+    <p>2:5 In Schuschan, in der Burg, war ein jüdischer Mann, und sein Name war Mordochai, der Sohn des Jair, des Sohns von Schimi, dem Sohn des Kisch, ein Jamniter[…].</p>
+  </disp-quote>
+  <disp-quote>
+    <p>8:15 Mordochai aber verliess den König in einem königlichen Gewand aus blauem Purpur und weissem Leinen und mit einem grossen goldenen Kopfschmuck und einem Mantel aus Byssus und rotem Purpur, und die Stadt Schuschan jauchzte und war fröhlich.</p>
+  </disp-quote>
+  <disp-quote>
+    <p>8:16 Bei den Juden herrschten Licht und Freude und Ehrgefühl.</p>
+  </disp-quote>
+  <disp-quote>
+    <p>10:3 Denn Mordochai, der Jude, war der Zweite nach König Xerxes, und bei den Juden war er gross, und bei der Menge seiner Brüder war er beliebt als einer, der das Wohl seines Volks suchte und zum Wohl aller seiner Nachkommen redete.<xref ref-type="fn" rid="fn75">75</xref></p>
+  </disp-quote>
+  <p>Durch die liturgischen Riten würde Mordochai zentral, Ester hingegen verschwinde. Auch das geräuschvolle Hervorheben von Haman (durch Rasseln bei der Nennung von Hamans Namen) und der daraus entstehende Dualismus Mordochai (der Gute) vs. Haman (der Böse), bringen Ester in die Rolle, die sie bereits innerhalb der Erzählung zu spielen hat. Gemäß den beiden Rabbinern Rashbam und Joseph Karo sei, so der Talmud, darauf zu bestehen, dass die Festrolle von Frauen gelesen wird.<xref ref-type="fn" rid="fn76">76</xref></p>
+  <p>Daraus lässt sich schließen, dass die Tragik der Figur Ester als Frau mit minderer Handlungsbefähigung in der Gegenwart fortgeschrieben wird. Die Doppelbödigkeit des Buchs <italic>Ester</italic> und der Figur Ester wird ersichtlich: Das Buch lässt die Figur zwar sprechen, jedoch kann diese nicht vollständig aus den ihr vorgegebenen Strukturen des Textes und seiner Rezeption heraustreten. Ihre Welt bleibt patriarchal. Katz kritisiert die androzentristische Interpretation und deren Umsetzung von <italic>Ester</italic> im Rahmen der Purim-Feier; Amsellem schlägt vor, Purim als Chance aufzugreifen, die Rolle als Frau in einer jüdischen Gemeinschaft neu zu verhandeln: „Purim is a holiday in which we explore and challenge our boundaries.“<xref ref-type="fn" rid="fn77">77</xref> An Edward Greensteins Hinweis anknüpfend, Purim habe diverse Parallelen mit heidnischen Neujahrs- und Frühlingsfeiern, soll hier das literarische Motiv des Karnevals herausgegriffen werden.<xref ref-type="fn" rid="fn78">78</xref> Michail Bachtin analysiert das aus heidnischer Tradition in die christliche Kultur überführte Karnevalsfest als ein wichtiges Ritual zur Entladung gesellschaftlicher Spannungen, insbesondere im feudalen Mittelalter. Durch die Möglichkeit der totalen Hemmungslosigkeit und Umkehrung jeglicher Hierarchie- und Machstruktur würden Unmut abgebaut und die eigentliche Macht nicht gefährdet, da der Karneval zeitlich begrenzt ist. Die Lachkultur kann in die Groteske münden, die jedoch nicht als Verneinung des Lebens, sondern als dessen Verjüngung gelte.<xref ref-type="fn" rid="fn79">79</xref> Die Transgression lässt Purim einen karnevalesken Charakter zukommen: Von der Tragik des antisemitischen Umfeldes des jüdischen Volkes seit dem babylonischen Exil hin zu einer Gelassenheit und Trunkenheit, bis die Namen Mordochais und Hamans verwechselt werden.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+  <fn id="fn1">
+    <p>Graetz, <italic>Unlocking the Garden</italic>, xiii.</p>
+  </fn>
+  <fn id="fn2">
+    <p>Das Buch <italic>Ester</italic> ist Teil des jüdischen Tanach und gehört zum christlichen Alten Testament. Hier wird in erster Linie auf den hebräischen Text in deutscher Übersetzung (Zürcher Bibel) Bezug genommen und die Schreibweise der Namen übernommen. Die Septuaginta und die Vulgata werden lediglich punktuell über Sekundärliteratur einbezogen. Auf die breit diskutierte Kanonisierung des Textes und die Frage nach der Historizität wird in vorliegender Analyse nur vereinzelt eingegangen, wenn dies zur Betrachtung beiträgt. Auch wird auf eine Auseinandersetzung mit der Textsorte verzichtet, obwohl dies gerade aus einer feministischen Perspektive interessante Aspekte bieten kann. Im Folgenden ist von <italic>(biblischer) Erzählung</italic> die Rede. – Im Folgenden ist vom Buch <italic>Ester</italic> in kursiver Schrift die Rede, bei der Figur Ester hingegen steht die Schrift nicht kursiv.</p>
+  </fn>
+  <fn id="fn3">
+    <p>Jüdischer Feminismus oder feministisches Judentum – je nachdem welches Wort als Attribut oder als Substantiv verwendet wird, verändert sich der Schwerpunkt des zweiteiligen Begriffes. Im Folgenden werden die Begriffe jedoch synonym verwendet. Plaskow nennt den Begriff <italic>feministisches Judentum</italic> ein Oxymoron und stellt hinter viele ihrer einleitenden Gedanken im wegweisenden Werk <italic>Standing Again at Sinai</italic> („Es ist feministisch, aber ist es auch jüdisch?“) noch Fragezeichen. Für spätere Autorinnen ist die Verknüpfung von Judentum und Feminismus selbstverständlich. Vgl. Plaskow, <italic>Und wieder stehen wir am Sinai,</italic> 11–24.</p>
+  </fn>
+  <fn id="fn4">
+    <p>Graetz, <italic>Unlocking the Garden</italic>, 15.</p>
+  </fn>
+  <fn id="fn5">
+    <p>Interessanterweise bietet Feminismus verschiedentlich Anknüpfungspunkte für interreligiösen Dialog. Die Reibung von Feminismus und Religion ist in diversen religiösen Traditionen ein wichtiges Thema und bietet so für Frauen eine Grundlage für den Austausch. Das <italic>Journal of Feminist Studies in Religion</italic> (gegründet von Judith Plaskow und Elisabeth Schüssler Fiorenza) beispielsweise weist eine sehr grosse Anzahl von Beiträgen über interreligiösen Dialog auf. Vgl. Journal of Feminist Studies in Religion, „Volumes“.</p>
+  </fn>
+  <fn id="fn6">
+    <p>Plaskow, <italic>Und wieder stehen wir am Sinai</italic>, 48.</p>
+  </fn>
+  <fn id="fn7">
+    <p>Graetz, <italic>Unlocking the Garden</italic>, 17–18.</p>
+  </fn>
+  <fn id="fn8">
+    <p>Kritik hat einen anderen Stellenwert, wenn sie innerhalb des erlaubten Rahmens und so aus der Gemeinschaft heraus formuliert wird, als wenn sie aus der Perspektive eines von der Gemeinschaft ausgeschlossenen Subjekts an die Gemeinschaft herangetragen wird.</p>
+  </fn>
+  <fn id="fn9">
+    <p>Das generische Femininum wird hier gewählt, weil sich zwar vereinzelt auch Männer, meist jedoch Frauen für feministische Anliegen im Judentum einsetzen.</p>
+  </fn>
+  <fn id="fn10">
+    <p>Indiana University Press, „JFSR Description“.</p>
+  </fn>
+  <fn id="fn11">
+    <p>Jewish Orthodox Feminist Alliance. „Community“.</p>
+  </fn>
+  <fn id="fn12">
+    <p>Bet Debora, „Über uns“</p>
+  </fn>
+  <fn id="fn13">
+    <p>Bethasda, Kommentar zu Crawford, „Esther: Bible“.</p>
+  </fn>
+  <fn id="fn14">
+    <p>Baskin, <italic>Midrashic Women</italic>, 13.</p>
+  </fn>
+  <fn id="fn15">
+    <p>Graetz<italic>, Unlocking the Garden</italic>, 10–11.</p>
+  </fn>
+  <fn id="fn16">
+    <p>Frymer-Kensky, „The Bible and Women’s Studies“, 18.</p>
+  </fn>
+  <fn id="fn17">
+    <p>Graetz, <italic>Unlocking the Garden</italic>, 3–4.</p>
+  </fn>
+  <fn id="fn18">
+    <p>Fetterley, <italic>The Resisting Reader.</italic></p>
+  </fn>
+  <fn id="fn19">
+    <p>Graetz, <italic>Unlocking the Garden,</italic> 10.</p>
+  </fn>
+  <fn id="fn20">
+    <p>Graetz, <italic>Unlocking the Garden,</italic> 16–17.</p>
+  </fn>
+  <fn id="fn21">
+    <p>Graetz, <italic>Unlocking the Garden,</italic> 23–24.</p>
+  </fn>
+  <fn id="fn22">
+    <p>Adelman, <italic>The Female Ruse,</italic> 2–3.</p>
+  </fn>
+  <fn id="fn23">
+    <p>Das <italic>dritte Geschlecht</italic> steht hier nicht im Sinne des heute vielerorts anerkannten non-binären Geschlechts, das diverse Facetten bedienen kann. Bei <italic>Ester</italic> ist dieses dritte Geschlecht das am klarsten konstruierte, nämlich jenes des Eunuchen. Das biologische Geschlecht von Eunuchen ist zum Zeitpunkt der Geburt männlich. Zum Eunuchen werden diese Menschen durch das absichtliche Entfernen der primären Geschlechtsmerkmale und des Reproduktionsorgans. Damit entfernt sich sein biologisches und kulturelles Geschlecht von dem ursprünglich männlichen und gerät aufgrund der Zeugungsunfähigkeit in einen geschlechtlichen Zwischenstatus, der es ihm beispielsweise erlaubt, sich im Harem aufzuhalten.</p>
+  </fn>
+  <fn id="fn24">
+    <p>Janeway, „On the Power of the Weak“, 103–9.</p>
+  </fn>
+  <fn id="fn25">
+    <p>White, „Esther. A Feminine Model for Jewish Diaspora“<italic>,</italic> 166–67.</p>
+  </fn>
+  <fn id="fn26">
+    <p>White, „Esther. A Feminine Model for Jewish Diaspora“, 170.</p>
+  </fn>
+  <fn id="fn27">
+    <p>Frymer-Kensky, „The Bible and Women’s Studies“<italic>,</italic> 20.</p>
+  </fn>
+  <fn id="fn28">
+    <p>Graetz, <italic>Unlocking the Garden</italic>, 11.</p>
+  </fn>
+  <fn id="fn29">
+    <p>Adelman, <italic>The Female Ruse</italic>, 199.</p>
+  </fn>
+  <fn id="fn30">
+    <p>Bronner, „Esther Revisited“, 177.</p>
+  </fn>
+  <fn id="fn31">
+    <p>Bronner, <italic>From Eve to Esther,</italic> 179.</p>
+  </fn>
+  <fn id="fn32">
+    <p>Talmon, „‚Wisdom‘ in the Book of Esther“, 441.</p>
+  </fn>
+  <fn id="fn33">
+    <p>White, „Esther“, 165.</p>
+  </fn>
+  <fn id="fn34">
+    <p>Talmon, „‚Wisdom‘ in the Book of Esther“, 434–37.</p>
+  </fn>
+  <fn id="fn35">
+    <p>Adelman, <italic>The Female Ruse</italic>, 216.</p>
+  </fn>
+  <fn id="fn36">
+    <p>Moore, <italic>The Anchor Bible: Esther</italic>, XXII. – Moore bemerkt, dass die Kanonisierung von <italic>Esther</italic> spät stattgefunden hat. Die Schriftrollen von Qumran enthalten den Text nicht, woraus Moore schliesst, dass diverse Gemeinschaften den Text abgelehnt hätten. Dies lässt wiederum darauf schliessen, dass diese Gemeinschaften kein Purim gefeiert haben: „[T]hey had no need for a book which had the establishing of Purim as its <italic>raison d’être</italic>.“ Moore, <italic>The Anchor Bible: Esther</italic>, XXI–XXV.</p>
+  </fn>
+  <fn id="fn37">
+    <p>Moore, <italic>The Anchor Bible: Esther</italic>, LII.</p>
+  </fn>
+  <fn id="fn38">
+    <p>Zürcher Bibel, 657–69.</p>
+  </fn>
+  <fn id="fn39">
+    <p>Schüssler Fiorenza, <italic>Jesus – Miriams Kind, Sophias Prophet</italic>, 139.</p>
+  </fn>
+  <fn id="fn40">
+    <p>White, „Esther“, 169–73.</p>
+  </fn>
+  <fn id="fn41">
+    <p>Hancock, <italic>Esther and the Politics of Negotiation,</italic> 71–82.</p>
+  </fn>
+  <fn id="fn42">
+    <p>Hancock, <italic>Esther and the Politics of Negotiation,</italic> 83–98; 99–121.</p>
+  </fn>
+  <fn id="fn43">
+    <p>Der Begriff <italic>subaltern</italic> wurde durch Antonio Gramsci begründet und insbesondere durch Gayatri Chakravorty Spivak geprägt, die in <italic>Can the Subaltern Speak?</italic> aufzeigt, dass die Subjekte auf unterster Hierarchiestufe gar nicht erst zu Wort kommen können. Spivak prägt das akademische Feld der postkolonialen, feministischen und poststrukturalistischen Studien massgeblich. Das Prinzip mehrfacher Unterdrückung, auch aufgrund von imperialen Machtstrukturen, passt insofern auch in den Machtdiskurs bei <italic>Ester</italic>. Während Spivak ihre Beispiele insbesondere anhand von Frauen im (post)kolonialen Indien aufführt, verwendet Kimberlé Crenshaw mit Beispielen aus der weiblichen afroamerikanischen Bevölkerung den Begriff <italic>Intersektionalität</italic>. Auch bei Crenshaws Theorie geht es um die mehrfache, verknüpfte Diskriminierung und Unterdrückung bestimmter Menschen. Vgl. Spivak, <italic>Can the Subaltern Speak?</italic> und Crenshaw, „Mapping the Margins“.</p>
+  </fn>
+  <fn id="fn44">
+    <p>Kockelman, „<italic>Agency</italic>“, 375–76.</p>
+  </fn>
+  <fn id="fn45">
+    <p>Madhok, Phillips und Wilson, <italic>Gender, Agency, and Coercion</italic>, 1–2.</p>
+  </fn>
+  <fn id="fn46">
+    <p>Madhok, Phillips und Wilson, <italic>Gender, Agency, and Coercion</italic>, 5–6.</p>
+  </fn>
+  <fn id="fn47">
+    <p>Butler, <italic>Körper von Gewicht</italic>, 31.</p>
+  </fn>
+  <fn id="fn48">
+    <p>Hancock, <italic>Esther and the Politics of Negotiation</italic>, 97.</p>
+  </fn>
+  <fn id="fn49">
+    <p>Ester 1, 16.</p>
+  </fn>
+  <fn id="fn50">
+    <p>Ester 1, 22.</p>
+  </fn>
+  <fn id="fn51">
+    <p>Wyler, „Esther“, 116–17.</p>
+  </fn>
+  <fn id="fn52">
+    <p>Ester 2,8. Die sprachliche Formulierung hat hierbei ebenfalls performativen Charakter, so können formale Auffälligkeiten zur inhaltlichen Analyse beitragen.</p>
+  </fn>
+  <fn id="fn53">
+    <p>Wyler, „Esther“, 123.</p>
+  </fn>
+  <fn id="fn54">
+    <p>White, „Esther“, 170–71.</p>
+  </fn>
+  <fn id="fn55">
+    <p>Amsellem, „The Mirror has Two Faces“, 7.</p>
+  </fn>
+  <fn id="fn56">
+    <p>Das jüdische Volk erhält in der Erzählung keine Stimme; Mordochai und Ester sind die einzigen Fürsprecher, die ihre Position aufgrund besonderer Handlungen verändern können. Die anderen erhalten lediglich die Option zu Handlungen innerhalb der ihnen gegebenen Möglichkeiten – inwiefern das Fasten der Juden Susas zu einem performativen Akt der subalternen, sprachlosen Gruppe wird, müsste weiter untersucht werden. Auch nach der Rücknahme des Erlasses zur Ermordung des jüdischen Volkes im Exil bleibt es bei einem sprachlosen Handeln der Juden, die zur Gegenwehr ansetzen und für ihr Leben einstehen.</p>
+  </fn>
+  <fn id="fn57">
+    <p>Ester 4,14.</p>
+  </fn>
+  <fn id="fn58">
+    <p>Dieser Gedanke könnte in einer weiterführenden Analyse auch hinsichtlich der oftmals bis heute gängigen Rollen und Aufgaben von Mann und Frau in der jüdischen Familie ausgeweitet werden. So werden viele praktisch und weltlich ausgerichtete Aufgaben von Frauen ausgeführt.</p>
+  </fn>
+  <fn id="fn59">
+    <p>Wyler, „Esther“, 125.</p>
+  </fn>
+  <fn id="fn60">
+    <p>Das Thema der Botschafterin Ester bespricht auch Hancock und bettet Ester in eine Reihe von weiblichen biblischen Figuren ein, die politisch agieren.</p>
+  </fn>
+  <fn id="fn61">
+    <p>Wyler, „Esther“, 130–33.</p>
+  </fn>
+  <fn id="fn62">
+    <p>Brenner, „Introduction“, 17. Die Analogie zu anderen (literarischen) Werken der weiblichen Emanzipation ist evident, neben dem von Brenner und Bach genannten Jugendbuch <italic>Alice</italic>, das die taktische Komponente (mit dem Schachspiel) in den Blick nimmt, jedoch von einem vorpubertären, noch nicht geschlechtsreifen Mädchen handelt, liegt der Bezug auf Henrik Ibsens <italic>Nora oder Ein Puppenheim</italic> nahe.</p>
+  </fn>
+  <fn id="fn63">
+    <p>Sawyer, „Queen Vashti’s No“, 343–54.</p>
+  </fn>
+  <fn id="fn64">
+    <p>Moore, <italic>The Anchor Bible: Esther</italic>, LII.</p>
+  </fn>
+  <fn id="fn65">
+    <p>White, „Esther“, 166.</p>
+  </fn>
+  <fn id="fn66">
+    <p>Moore, <italic>The Anchor Bible: Esther</italic>, XXII.</p>
+  </fn>
+  <fn id="fn67">
+    <p>Paton, <italic>A Critical and Exegetical Commentary on the Book of Esther</italic>, 96</p>
+  </fn>
+  <fn id="fn68">
+    <p>White, „Esther“, 169.</p>
+  </fn>
+  <fn id="fn69">
+    <p>White, „Esther“, 166–67.</p>
+  </fn>
+  <fn id="fn70">
+    <p>White, „Esther“, 167.</p>
+  </fn>
+  <fn id="fn71">
+    <p>White, „Esther“, 170.</p>
+  </fn>
+  <fn id="fn72">
+    <p>Klein, „Honor and Shame in Esther“, 174–75.</p>
+  </fn>
+  <fn id="fn73">
+    <p>Kockelman, „Agency“, 375.</p>
+  </fn>
+  <fn id="fn74">
+    <p>Gail Katz, „Hester Ester“, 5.</p>
+  </fn>
+  <fn id="fn75">
+    <p>Ester 2, 5 / 8, 15 / 8, 16 / 10, 3,</p>
+  </fn>
+  <fn id="fn76">
+    <p>Katz, „Hester Ester“, 5, 8.</p>
+  </fn>
+  <fn id="fn77">
+    <p>Amsellem, „The Mirror has Two Faces“, 2003.</p>
+  </fn>
+  <fn id="fn78">
+    <p>Greenstein, „A Jewish Reading of Esther“, 226–27.</p>
+  </fn>
+  <fn id="fn79">
+    <p>Bachtin, <italic>Rabelais und seine Welt</italic>, 101<italic>.</italic></p>
+  </fn>
+</fn-group>
+<ref-list>
+<title>Bibliographie</title>
+<ref>
+<mixed-citation>
+Adelman, Rachel E. <italic>The Female Ruse: Women’s Deception &amp; Divine Sanction in the Hebrew Bible.</italic> Sheffield: Phoenix Press, 2015.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Amsellem, Wendy. „The Mirror has Two Faces: An Exploration of Esther and Vashti“, <italic>JOFA Journal</italic> 4, Nr. 1 (Winter 2003)<italic>:</italic> 7, <ext-link ext-link-type="uri" xlink:href="https://www.jofa.org/past-journals">https://www.jofa.org/past-journals</ext-link>
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bach, Alice. „Mirror, Mirror in the Text: Reflections on Reading and Rereading“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible</italic>, herausgegeben von Athalya Brenner, 81–86. Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bachtin, Michail M. <italic>Rabelais und seine Welt: Volkskultur als Gegenkultur.</italic> Frankfurt am Main: Suhrkamp, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Baskin, Judith R. <italic>Midrashic Women: Formations of the Feminine in Rabbinic Literature.</italic> Hannover: Brandeis University Press, 2002.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bet Debora. „Über uns“. <ext-link ext-link-type="uri" xlink:href="https://www.bet-debora.net/de/uber-uns-2/">https://www.bet-debora.net/de/uber-uns-2/</ext-link>, Stand: 09.07.2020.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bethasda. Kommentar zu Sidnie White Crawford, „Esther: Bible“, in <italic>Jewish Women: A Comprehensive Historical Encyclopedia</italic>. Jewish Women’s Archive, 2009. <ext-link ext-link-type="uri" xlink:href="https://jwa.org/encyclopedia/article/esther-bible">https://jwa.org/encyclopedia/article/esther-bible</ext-link>, Stand: 09.07.2020.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Brenner, Athalya. „Looking at Esther through the Looking Glass“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible</italic>, herausgegeben von Athalya Brenner, 71–80. Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Introduction“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible</italic>, herausgegeben von Athalya Brenner, 11–25<italic>.</italic> Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bronner, Leila Leah. „Esther Revisited: An Aggadic Approach“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible</italic>, herausgegeben von Athalya Brenner, 176–97. Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>From Eve to Esther: Rabbinic Reconstructions of Biblical Women.</italic> Louisville: Westminster John Knox Press, 1994.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Butler, Judith. <italic>Körper von Gewicht: Die diskursiven Grenzen des Geschlechts.</italic> Übersetzt von Karin Wördemann. Berlin: Berlin Verlag, 1993.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Caroll, Lewis. <italic>Alice’s Adventures in Wonderland and Through the Looking Glass</italic>. New York: New American Library, 1960.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Crenshaw, Kimberlé. „Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color“, <italic>Stanford Law Review</italic> 23, Nr. 6 (1991): 1241–99.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Fetterley, Judith. <italic>The Resisting Reader: A Feminist Approach to American Fiction.</italic> Bloomington: Indiana University Press, 1978.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Frymer-Kensky, Tikva. „The Bible and Women’s Studies“. In <italic>Feminist Perspectives on Jewish Studies</italic>, herausgegeben von Lynn Davidman und Shelly Tenenbaum, 16–39. New Haven: Yale University Press, 1994.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Gilligan, Carol. <italic>In a different voice: psychological theory and women’s development.</italic> Cambridge, Massachusetts and London, England: Harvard University Press, 1993.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Graetz, Naomi. <italic>Unlocking the Garden: A Feminist Jewish Look at the Bible, Midrash and God.</italic> New Jersey: Gorgias Press, 2005.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Greenstein, Edward L. „A Jewish Reading of Esther“. In <italic>Judaic Perspectives on Ancient Israel</italic>, herausgegeben von Jacob Neusner, Baruch A. Levine und Ernest S. Frerichs, 225–243. Philadelphia: Fortress Press, 1987.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hancock, Rebecca S. <italic>Esther and the Politics of Negotiation: Public and Private Spaces and the Figure of the Female Royal Counselor.</italic> Minneapolis: Fortress Press, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Indiana University Press. „JFSR Description“. <ext-link ext-link-type="uri" xlink:href="https://iupress.org/journals/jfsr/">https://iupress.org/journals/jfsr/</ext-link>, Stand: 09.07.2020.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Janeway, Elizabeth. „On the Power of the Weak“, <italic>Signs</italic> 1, Nr. 1 (1975): 103–9.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Jewish Orthodox Feminist Alliance. „Community“. <ext-link ext-link-type="uri" xlink:href="https://www.jofa.org/community">https://www.jofa.org/community</ext-link>, Stand: 21.11.2018.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Journal of Feminist Studies in Religion. „Volumes“. <ext-link ext-link-type="uri" xlink:href="https://www.fsrinc.org/journal/">https://www.fsrinc.org/journal/</ext-link>, Stand: 08.07.2020.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Katz, Gail. „Hester Ester: The Hidden Heroine“, <italic>JOFA Journal</italic> 4, Nr. 1 (Winter 2003): 5. <ext-link ext-link-type="uri" xlink:href="https://www.jofa.org/past-journals">https://www.jofa.org/past-journals</ext-link>
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kirchenrat der Evangelisch-reformierten Landeskirche des Kantons Zürich, Hg. <italic>Zürcher Bibel</italic>. Zürich: Verlag der Zürcher Bibel, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Klein, Lilliane R. „Honor and Shame in Esther“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible</italic>, herausgegeben von Athalya Brenner, 149–75. Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kockelman, Paul. „Agency: The Relation between Meaning, Power, and Knowledge“, <italic>Current Anthropology</italic>, 48, Nr. 3 (2007): 375–401.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Madhok, Sumi, Anne Phillips und Kalpana Wilson, Hg. <italic>Gender, Agency, and Coercion: Thinking Gender in Transnational Times.</italic> London: Palgrave Macmillan, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Moore, Carey A. <italic>The Anchor Bible: Esther; Introduction, Translation, and Notes.</italic> New York: Doubleday &amp; Company, 1971.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Paton, Lewis B. <italic>A Critical and Exegetical Commentary on the Book of Esther.</italic> New York: Scribner, 1908.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Plaskow, Judith. <italic>Und wieder stehen wir am Sinai</italic>. Übersetzt von Veronika Merz. Luzern: Edition Exodus, 1992.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Sawyer, Deborah F. „Gender Criticism: A New Discipline in Biblical Studies or Feminism in Disguise?“. In <italic>A Question of Sex? Gender and Difference in the Hebrew Bible and Beyond</italic>, herausgegeben von Deborah W. Rooke, 2–7. Sheffield: Phoenix Press, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Queen Vashti’s No and What It Can Tell Us About Gender Tools in Biblical Narrative (Esther)“. In <italic>The Bible and Feminism: Remapping the</italic> Field, herausgegeben von Yvonne Sherwood, 343–54. Oxford: Oxford University Press, 2017.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Schüssler Fiorenza, Elisabeth. <italic>Jesus – Miriams Kind, Sophias Prophet: Kritische Anfragen feministischer Christologie.</italic> Gütersloh: Gütersloher Verlagshaus, 1997.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Spivak, Gayatri Chakravorty. <italic>Can the Subaltern Speak? Postkolonialität und subalterne Artikulation</italic>. Übersetzt von Alexander Joskowicz und Stefan Nowotny. Wien: Turia &amp; Kant, 2008.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Talmon, Shemaryahu. „‚Wisdom‘ in the Book of Esther“, <italic>Vetus Testamentum</italic> 13 (1963): 419–55.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+White, Sindie A. „Esther: A Feminine Model for Jewish Diaspora“. In <italic>Gender and Difference in Ancient Israel</italic>, herausgegeben von Peggy L. Day, 161–77. Minneapolis: Fortress Press, 1989.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Wyler, Bea. „Esther: The Incomplete Emancipation of a Queen“. In <italic>Esther, Judith and Susanna: A Feminist Companion to the Bible,</italic> herausgegeben von Athalya Brenner, 111–35. Sheffield: Sheffield Academic Press, 1995.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

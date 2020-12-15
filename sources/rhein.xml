@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">JNDF</journal-id>
+<journal-title-group>
+<journal-title>Judaica: Neue digitale Folge</journal-title>
+<abbrev-journal-title>JNDF</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2673-4273</issn>
+<publisher>
+<publisher-name>Bern Open Publishing</publisher-name>
+<publisher-loc>Bern, Switzerland</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">https://doi.org/10.36950/jndf.1.4</article-id>
+<title-group>
+<article-title>Law, Hierarchy, and Gender: Reflections on the Exemption of Women from Time-Bound Commandments</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Rhein</surname>
+<given-names>Valérie</given-names>
+</name>
+<email>vrhein@rundumjudentum.ch</email>
+<aff>Universität Luzern</aff>
+</contrib>
+<author-comment><p><p>This is an updated and revised version of an article that was published in German in 2016 (“In den Fussstapfen des Priesters: Betrachtungen zu Gesetz und Gender in Tora und rabbinischer Literatur am Beispiel der Befreiung der Frau von zeitgebundenen Geboten.” <italic>Chilufim</italic> 21 [2016]: 5–74). My thanks to Professors René Bloch, Silvia Schroer, and Judith Hauptman and to Emily Silverman and Dr. Michel Monheit for their invaluable advice and support.</p></p></author-comment>
+</contrib-group>
+<pub-date pub-type="epub">
+<month>10</month>
+<year>2020</year>
+</pub-date>
+<volume>1</volume>
+<permissions>
+<copyright-statement>Copyright © 2020, Valérie Rhein. This work is licensed under Creative Commons Attribution 4.0 International.</copyright-statement>
+<copyright-year>2020</copyright-year>
+<copyright-holder>Valérie Rhein</copyright-holder>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This work is licensed under Creative Commons Attribution 4.0 International.</license-p>
+</license>
+</permissions>
+<abstract>
+<p>Why do the <italic>tannaim</italic> exempt women from time-bound commandments (m. Qiddushin 1:7)? In this paper it is argued that the unequal levels of obligation for men and women in rabbinic Judaism creates a hierarchy of mitzvot between them that mimics and virtually replaces the earlier biblical hierarchy of mitzvot between priests and Israel. In both constellations the rabbis consider the obligation to fulfill more commandments to be a privilege. The similarity between the hierarchies priests–Israel and men–women becomes apparent when the selection of commandments from which the <italic>tannaim</italic> and the <italic>amoraim</italic> explicitly exempt women are examined more closely: Many of them – the time-bound commandments <italic>shofar, lulav, tzitzit, tefillin</italic>, and <italic>shema</italic> as well as the non-time-bound mitzvah of Torah study – share a common feature, namely, their function as “ersatz Temple rituals.” During the transition from a Temple-oriented, priest-based Judaism to a study-oriented rabbinic Judaism, rituals such as these played a crucial role.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<boxed-text content-type="epigraph">
+  <p>Judaism is a <italic>religion of time</italic> aiming at the <italic>sanctification of time.</italic><xref ref-type="fn" rid="fn1">1</xref></p>
+</boxed-text>
+<p>What is the difference between a Jewish man and a Jewish woman? From the perspective of observance and ritual practice, the answer is: In rabbinic Judaism, men are obligated, as a rule, to fulfill all the commandments, while women are not. This distinction between the sexes is based on a rabbinic principle handed down in the Mishnah in tractate Qiddushin:</p>
+<disp-quote>
+  <p>All positive time-related obligations [כל מצות עשה שהזמן גרמה]—the men are obligated and the women are exempt, and all positive commandments not time-related both men and women are obligated. And all negative commandments, whether time-related or not time-related, are obligatory for both men and women, except for “you shall not mar,” “you shall not round” and “there shall none defile himself for the dead.”<xref ref-type="fn" rid="fn2">2</xref></p>
+</disp-quote>
+<p>What is the purpose of the tannaitic classification of the mitzvot into four categories—time-bound and non-time-bound prescriptions and time-bound and non-time-bound proscriptions<xref ref-type="fn" rid="fn3">3</xref>—and why do the <italic>tannaim</italic> obligate men to all four categories and women to only three of them? No justification for this principle is offered in tannaitic literature, and the same is true of amoraic literature. Furthermore, the rabbis themselves question it, and its implementation is inconsistent.<xref ref-type="fn" rid="fn4">4</xref> Beginning with reflections on the addressees of biblical laws, the significance of the exemption of women from time-bound commandments in rabbinic literature and the inconsistent implementation of this exemption will be analyzed below. I argue that the purpose of the principle handed down in m. Qiddushin 1:7 is to establish in rabbinic Judaism a hierarchy of mitzvot between men and women that corresponds to the biblical hierarchy of mitzvot between priests and Israel.<xref ref-type="fn" rid="fn5">5</xref></p>
+<p>What does “hierarchy of mitzvot” mean? In general, the Torah text obligates “Israel” or “the people” (ישראל, בני ישראל, כל-עדת ישראל, כל-עדת בני-ישראל, עם) to observe its laws and does not, as a rule, distinguish between men and women.<xref ref-type="fn" rid="fn6">6</xref> However, the text does differentiate between commandments that are binding on the people and commandments that apply only to (male) priests:<xref ref-type="fn" rid="fn7">7</xref> Unlike the people, priests are obligated to fulfill (and authorized to perform) a myriad of rituals associated with the Tabernacle and, later, with the Temple.<xref ref-type="fn" rid="fn8">8</xref> In contrast to biblical law, the <italic>tannaim</italic> and the <italic>amoraim</italic> differentiate between men and women and obligate men to observe more commandments than women. Moreover, both the Mishnah and the Gemara hand down a principle according to which the obligation to more commandments is considered a privilege associated with a higher social status. In the Gemara of tractate Qiddushin, for example, Rabbi Hanina is quoted as follows:<xref ref-type="fn" rid="fn9">9</xref></p>
+<disp-quote>
+  <p>Greater [is one who] is commanded [to do a mitzvah] and performs [it] than one who is not commanded [to do a mitzvah] and performs [it].<xref ref-type="fn" rid="fn10">10</xref></p>
+</disp-quote>
+<p>In the Torah, there is a hierarchy of mitzvot—a hierarchy based on unequal degrees of obligation—between the priests and the people; in rabbinic literature, the hierarchy of mitzvot is between men and women. In the Torah, men who are not priests and women are obligated to largely the same range of commandments.<xref ref-type="fn" rid="fn11">11</xref> The <italic>tannaim</italic>, however, build on the gender hierarchy pervasive in antiquity by exempting women from time-bound commandments.<xref ref-type="fn" rid="fn12">12</xref> While the biblical hierarchy of mitzvot between the priests and the people persists in rabbinic Judaism, it could no longer be practiced without the Temple and thus assumed a symbolic character.<xref ref-type="fn" rid="fn13">13</xref></p>
+<p>Researchers have shown that, during the transition from priestly Temple Judaism to text-oriented rabbinic Judaism, various aspects of priestly duties were extended to the people.<xref ref-type="fn" rid="fn14">14</xref> An analysis of these changes in the context of the addressees of biblical law, however, shows that some of the tasks previously within the sole competence of the priests were assigned by the tannaitic and amoraic rabbis not to the entire people (<italic>am</italic> or <italic>yisrael</italic>) but to men alone.</p>
+<p>The hierarchy of mitzvot between men and women, established by the <italic>tannaim</italic> in m. Qiddushin 1:7, mimics the hierarchy of mitzvot between priests and Israel and virtually replaces it. The similarity between the two hierarchies becomes apparent when the selection of commandments from which the <italic>tannaim</italic> and <italic>amoraim</italic> explicitly exempt women are examined more closely: Many of the mitzvot from which they exempt women—non-time-bound as well as time-bound commandments—share a common feature, namely, their function as Temple ritual substitutes or “ersatz Temple rituals.” Among them, on the one hand, are the non-time-bound commandment <italic>talmud torah</italic> and time-bound rituals associated with it such as the <italic>shema,</italic> which contains the commandments <italic>tefillin</italic> and <italic>tzitzit.</italic><xref ref-type="fn" rid="fn15">15</xref> Also included, on the other hand, are Temple rituals such as <italic>lulav</italic> and <italic>shofar,</italic> which are transformed for a religious practice in the absence of the Temple.<xref ref-type="fn" rid="fn16">16</xref> Furthermore, the obligation to <italic>talmud torah</italic>, which is central to rabbinic Judaism, is a continuation of the priestly task of teaching.<xref ref-type="fn" rid="fn17">17</xref></p>
+<p>In the synagogal Torah-reading ritual presented in the Tosefta and the Babylonian Talmud of tractate Megillah, there is something similar: While the occasional public Torah readings mentioned in biblical texts are carried out by priests or other male dignitaries, the task of Torah reading in rabbinic Judaism is extended to the entirety of men.<xref ref-type="fn" rid="fn18">18</xref> In neither of these cases, however (exemption of women from time-bound commandments and extension of the task of reading Torah in public to all male members of the community), do the rabbis prohibit women from performing these rituals.</p>
+<p>This paper is composed of two parts. Part 1 focuses on the biblical addressees of 21 commandments discussed in the Talmudic tractates Qiddushin and Berakhot. In the relevant passages, women’s exemption from and their obligation to a total of 11 time-bound and 10 non-time-bound commandments is debated. The issue here is whether the Torah provides textual evidence for the difference between men’s and women’s obligation vis-à-vis these mitzvot: Is there a correlation between the addressees of the Torah verses on which the 21 commandments are based<xref ref-type="fn" rid="fn19">19</xref> and the rabbinic assignment of these laws to men and women? Part 2 is devoted to the rabbinic category of time-bound commandments (מצוות עשה שהזמן גרמן).<xref ref-type="fn" rid="fn20">20</xref> This category will be analyzed on the basis of the 21 commandments examined in Part 1. What made the <italic>tannaim</italic> and <italic>amoraim</italic> explicitly exempt women from some commandments? Why is the category of time-bound commandments significant? And can consistent criteria be identified for the exemption of women from commandments?</p>
+<sec id="to-whom-are-the-biblical-commandments-recognized-by-the-tannaim-and-amoraim-addressed-and-how-do-the-rabbis-interpret-them">
+  <label>1</label>
+  <title>To Whom Are the Biblical Commandments Recognized by the <italic>Tannaim</italic> and <italic>Amoraim</italic> Addressed and How Do the Rabbis Interpret Them?</title>
+  <sec id="selected-commandments">
+    <title>21 Selected Commandments</title>
+	<label>1.1</label>
+    <p>The Torah generally addresses “Israel” or “the people.”<xref ref-type="fn" rid="fn21">21</xref> Is this also true of those instructions in the bible that the tannaitic and amoraic literature later identified as biblical commandments? In order to find an answer to this question, a total of 21 such instructions taken from all five books of the Torah will be analyzed. The selection of instructions builds upon a Talmudic discussion of women’s obligation to and exemption from mitzvot. The Gemara on m. Qiddushin 1:7 and on m. Berakhot 3:3 hand down debates on the nature of time-bound and non-time-bound commandments. In the Gemara in b. Qiddushin 33b–35a, this debate is addressed in the course of a discussion on the obligation or exemption, as the case may be, of women to and from 17 mitzvot. A similar debate in b. Berakhot 20b addresses 4 additional mitzvot (as well as 3 that appear in the aforementioned discussion in tractate Qiddushin). The total of 21 commandments are so called מצוות מדאורייתא: Commandments that, according to the rabbis, are among the Torah’s 613 laws.<xref ref-type="fn" rid="fn22">22</xref></p>
+    <p>In their discussions of biblical pre- and proscriptions, tannaitic and amoraic rabbis typically refer to one or more Torah verses.<xref ref-type="fn" rid="fn23">23</xref> Who are the addressees of these verses? And how do the rabbis decide to obligate women to or exempt them from observing a particular commandment? Can relevant criteria be derived by identifying the biblical addressees of the verse on which the law is based? Table 1 shows that more than three-fourths of the 21 commandments (17 of 21) are based on Torah verses that address Israel in one of four ways: 11 address <italic>yisrael</italic>,<xref ref-type="fn" rid="fn24">24</xref> 4 <italic>bnei yisrael,</italic> and 1 each <italic>kol-adat</italic> <italic>yisrael</italic> and <italic>kol-adat</italic> <italic>bnei</italic>-<italic>yisrael</italic>. Of the remaining 4 commandments, 1 addresses the people (<italic>am</italic>), 1 Aaron, 1 humankind (אדם; male and female), and 1 the priests and the elders of Israel.</p>
+    <table-wrap position="float" id="tab1">
+      <caption>
+        <p>The 21 commandments mentioned in the discussion of women’s obligation to and exemption from time-bound mitzvot in b. Qiddushin 33b–35a and b. Berakhot 20b, with a selection of Torah verses on which the commandments are based.<xref ref-type="fn" rid="fn26">26</xref></p>
+      </caption>
+      <table>
+        <col width="23*" align="left" />
+        <col width="23*" align="left" />
+        <col width="23*" align="left" />
+        <col width="23*" align="left" />
+        <thead>
+          <tr>
+            <th>Commandment</th>
+            <th>Torah verses</th>
+            <th>Addressees</th>
+            <th>Gemara</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><p>Procreation</p>
+			<p>–</p></td>
+            <td>Genesis 1:28</td>
+            <td>Humankind (אדם) (…), male and female; Genesis 1:27</td>
+            <td>b. Qiddushin 34a–35a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Matzah</italic></p>
+            <p>&#128339; ♀</p></td>
+            <td>Exodus 12:18</td>
+            <td>The whole congregation of Israel; Exodus 12:3</td>
+            <td>b. Qiddushin 34a–35a</td>
+          </tr>
+          <tr>
+            <td><p>To sanctify the day</p>
+            <p>&#128339; ♀</p></td>
+            <td>Exodus 20:8</td>
+            <td>People; Exodus 19:25</td>
+            <td>b. Berakhot 20b</td>
+          </tr>
+          <tr>
+            <td><p>To fear father and mother</p>
+            <p>♀</p></td>
+            <td>Leviticus 19:3</td>
+            <td>All the congregation of the people of Israel; Leviticus 19:2</td>
+            <td>b. Qiddushin 34b–35a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Lulav</italic></p>
+			<p>&#128339;</p></td>
+            <td>Leviticus 23:40</td>
+            <td>People of Israel; Leviticus 23:34</td>
+            <td>b. Qiddushin 33b</td>
+          </tr>
+          <tr>
+            <td><p><italic>Sukkah</italic></p>
+			<p>&#128339;</p></td>
+            <td>Leviticus 23:42</td>
+            <td><p>People of Israel; Leviticus 23:34</p>
+            <p>[all that are citizens; Leviticus 23:42]</p></td>
+            <td>b. Qiddushin 33b–34a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Tzitzit</italic></p>
+			<p>&#128339;</p></td>
+            <td>Numbers 15:38</td>
+            <td>People of Israel; Numbers 15:38</td>
+            <td>b. Qiddushin 33b</td>
+          </tr>
+          <tr>
+            <td><p>Redemption of the firstborn</p>
+			<p>–</p></td>
+            <td>Numbers 18:15</td>
+            <td>Aaron; Numbers 18:8</td>
+            <td>b. Qiddushin 34a–35a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Shofar</italic></p>
+			<p>&#128339;</p></td>
+            <td>Numbers 29:1</td>
+            <td>People of Israel; Numbers 28:2</td>
+            <td>b. Qiddushin 33b</td>
+          </tr>
+          <tr>
+            <td><p><italic>Talmud torah</italic></p>
+			<p>–</p></td>
+            <td>Deuteronomy 6:7</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td><p>b. Qiddushin 34a–35a</p>
+            <p>b. Berakhot 20b</p></td>
+          </tr>
+          <tr>
+            <td><p><italic>Shema</italic></p>
+			<p>&#128339;</p></td>
+            <td>Deuteronomy 6:7</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td>b. Berakhot 20b–21a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Tefillin</italic></p>
+			<p>&#128339;</p></td>
+            <td>Deuteronomy 6:8</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td><p>b. Qiddushin 34a–35a</p>
+            <p>b. Berakhot 20b</p></td>
+          </tr>
+          <tr>
+            <td><p><italic>Mezuzah</italic></p>
+            <p>♀</p></td>
+            <td>Deuteronomy 6:9</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td><p>b. Qiddushin 34a–b</p>
+            <p>b. Berakhot 20b</p></td>
+          </tr>
+          <tr>
+            <td><p><italic>Birkat hamazon</italic></p>
+            <p>♀</p></td>
+            <td>Deuteronomy 8:10</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td>b. Berakhot 20b</td>
+          </tr>
+          <tr>
+            <td><p>To serve God</p>
+			<p>♀<xref ref-type="fn" rid="fn27">27</xref></p></td>
+            <td>Deuteronomy 10:20</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4</td>
+            <td>b. Berakhot 20b</td>
+          </tr>
+          <tr>
+            <td><p>To rejoice on the festivals</p>
+            <p>&#128339; ♀</p></td>
+            <td>Deuteronomy 16:14</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4; 10:12</td>
+            <td>b. Qiddushin 34a–35a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Re’iyah</italic> (to appear in the Temple three times a year)</p>
+			<p>&#128339;</p></td>
+            <td>Deuteronomy 16:16</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4; 10:12</td>
+            <td>b. Qiddushin 34b</td>
+          </tr>
+          <tr>
+            <td><p>To return a lost object</p>
+            <p>♀</p></td>
+            <td>Deuteronomy 22:1</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4; 10:12</td>
+            <td>b. Qiddushin 34a</td>
+          </tr>
+          <tr>
+            <td><p>To release the mother bird</p>
+            <p>♀</p></td>
+            <td>Deuteronomy 22:6–7</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4; 10:12</td>
+            <td>b. Qiddushin 34a</td>
+          </tr>
+          <tr>
+            <td><p>To make a guard rail around flat roofs</p>
+            <p>♀</p></td>
+            <td>Deuteronomy 22:8</td>
+            <td>Israel; Deuteronomy 5:1 (<italic>all</italic> Israel); Deuteronomy 6:4; 10:12</td>
+            <td>b. Qiddushin 34a</td>
+          </tr>
+          <tr>
+            <td><p><italic>Hakhel</italic></p>
+            <p>&#128339; ♀</p></td>
+            <td>Deuteronomy 31:12</td>
+            <td>Priests, Elders; Deuteronomy 31:9–10 [People <italic>(men, women, children, aliens)</italic>; Deuteronomy 31:12]</td>
+            <td>b. Qiddushin 34a–35a</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <p>In the two Talmudic passages, women are exempt from 7 time-bound commandments and obligated to 7 non-time-bound commandments. These 14 mitzvot follow the rule laid down in m. Qiddushin 1:7, according to which women are exempt from time-bound and obligated to non-time-bound commandments. The remaining 7 commandments, however, one-third of the total, contradict the rule of m. Qiddushin 1:7: Women are obligated to 4 time-bound commandments and exempt from 3 non-time-bound commandments. The distribution of the addressees of the Torah verses upon which this subset of 7 commandments are based differs from that of the 21 mitzvot taken as a whole: Slightly less than half of the 7 address Israel (2 <italic>yisrael</italic> and 1 <italic>kol-adat yisrael</italic>); 1 addresses the people; and 3 address other groups or individuals (humankind [<italic>adam;</italic> male and female], Aaron, the priests and the elders of Israel). Yet another picture emerges when the 4 time-bound commandments to which women are obligated and the 3 non-time-bound commandments from which they are exempt are viewed separately: In the first of these groups, half of the commandments address Israel (1 <italic>yisrael</italic> and 1 <italic>kol-adat</italic> <italic>yisrael</italic>) whereas in the second group, only 1 commandment—one-third of the group—addresses <italic>yisrael</italic>.</p>
+    <p>In sum, consideration of the 21 commandments with a focus on the addressees of the relevant Torah verses reveals neither a uniform pattern nor a clarifying explanation for the Talmudic obligation or non-obligation of women. Rather, it becomes clear that the rabbis not only frequently obligate women to or exempt them from commandments regardless of the criterion of time-boundness but also that they do so independently of the addressee of the corresponding Torah verse.<xref ref-type="fn" rid="fn28">28</xref></p>
+  </sec>
+  <sec id="one-biblical-addressee-more-than-one-rabbinic-assignee">
+    <label>1.2</label>
+    <title>One Biblical Addressee: More Than One Rabbinic Assignee</title>
+    <p>“Even women are [included] in the [scriptural] meaning” (אף הנשים במשמע):<xref ref-type="fn" rid="fn29">29</xref> The <italic>tannaim</italic> and <italic>amoraim</italic> sometimes use this phrase to interpret verses that address <italic>bnei</italic> <italic>yisrael</italic>. This statement as well as the obligation of women to numerous commandments addressed to <italic>yisrael</italic> suggest that the rabbis generally view women as members of <italic>yisrael</italic> in one of its forms (<italic>bnei</italic> <italic>yisrael</italic>, <italic>yisrael,</italic> <italic>kol-adat</italic> <italic>yisrael,</italic> and <italic>kol-adat</italic> <italic>bnei</italic>-<italic>yisrael</italic>).<xref ref-type="fn" rid="fn30">30</xref> Just because women are seen as members of <italic>yisrael</italic>, however, does not mean that the tannaitic and amoraic rabbis obligate them to fulfill all time-bound commandments. This is because they generally determine obligation independent of the addressees of the Torah verses upon which commandments are based. Take, for example, a series of time-bound commandments concerning the festival of <italic>sukkot,</italic> all four of which address <italic>bnei yisrael</italic>:</p>
+    <disp-quote>
+      <p>[Leviticus 23:33] The Lord spoke to Moses, saying: [34] Speak to the people of Israel, saying: On the fifteenth day of this seventh month, and lasting seven days, there shall be the festival of booths to the Lord. [35] The first day shall be a holy convocation; you shall not work at your occupations. [36] Seven days you shall present the Lord’s offerings by fire; on the eighth day you shall observe a holy convocation and present the Lord’s offerings by fire; it is a solemn assembly; you shall not work at your occupations. (…) [40] On the first day you shall take the fruit of majestic trees, branches of palm trees, boughs of leafy trees, and willows of the brook; and you shall rejoice before the Lord your God for seven days. (…) [42] You shall live in booth for seven days; all that are citizens in Israel shall live in booth, [43] so that your generations may know that I made the people of Israel live in booth when I brought them out of the land of Egypt: I am the Lord your God. [44] Thus Moses declared to the people of Israel the appointed festivals of the Lord.<xref ref-type="fn" rid="fn31">31</xref></p>
+    </disp-quote>
+    <p>The commandment to rest on the first day of <italic>sukkot</italic> is based on Leviticus 23:35; the commandment to rest on the eighth day is based on the following verse; <italic>lulav</italic> is based on 23:40; and, finally, temporary dwelling in the <italic>sukkah</italic> is based on 23:42. The Talmudic rabbis exempt women from the two commandments associated with the performance of a ritual, <italic>lulav</italic> and <italic>sukkah</italic>, but obligate them to the commandments to rest, which can be fulfilled without performing a ritual.<xref ref-type="fn" rid="fn32">32</xref> It is true that the commandment to rest can be fulfilled only by respecting the prohibition on working during festivals; in other words, the commandment to rest is based on an analogy to a series of proscriptions, and proscriptions generally and virtually without exception apply equally to men and women.</p>
+    <p>For an analysis of Torah verses that address <italic>yisrael,</italic> it makes sense to look at Moses’ second speech in Deuteronomy 4:44–28:69, which contains 11 of the 21 commandments at issue here.<xref ref-type="fn" rid="fn33">33</xref> Women are obligated to 7 of the 11, whereby one of them—rejoicing on the festivals—is time-bound.<xref ref-type="fn" rid="fn34">34</xref> And they are exempt from the other 4 commandments, which include the 3 time-bound commandments <italic>shema</italic>, <italic>tefillin</italic>, and <italic>re’iyah</italic> as well as the non-time-bound <italic>talmud torah</italic>. 5 of the 11 commandments appear in the passage comprising the first paragraph of the <italic>shema</italic>: the <italic>shema</italic> itself<italic>, talmud torah</italic>, and <italic>tefillin,</italic> from which women are exempt, as well as the non-time-bound commandments <italic>mezuzah</italic> and <italic>birkat hamazon,</italic> to which they are obligated.</p>
+    <p>As shown by these examples, neither the addressees of the Torah verses on which a commandment is based nor the principle of time-boundness as expressed in m. Qiddushin 1:7 are reliable criteria for the obligation or exemption of women with regard to a mitzvah.</p>
+  </sec>
+  <sec id="rabbinic-assignment-deviates-from-biblical-addressees">
+    <label>1.3</label>
+    <title>Rabbinic Assignment Deviates from Biblical Addressees</title>
+    <p>The <italic>hakhel</italic> ceremony as commanded in Deuteronomy 31:12 calls for the assembly every seven years of “the people <italic>[am]</italic>—men, women, and children, as well as the aliens residing in your towns (…).” This detailed explication of “the people” is unusual.<xref ref-type="fn" rid="fn35">35</xref> Parallels to this explicit language can be found in rabbinic literature, for example, in the context of <italic>tzitzit,</italic> which addresses <italic>bnei</italic> <italic>yisrael</italic>: “Even women are [included] in the [scriptural] meaning.”<xref ref-type="fn" rid="fn36">36</xref> <italic>Hakhel</italic> is the only one of the 21 commandments under discussion whose underlying Torah verse expressly addresses both men and women<xref ref-type="fn" rid="fn37">37</xref> and that is also seen in the <italic>baraita</italic> in b. Qiddushin as obligatory for both men and women.</p>
+    <p>In three instances, however, the rabbinic assignment of obligation deviates from the addressee of the underlying Torah verse or from the extended biblical explication of addressees. This is the case for the commandments concerning procreation,<xref ref-type="fn" rid="fn38">38</xref> rejoicing on festivals,<xref ref-type="fn" rid="fn39">39</xref> and fearing father and mother.<xref ref-type="fn" rid="fn40">40</xref> With regard to the latter, namely, the non-time-bound commandment to fear parents (discussed in detail below), the Gemara obligates both women as well as men, even though the underlying Torah verse, which follows a reference to the collective <italic>kol-adat</italic> <italic>bnei</italic>-<italic>yisrael</italic>, itself addresses a (grammatically male) individual (<italic>ish</italic>).<xref ref-type="fn" rid="fn41">41</xref> And this is not all: In b. Qiddushin 34b, the Gemara derives from the obligation of women to fear parents the principle according to which they are obligated, as a rule, to non-time-bound commandments.<xref ref-type="fn" rid="fn42">42</xref></p>
+    <p>The Torah verse underlying this commandment, Leviticus 19:3, speaks first to a singular addressee <italic>ish</italic> before continuing in the second person plural:</p>
+    <disp-quote>
+      <p>[Leviticus 19:1] The Lord spoke to Moses, saying: [2] Speak to all the congregation of the people of Israel and say to them: You shall be holy, for I the Lord your God am holy. [3] You shall each [איש] revere [תיראו] your mother and father, and you shall keep [תשמרו] my sabbaths: I am the Lord your God.</p>
+    </disp-quote>
+    <p>In the biblical context, the meaning of the term <italic>ish</italic> is not limited solely to “man” but can also have the broader meaning “humankind” or “person.”<xref ref-type="fn" rid="fn43">43</xref> Using the plural form of the verb to fear (תיראו) in their arguments,<xref ref-type="fn" rid="fn44">44</xref> the Babylonian Talmud and Midrash Sifra interpret the commandment of fearing parents, based on Leviticus 19:3, as obligatory for both men and women.<xref ref-type="fn" rid="fn45">45</xref> A <italic>baraita</italic> in b. Qiddushin 30b does, however, raise the question as to the source of the obligation of women to fear parents, given that Leviticus 19:3 addresses only the male (<italic>ish</italic>):</p>
+    <disp-quote>
+      <p>If so, [that both of them are obligated,] what [is the meaning when] the verse states: “Man?” [In the case of] a man, [it is] in his power to perform [this mitzvah; whereas with regard to] a woman, [it is] not [always] in her power to perform [this mitzvah,] because she is under the authority of another [person, i.e., her husband].<xref ref-type="fn" rid="fn46">46</xref></p>
+    </disp-quote>
+    <p>In this statement, priority is given to the familial obligations of a married woman to her husband. In so doing, the <italic>baraita</italic> emphasizes her dependence on him. Nevertheless, the rabbis obligate women to the commandment of fearing parents. If Leviticus 19:3 is viewed in the context of a speech delivered to “all the congregation of the people of Israel” (כל-עדת בני-ישראל; Leviticus 19:2), women are just as much addressees as men.</p>
+    <p>The analysis of commandments listed in b. Qiddushin 33b–35a and b. Berakhot 20b whose assignment to men and women deviates from their biblical addressees also shows clearly that the addressees of Torah verses are unreliable as a criterion for the Talmudic exemption or obligation of women with regard to a mitzvah. The same is true of the principle handed down in m. Qiddushin 1:7 concerning the exemption and obligation of women with regard to time-bound and non-time-bound commandments.</p>
+  </sec>
+</sec>
+<sec id="part-2-a-principle-that-isnt-womens-exemption-from-time-bound-commandments">
+  <label>2</label>
+  <title>A Principle That Isn’t: Women’s Exemption from Time-Bound Commandments</title>
+  <sec id="tefillin-the-paradigmatic-time-bound-commandment">
+    <label>2.1</label>
+	<title><italic>Tefillin</italic>: The Paradigmatic Time-Bound Commandment</title>
+    <p>The commandment to don <italic>tefillin</italic> plays a special role with regard to the exemption of women from a number of mitzvot. This is because a general principle is established in the Gemara to m. Qiddushin 1:7:<xref ref-type="fn" rid="fn47">47</xref></p>
+    <disp-quote>
+      <p>From where do we [derive that] women are exempt from positive, time-bound mitzvot? [It is] derived [by juxtaposition] from [the mitzvah of] phylacteries: Just as women are exempt from [donning] phylacteries, so too, women are exempt from all positive, time-bound mitzvot.<xref ref-type="fn" rid="fn48">48</xref></p>
+    </disp-quote>
+    <p>In this Gemara, the donning of <italic>tefillin</italic> is treated as the paradigmatic time-bound commandment from which the entirety of time-bound commandments is derived. Immediately following this passage, the Gemara explains the exemption of women from <italic>tefillin</italic> by referring to their exemption from <italic>talmud torah</italic>, a non-time-bound commandment:</p>
+    <disp-quote>
+      <p>And [the exemption of women from donning] phylacteries is derived from [their exemption from] Torah study, [as derived from Deuteronomy 11:19], so too women are exempt from [donning] phylacteries, [as the two issues are juxtaposed in the Torah (Deuteronomy 6:7–8)].<xref ref-type="fn" rid="fn49">49</xref></p>
+    </disp-quote>
+    <p>This line of argumentation can provide insight into what might have motivated the <italic>tannaim</italic> and <italic>amoraim</italic> to exempt women from various time-bound and non-time-bound commandments. It should be noted that the Gemara in b. Qiddushin associates <italic>tefillin</italic> and in y. Berakhot the <italic>shema</italic> with the non-time-bound commandment <italic>talmud torah</italic>.<xref ref-type="fn" rid="fn50">50</xref> This association is decisive, since the tannaitic and amoraic rabbis accord <italic>talmud torah</italic> exceptional significance: They use the obligation to study to close the gap that appeared following the destruction of the Second Temple in 70 C.E., when many of the commandments and rituals of Temple activity that contributed to the maintenance of Jewish identity lost their relevance.<xref ref-type="fn" rid="fn51">51</xref> In so doing, the rabbis create a parallel between priests and their Temple rituals, on the one hand, and between non-priestly men and their study of Torah, on the other.</p>
+    <p>This parallel between the status of priests and that of scholars is exemplified by a Mishnah in tractate Horayot. In m. Horayot 3:8, the social hierarchy is illustrated on the basis of the status of various groups of men. As a rule, priests are at the top of this hierarchy; however, if Torah scholarship is considered, the Mishnah accords a learned “bastard” (ממזר תלמיד חכמים)<xref ref-type="fn" rid="fn52">52</xref> a higher status than an ignorant high priest (כהן גדול עם הארץ).<xref ref-type="fn" rid="fn53">53</xref> In other words, acquired learning overcomes the inborn stigma of the <italic>mamzer</italic> and even trumps the inborn status of the high priest.<xref ref-type="fn" rid="fn54">54</xref></p>
+    <p>The obligation to continue <italic>mishkan</italic>- and Temple-related rituals such as <italic>lulav</italic> and <italic>shofar</italic> is also assigned solely to men.<xref ref-type="fn" rid="fn55">55</xref> Whereas the Torah text distinguishes between the priestly elite and the people, in rabbinic Judaism, all free adult males take on the high social status previously reserved for (male) priests, a status that is associated with more obligations.<xref ref-type="fn" rid="fn56">56</xref> The <italic>tannaim</italic> and <italic>amoraim</italic> limit themselves, however, to an exemption—a kind of dispensation<xref ref-type="fn" rid="fn57">57</xref>—of women from these commandments and, in contrast to the Torah, forego an explicit prohibition. Whereas the ordinary person—man or woman—was forbidden to carry out priestly functions in the Temple,<xref ref-type="fn" rid="fn58">58</xref> in rabbinic Judaism, women are not forbidden, but exempt: They are not required to take on a number of obligations but are permitted to carry them out voluntarily. However, the voluntary observance of commandments to which she is not obligated does not entitle a woman to the same high status accorded free adult men. The rabbis emphasize repeatedly that the fulfilling of commandments to which a person is obligated deserves more regard than the voluntary fulfilling of commandments to which he or she is not obligated.<xref ref-type="fn" rid="fn59">59</xref></p>
+  </sec>
+  <sec id="arguing-with-time-boundness">
+    <label>2.2</label>
+    <title>Arguing with Time-Boundness</title>
+    <p>What is a time-bound commandment? The <italic>tannaim</italic> and <italic>amoraim</italic> address this question in the tractates Qiddushin and Berakhot: As noted above, they mention <italic>sukkah,</italic> <italic>lulav</italic>, <italic>shofar</italic>, <italic>tzitzit</italic>, <italic>tefillin,</italic> and <italic>shema</italic> as examples of time-bound commandments from which women are exempt.<xref ref-type="fn" rid="fn60">60</xref> These six examples of <italic>mitzvot aseh she hazman graman</italic> do not appear to be illustrative, however, but rather to make up a virtually exhaustive list.<xref ref-type="fn" rid="fn61">61</xref> Indeed, in the Gemara of both Talmuds, there seems to be just one additional commandment accompanied by the argument of time-boundness when exempting women, and this commandment is included in the discussion of m. Qiddushin1:7 as well:<xref ref-type="fn" rid="fn62">62</xref> In the context of the obligation to appear in the Temple on each of the three pilgrim festivals (Deuteronomy 16:16; ראייה), the question of why women—despite the time-boundness of the commandment (which by itself would suffice as a ground for exemption)—are expressly exempted on account of the Torah phrase “all your males” (כל-זכורך) is posed in b. Qiddushin 34b.<xref ref-type="fn" rid="fn63">63</xref></p>
+    <p>The time-boundness of a number of these six mitzvot is the subject of controversy: Tannaitic and amoraic literature hand down contradictory opinions with regard to <italic>tzitzit</italic>, <italic>shema,</italic> and <italic>tefillin</italic> (the paradigmatic time-bound commandment).<xref ref-type="fn" rid="fn64">64</xref></p>
+    <p>After first referring to <italic>tzitzit</italic> as an example of a non-time-bound commandment—to which women are, as a rule, obligated—the Tosefta and the Jerusalem Talmud then hand down Rabbi Shimon’s opposing opinion, which ultimately prevailed:</p>
+    <disp-quote>
+      <p>What is a positive commandment that is not activated by time? For example returning lost articles, sending away the [mother from the] nest, railing, and donning <italic>tzitzit</italic>. Rabbi Shimon exempts women from <italic>tzitzit</italic> because it is a positive commandment activated by time.<xref ref-type="fn" rid="fn65">65</xref></p>
+    </disp-quote>
+    <p>In the eyes of some rabbis, <italic>tefillin</italic>, too, does not belong to the category of time-bound commandments. In tractate Eruvin of the Babylonian Talmud, for example, it is inferred from the statements of Rabbi Meir and Rabbi Yehuda that <italic>tefillin</italic> is not time-bound:</p>
+    <disp-quote>
+      <p>Michal, daughter of Kushi, would don phylacteries, and the Sages did not protest against her [behavior]. (…) From [the fact] that the Sages did not protest against [Michal’s donning phylacteries], it is apparent that these [Sages] hold [that phylacteries] is a positive mitzvah not bound by time. (…) Rather, it is this tanna [who taught the halakha], as it was taught [in the Tosefta]: One who finds phylacteries [on Shabbat] brings them in pair [by] pair, whether a man or whether a woman, whether [the phylacteries are] new or whether [they are] old. [This is] the statement of Rabbi Meir. Rabbi Yehuda prohibits [bringing in] new [phylacteries], but [he] permits [bringing in] old [ones]. [They] disagree only with regard to [the issue of] new [phylacteries] and old one; however, with regard to a woman [bringing the phylacteries], they do not disagree [that it is permitted]. Learn from it [that this tanna maintains that donning phylacteries] is a positive mitzvah not bound by time, and women are obligated in every positive mitzvah not bound by time.<xref ref-type="fn" rid="fn66">66</xref></p>
+    </disp-quote>
+    <p>This position did not find its way into practice. It is noteworthy, however, that in this Gemara, both the time-boundness of <italic>tefillin</italic> as well as the non-obligation of women to this commandment are called into question. And this despite the fact that—as mentioned above—in tractate Qiddushin of the Babylonian Talmud <italic>tefillin</italic> is defined as the paradigmatic time-bound commandment.</p>
+    <p>To be sure, it is not time-boundness but <italic>talmud torah</italic> that is at the center of the argument: In b. Qiddushin 34a, the Gemara explains the exemption of women from <italic>tefillin</italic> by means of the non-time-bound commandment to teach and study Torah.<xref ref-type="fn" rid="fn67">67</xref> The same argument is used in tractate Berakhot of the Jerusalem Talmud in a discussion of the exemption of women (and slaves) from the time-bound <italic>shema</italic>.<xref ref-type="fn" rid="fn68">68</xref> In this Gemara, the argument is bolstered by pointing to the addressees of the biblical commandments of <italic>shema</italic> and <italic>tefillin</italic>:</p>
+    <disp-quote>
+      <p>Women, slaves, and minors are exempt from reading the <italic>shema</italic> and <italic>tefillin</italic> (…).<xref ref-type="fn" rid="fn69">69</xref></p>
+      <p>Women from where? “You must teach them to your sons.” To your sons but not to your daughters. Slaves from where? “Hear, o Israel, the Eternal, our Power, the Eternal is unique.” He who has only one Lord, this excludes the slave who has another lord.<xref ref-type="fn" rid="fn70">70</xref></p>
+    </disp-quote>
+    <p>In exempting women from <italic>shema</italic>, the Jerusalem Talmud relies on the word “your sons” (לבניך; Deuteronomy 6:7)—addressees of <italic>tefillin</italic> as repeated in Deuteronomy 11:18—and in so doing uses the same argument that the rabbis use to explain the non-obligation of women to <italic>talmud torah.</italic><xref ref-type="fn" rid="fn71">71</xref> They do this even though the fundamental exemption of women from time-bound commandments would seem to be the obvious argument.</p>
+    <p>In exempting women from <italic>sukkah,</italic> <italic>lulav</italic>, and <italic>shofar</italic>—the other three rituals mentioned in the tractates Qiddushin and Berakhot as examples of time-bound commandments—the <italic>tannaim</italic> and <italic>amoraim</italic> also do not base their arguments solely on the ground that these rituals belong to the category of time-bound commandments.<xref ref-type="fn" rid="fn72">72</xref> The question is raised (e.g., by Elizabeth Shanks Alexander and Pamela Barmash) of whether the rabbinic exemption of women from time-bound commandments such as <italic>shofar</italic>, <italic>sukkah,</italic> and <italic>lulav</italic> developed independently of the categories handed down in m. Qiddushin 1:7 so that these three commandments were only subsequently added to the category <italic>mitzvot aseh she hazman graman</italic> or whether women were exempted as a result of the mishnaic categories.<xref ref-type="fn" rid="fn73">73</xref> If <italic>sukkah,</italic> <italic>lulav,</italic> and <italic>shofar</italic>—along with <italic>talmud torah</italic> and its associated time-bound commandments—are viewed as “ersatz Temple rituals,” the latter is more likely: The six commandments listed in the tractates Qiddushin and Berakhot as examples of time-bound commandments from which women were exempted serve to establish a man-woman hierarchy in place of the previously-existing priest-Israel hierarchy, both of which are expressed in terms of the unequal obligation to commandments.<xref ref-type="fn" rid="fn74">74</xref></p>
+    <p>In discussing the obligations of women with respect to these six time-bound commandments as well as to <italic>re’iyah,</italic> the <italic>tannaim</italic> and <italic>amoraim</italic> could have relied entirely on the categorical exemption of women from time-bound commandments handed down in m. Qiddushin 1:7. Instead, they either question the time-boundness of the commandments or they present other grounds for the non-obligation of women.<xref ref-type="fn" rid="fn75">75</xref> Furthermore, the rabbis are quick to point out the contradiction to the principle handed down in m. Qiddushin 1:7 that arises every time women are not obligated to non-time-bound commandments.<xref ref-type="fn" rid="fn76">76</xref> Thus, it seems that time-boundness is not the only criterion for the obligation or exemption of women.<xref ref-type="fn" rid="fn77">77</xref> The alternative argument for the exemption of women based on <italic>talmud torah</italic> hints at possible rabbinic motives: the creation of a hierarchy between men and women that is modeled on the priest-people hierarchy in <italic>mishkan</italic> and Temple and that redefines traditions in the course of the democratization of religious practice during the transition from Temple to rabbinic Judaism.<xref ref-type="fn" rid="fn78">78</xref> The Torah distinguishes between Israel—that is, (lay)people—and male priests (and Levites) and obligates the latter to more commandments. In contrast, the <italic>tannaim</italic> and <italic>amoraim</italic> obligate ordinary men to a number of commandments—such as the Temple rituals of <italic>shofar</italic> and <italic>lulav</italic>—from which they exempt women, who retain the status “people” and who are thus exempt from these commandments. The same kind of hierarchical thinking, carried over from the biblical to the rabbinic value system, is the basis for the exemption of women from <italic>talmud torah</italic> and its associated commandments: After the destruction of the Second Temple and the corresponding loss of Temple rituals, both the tannaitic and amoraic rabbis envision a central role for <italic>talmud torah</italic><xref ref-type="fn" rid="fn79">79</xref> but obligate only men to this mitzvah and its associated rituals, namely, the <italic>shema,</italic><xref ref-type="fn" rid="fn80">80</xref> which includes <italic>tefillin</italic> and <italic>tzitzit</italic>.<xref ref-type="fn" rid="fn81">81</xref> In so doing, the rabbis draw on the task of teaching Israel given to the Levites and priests in Deuteronomy 33:10,<xref ref-type="fn" rid="fn82">82</xref> expand it, and assign it to all men, leaving women in the role once reserved for the entire people.</p>
+    <p>In contrast, the rabbis do not associate <italic>tzitzit</italic>—unlike <italic>tefillin</italic> and <italic>shema</italic>—with <italic>talmud torah.</italic> There is, however, an indirect connection. In Numbers 15:39, the verse following the source of the commandment (according to the rabbis), the Torah refers to the purpose of <italic>tzitzit:</italic></p>
+    <disp-quote>
+      <p>You have the fringe so that, when you see it, you will remember <italic>all the commandments</italic> of the Lord and do them, and not follow the lust of your own heart and your own eyes. So you shall remember and do <italic>all my commandments</italic>, and you shall be holy to your God.<xref ref-type="fn" rid="fn83">83</xref></p>
+    </disp-quote>
+    <p>The purpose of <italic>tzitzit</italic> is to remind <italic>bnei</italic> <italic>yisrael</italic><xref ref-type="fn" rid="fn84">84</xref> to fulfill “all commandments” (כל-מצוות). Since the <italic>tannaim</italic> do not obligate women to <italic>kol mitzvot</italic>,<xref ref-type="fn" rid="fn85">85</xref> the rabbis might have thought, there is no need for a continuous reminder in the form of knotted strings on the four corners of a rectangular piece of clothing. The <italic>tzitzit</italic> are merely a physical reminder to fulfill all the commandments, whereas <italic>talmud torah</italic> leads the student to their actual fulfillment and is thus considered to be more important than the fulfillment itself.<xref ref-type="fn" rid="fn86">86</xref> <italic>Tzitzit</italic> as a constant companion and reminder and <italic>talmud torah</italic> as a motivating technique: Both are needed only by those obligated to <italic>kol mitzvot</italic>.<xref ref-type="fn" rid="fn87">87</xref></p>
+    <p>In summary, the rabbinic exemption of women from a number of commandments is the subject of debate and requires explication. The <italic>tannaim</italic> and <italic>amoraim</italic> do not rely solely on time-boundness; indeed, provisions that deviate from the principle of m. Qiddushin 1:7 also shape religious practice. “One does not learn from general statements, even in a place where it says: Except”:<xref ref-type="fn" rid="fn88">88</xref> This terse comment of Rabbi Yohanan in the Gemara to m. Qiddushin 1:7 puts this into words, and it weakens the principle established in this Mishnah. Rabbi Yohanan says explicitly what is frequently transmitted only implicitly in tannaitic and amoraic literature: The principle that women are exempt from time-bound commandments fails to convince the rabbis.</p>
+  </sec>
+  <sec id="time-in-the-context-of-autonomy-and-holiness">
+    <label>2.3</label>
+	<title>Time in the Context of Autonomy and Holiness</title>
+    <p>Why do the <italic>tannaim</italic> and <italic>amoraim</italic> refer to the principle of <italic>mitzvot aseh she hazman graman</italic> when they exempt women from some commandments they recognize as biblical? This question is all the more pressing, given their inconsistent application of the principle. Moshe Benovitz even considers the term a “misnomer”:<xref ref-type="fn" rid="fn89">89</xref> The commandments defined as <italic>mitzvot aseh she hazman graman</italic> in the tractates Qiddushin and Berakhot—<italic>sukkah,</italic> <italic>lulav</italic>, <italic>shofar</italic>, <italic>tzitzit</italic>, <italic>tefillin</italic> and <italic>shema</italic><xref ref-type="fn" rid="fn90">90</xref><italic>—</italic>can be distinguished from other time-bound commandments from which women are not exempt. The unique characteristic of these positive commandments, according to Benovitz, is that they are “triggered” <italic>solely</italic> by a specific point in time and do not, for example, represent a counterpart to a prohibition.<xref ref-type="fn" rid="fn91">91</xref> It is this quality that enables them to encourage Torah study (to which only men are obligated):<xref ref-type="fn" rid="fn92">92</xref></p>
+    <disp-quote>
+      <p><italic>Tefillin, ṣiṣit, shema<sup>c</sup>, shofar, sukkah</italic> and <italic>lulav</italic> (and perhaps the paschal offering) are thus uniquely triggered by time and time alone. It is this triggering by time alone, rather than by functional considerations, that allows these <italic>miṣvot</italic> to serve as opportunities for Torah study: time triggers the <italic>miṣvah</italic>, and the sudden <italic>miṣvah</italic> triggers conversation, or Torah study. One might very well say that the Torah study in these cases is triggered by the fact that the <italic>miṣvah</italic> has an “onset” that is independent of other <italic>miṣvot</italic> or considerations; it is this feature that makes the <italic>miṣvah</italic> into pure symbol, a conversation piece. This sudden onset is the true meaning of <italic>shehazeman geramah</italic>.<xref ref-type="fn" rid="fn93">93</xref></p>
+    </disp-quote>
+    <p>The time factor with regard to several of these commandments, primarily <italic>tzitzit,</italic> is not, however, uncontroversial among the <italic>tannaim</italic> and <italic>amoraim</italic>. Moreover, the question arises as to why a non-time-bound, symbolic commandment such as <italic>mezuzah</italic> (which has no proscriptive counterpart, either) should not also be considered a <italic>talmud torah</italic> trigger and, consequently, obligatory only for men. It is also questionable if commandments such as <italic>sukkah</italic> and <italic>lulav</italic> really stimulate <italic>talmud torah</italic> to a greater extent than do other commandments such as prayer, fasting, or charity.</p>
+    <p>The tendency in the scholarly literature is to view the principle transmitted in m. Qiddushin 1:7 as an ex post justification for the exemption of women from a series of commandments that happen to be time-bound.<xref ref-type="fn" rid="fn94">94</xref> But regardless of when the principle was introduced, in one way or another, the <italic>tannaim</italic> and <italic>amoraim</italic> must have associated the commandments from which they exempted women with time (זמן).<xref ref-type="fn" rid="fn95">95</xref> Given the context of m. Qiddushin 1:7—it is preceded by regulations concerning the acquisition (קנה) by men of women, slaves, animals, and goods<xref ref-type="fn" rid="fn96">96</xref>—the exemption from a number of time-bound commandments can be seen as an expression of women’s lack of autonomy, in contrast to male autonomy, and the fact that they were unable to dispose freely of their time:<xref ref-type="fn" rid="fn97">97</xref> The rabbis associate the privilege of being obligated to more commandments with time, which to them symbolizes independence and freedom.</p>
+    <p>The principle of <italic>mitzvot aseh she hazman graman</italic> must also be viewed from the perspective of the sanctification of time. In Genesis, at the end of the creation story, the Torah refers—in connection with the sanctification of the seventh day—to holiness (קדשה).<xref ref-type="fn" rid="fn98">98</xref> Günter Stemberger points out that human beings are fundamentally involved in the structuring of time and thus also in its sanctification.<xref ref-type="fn" rid="fn99">99</xref> Whereas the mitzvah of sanctifying Shabbat applies to all, men and women, the mitzvot associated with the Temple and its holiness<xref ref-type="fn" rid="fn100">100</xref> are reserved, as a rule, for the priests. By transferring the obligation to fulfill “ersatz Temple rituals” to men, the <italic>tannaim</italic> and <italic>amoraim</italic> may also—symbolically—have transferred the sanctification of time, which is associated with priestly tasks, to men. This would help minimize the decrease in opportunities to engage with holiness<xref ref-type="fn" rid="fn101">101</xref> that accompanied the destruction of the Temple and would at the same time make rituals that were previously reserved for priests accessible to non-priestly men.</p>
+    <p>In this transformation of the priestly Temple space into a space characterized by time and dominated by male heads of households, Natan Margalit sees a basis for the rabbinic category of time-bound commandments.<xref ref-type="fn" rid="fn102">102</xref> Supported by Judith Hauptman’s claim that the time factor of the <italic>mitzvot aseh she hazman graman</italic> should be understood qualitatively and not quantitatively,<xref ref-type="fn" rid="fn103">103</xref> Margalit draws parallels between the tasks of priests in the Temple and the tasks of men in rabbinic Judaism:</p>
+    <disp-quote>
+      <p>In the post-Temple, rabbinic era of Judaism, the sacred space of the Temple was replaced by the increased emphasis on sacred time. The priestly duties of honoring God shifted from the realm of priests in the Temple to the male householders in the field of time.<xref ref-type="fn" rid="fn104">104</xref></p>
+    </disp-quote>
+    <p>Viewed in this light, the legacy of (male) priestly duties and priestly status would seem to be the main purpose behind the creation of the rabbinic category of time-bound commandments (and the simultaneous exemption of women from them) whereas the attribute of time would seem to be only of secondary significance.</p>
+    <p>Taking into account Stemberger’s “structured time,” which shapes the Jewish year,<xref ref-type="fn" rid="fn105">105</xref> the exemption of women from time-bound commandments can also be seen as a flip side of the male privilege of having a larger share of this structured time and its sanctification.<xref ref-type="fn" rid="fn106">106</xref> But despite reflections such as these, it must be acknowledged that the correlation between the principle of time-bound mitzvot and the notion of time is still widely unexplored.</p>
+  </sec>
+  <sec id="patur-exempt-but-in-principle-obligated">
+    <label>2.4</label>
+	<title><italic>Patur</italic>: Exempt, but in Principle Obligated</title>
+    <p>When exempting women from time-bound commandments in the tractates Qiddushin and Berakhot, the rabbis rely on the verb <italic>patar</italic> (הנשים פטורות).<xref ref-type="fn" rid="fn107">107</xref> The term is, however, used for men as well. For example, when exempting a man from the <italic>shema</italic> in Mishnah Berakhot, <italic>patar</italic> appears twice: in the context of a bridegroom on his wedding night and in the context of a mourner prior to burial.<xref ref-type="fn" rid="fn108">108</xref> Both of these cases involve a temporary exemption from a commandment due to extraordinary circumstances.<xref ref-type="fn" rid="fn109">109</xref> The Mishnah also uses the term <italic>patur</italic> when permitting men and women to disregard generally applicable prohibitions. In life-threatening situations on Shabbat, for example, a light may be extinguished.<xref ref-type="fn" rid="fn110">110</xref> This, too, involves a temporary suspension of an otherwise binding law.</p>
+    <p>In contrast, the <italic>tannaim</italic> do not provide criteria that limit the duration of the exemption of women in m. Qiddushin 1:7. Thus, the question arises whether <italic>patur</italic> implies a fundamental obligation regarding time-bound commandments, as in the above examples, combined with a permanent exemption—a kind of “dispensation”—or rather a fundamental non-obligation. The use of the term <italic>patur</italic> speaks for the former: Unlike the Torah, which explicitly forbids non-priests from carrying out priestly commandments,<xref ref-type="fn" rid="fn111">111</xref> the tannaitic and amoraic rabbis do not declare a prohibition (אסור).<xref ref-type="fn" rid="fn112">112</xref> On the contrary, <italic>patur</italic> seems to set aside a fundamental obligation of women regarding commandments<xref ref-type="fn" rid="fn113">113</xref> on the basis of unnamed circumstances.</p>
+    <p>Clues as to what might have induced the rabbis to exempt women from time-bound commandments can be found, among other places, in a Mishnah in tractate Horayot, which states that in a life-threatening situation the life of a man has priority over the life of a woman.<xref ref-type="fn" rid="fn114">114</xref> This statement is an expression of the subordinate status of women in a patriarchal society and of her subordinate status in a system in which obligation to commandments is considered a privilege and a higher level of obligation leads to a higher social status.<xref ref-type="fn" rid="fn115">115</xref></p>
+    <p>The context of m. Qiddushin 1:7 also contains clues for correlations between the exemption of women from time-bound commandments and their status and for parallels between the hierarchies priest–Israel and man–woman: The division of pre- and proscriptions into four categories is found in the same chapter as the acquisition <italic>(kanah)</italic> by free men of women (betrothal), slaves, cattle, and goods<xref ref-type="fn" rid="fn116">116</xref> and a listing of eight Temple rituals, of which six are reserved for male priests and all without exception are reserved for men.<xref ref-type="fn" rid="fn117">117</xref> This chapter contains two levels of laws: rabbinic rituals and commandments adapted for a Judaism without a Temple and biblical Temple rituals. Whereas the latter in m. Qiddushin 1:8—representing the biblical hierarchy priest–Israel—are reserved for priests and forbidden to ordinary men and all women (except for laying hands and waving when bringing animal sacrifices), the former in m. Qiddushin 1:7—representing the hierarchy men–women—do not contain a prohibition for women, but merely an exemption.<xref ref-type="fn" rid="fn118">118</xref> The absence of a rabbinic prohibition means that women are free to engage in the voluntary fulfillment of time-bound commandments.<xref ref-type="fn" rid="fn119">119</xref></p>
+    <p>But why do the <italic>tannaim</italic> and <italic>amoraim</italic> permanently exempt all women from <italic>mitzvot aseh she hazman graman</italic>? If time as a quantifiable resource were the criterion, they could have limited the exemption, as they did in the aforementioned examples involving men and the <italic>shema</italic>.<xref ref-type="fn" rid="fn120">120</xref> For as a rule a single, divorced, widowed, or childless woman, like a man, has more time at her disposal than a wife and mother of young children. Thus, the rabbis need only have exempted women temporarily from the performance of commandments where necessary due to family or other circumstance. The permanent exemption indicates that rabbinic decisions were influenced by a qualitative concept of time, such as the sanctification of time.<xref ref-type="fn" rid="fn121">121</xref> Evidence for this can be seen in the time-bound commandments discussed in the tractates Qiddushin and Berakhot: They include the laws associated with the non-time-bound “ersatz Temple ritual” <italic>talmud torah</italic>, namely, <italic>shema</italic>, <italic>tefillin</italic>, and <italic>tzitzit</italic>, and Temple rituals such as <italic>shofar</italic> and <italic>lulav</italic> as adapted for rabbinic Judaism. In addition, by exempting women from “ersatz Temple rituals,” the tannaitic and amoraic rabbis echo the explicit prohibition of women from carrying out Temple rituals as listed, inter alia, in m. Qiddushin 1:8. It is noteworthy that this prohibition is limited to Temple rituals. Commandments defined as <italic>mitzvot aseh she hazman graman</italic> are closely linked to the Temple and its holiness and to priestly rituals. In contrast, time-bound commandments recognized as biblical by the <italic>tannaim</italic> and <italic>amoraim</italic> that are not closely connected to Temple rituals are generally obligatory for women just as they are for men.<xref ref-type="fn" rid="fn122">122</xref></p>
+  </sec>
+  <sec id="from-man-to-man-ersatz-temple-rituals-and-the-priestly-legacy">
+    <label>2.5</label>
+	<title>From Man to Man: “Ersatz Temple Rituals” and the Priestly Legacy</title>
+    <p>Following their depiction of the four categories of laws in m. Qiddushin 1:7—time-bound and non-time-bound prescriptions and time-bound and non-time-bound proscriptions—neither the <italic>tannaim</italic> nor the <italic>amoraim</italic> provide a justification for this newly created principle.<xref ref-type="fn" rid="fn123">123</xref> They also do not rely on biblical sources to explain or legitimize this step. The Torah text does not distinguish between time-bound and non-time-bound commandments, and for the most part, it also does not divide commandments into mitzvot for men and mitzvot for women.<xref ref-type="fn" rid="fn124">124</xref> What motivated the <italic>tannaim</italic> to divide the commandments into four categories and to apply this system for the purpose of distinguishing between men and women (and between men, on the one hand, and minors and slaves, on the other)?<xref ref-type="fn" rid="fn125">125</xref> The answer might lie in the selection of the time-bound mitzvot used as examples in the discussion of the four categories in the tractates Qiddushin and Berakhot: They are either mitzvot that the rabbis associated with <italic>talmud torah</italic>—a practice that took on a central role in rabbinic Judaism as the <italic>tannaim</italic> and <italic>amoraim</italic> sought to replace the lost Temple rituals—or mitzvot that were associated with priestly Temple rituals and that were redefined for rabbinic Judaism.<xref ref-type="fn" rid="fn126">126</xref> Both groups of commandments can be subsumed under the common category “ersatz Temple rituals”: rituals carried out by non-priestly men in place of priestly rites that could no longer be performed in the absence of a Temple.</p>
+    <p>The creation of four categories of laws by the Tannaites and their decision to obligate men to all four of them and women to just three leads to a hierarchy of mitzvot between men and women that replaces the previously-existing biblical hierarchy of mitzvot between priests and Israel. Central to the different obligations of men and women to the <italic>mitzvot aseh she hazman graman</italic> is neither the expenditure of time nor the timeframe within which a commandment must be fulfilled but rather a differentiation between the religious practice of men and women that replaces the differentiation between the religious practice of priests and Israel.<xref ref-type="fn" rid="fn127">127</xref> In other words, this category enables the rabbis to distinguish between the religious practice and status of men and women and to bestow the position of highest authority, previously reserved for male priests, upon all men (the group of people most like themselves):</p>
+    <disp-quote>
+      <p>Women were exempted from the essential ritual acts of Judaism, those that year in and year out mark Jewish time, in order to restrict their performance to men, to heads of household; only people of highest social standing, according to the rabbis, does God consider most fit to honor or worship Him in this important way. This hierarchical arrangement is reminiscent of Temple protocol. Only <italic>kohanim</italic>, the individuals of highest social standing, as evidenced by their more stringent rules for marriage, ritual purity, and physical fitness (Leviticus 21), could serve as Temple functionaries. The point is that those who serve God must themselves be especially worthy. In rabbinic society this meant that only males were fitting candidates for the time-bound positive commandments, the highest form of ritual act.<xref ref-type="fn" rid="fn128">128</xref></p>
+    </disp-quote>
+    <p><italic>Talmud torah</italic>, given a crucial role by the <italic>tannaim</italic> and <italic>amoraim</italic>, is an identity-generating ritual that, like prayer, helps fill the gaps caused by the destruction of the Second Temple.<xref ref-type="fn" rid="fn129">129</xref> It is no longer the Temple but rather study for the sake of study (תורה לשמה) and communal prayer<xref ref-type="fn" rid="fn130">130</xref> that are at the center of religious practice. All who are obligated to Torah study and its associated mitzvot such as <italic>shema</italic> and <italic>tefillin</italic>—that is to say, all free adult men—step into the footsteps of the priests who, in the time of the Temple, were exclusively responsible for numerous tasks and mitzvot:<xref ref-type="fn" rid="fn131">131</xref></p>
+    <disp-quote>
+      <p>While the sacrificial service could take place only in the Temple and only be performed by people born into a priestly caste with the proper preparation, Torah study could now be achieved by anyone (albeit, men only) at any time and place, with the appropriate learning ability.<xref ref-type="fn" rid="fn132">132</xref></p>
+    </disp-quote>
+    <p>The situation is similar as far as Temple rituals such as <italic>shofar</italic> and <italic>lulav</italic> are concerned. These rituals were reconfigured for life without the Temple and carried over into rabbinic Judaism:<xref ref-type="fn" rid="fn133">133</xref> all who are obligated to perform them—all ordinary men—take on a role that exhibits parallels to that of the priests in the Temple.</p>
+    <p>During the Temple era, neither the <italic>lulav</italic> nor the <italic>shofar</italic> commandment was fulfilled exclusively by priests. Nevertheless, in handing down the two rituals, the rabbis describe a practice designed for the Temple in Jerusalem and activities reserved for the priests.<xref ref-type="fn" rid="fn134">134</xref> For example, it is the priests in the Temple who “enter between the entrance hall and the altar in order to fulfill [the obligation of the mitzvah of] the willow branch”<xref ref-type="fn" rid="fn135">135</xref> and who on the first six days of <italic>sukkot</italic> circle the altar with the <italic>lulav</italic> in their hands once and on the last day seven times.<xref ref-type="fn" rid="fn136">136</xref> During the Temple period, it is only at the Temple itself that the <italic>lulav</italic> is in use for all seven days of the festival week; outside the Temple, the ritual is typically carried out just on the first day of <italic>sukkot</italic>.<xref ref-type="fn" rid="fn137">137</xref> And in m. Sukkah 4:4, the Mishnah requires the <italic>lulavim</italic> to be brought to the Temple mount prior to the beginning of the holiday if the first day of <italic>sukkot</italic> falls on a Shabbat.</p>
+    <p><italic>Shofar</italic> is dealt with in a comparable way. For example, a list of various groups of men who are obligated to the <italic>shofar</italic> commandment on <italic>rosh hashanah</italic> includes priests; according to the Gemara in b. Rosh Hashanah 29a, this explicit mention is necessary in order to distinguish between the holiday role of priests, who are obligated to <italic>shofar</italic> throughout the entire year, from the role of the other groups, who are only obligated during the New Year’s festival.<xref ref-type="fn" rid="fn138">138</xref> And in m. Rosh Hashanah 4:1, the Mishnah points out that during the Temple period the rules that applied to the blowing of the <italic>shofar</italic> in Jerusalem when the New Year’s festival fell on Shabbat differed from the rules applicable in other places. In Sifre Bamidbar on Numbers 10:8 (“The sons of Aaron, the priests, shall blow the trumpets”), the interpretation of the biblical text is that the blowing of the <italic>shofar</italic> on the occasion of a congregational assembly is reserved solely for the priests. In light of this and other sources, Shmuel Safrai points out that the Tannaites considered the blowing of the <italic>shofar</italic> in the Temple on <italic>rosh hashanah</italic> a priestly prerogative.<xref ref-type="fn" rid="fn139">139</xref></p>
+    <p>With regard to <italic>sukkah</italic>, things are somewhat different: Priests have no special role vis-à-vis this commandment.<xref ref-type="fn" rid="fn140">140</xref> A parallel can be drawn, however, between the Temple space of priests and the <italic>sukkah</italic> space of ordinary men: Just as the Temple is the space where priests must fulfill their religious tasks, the <italic>sukkah</italic> is the space where ordinary men must fulfill their obligation to dwell in the booth during the festival of <italic>sukkot</italic>.<xref ref-type="fn" rid="fn141">141</xref> But the same is true here as with all <italic>mitzvot aseh she hazman graman:</italic> Whereas the Torah forbids ordinary people from carrying out priestly tasks, rabbinic Judaism merely exempts women from these commandments. Thus, while priests must fulfill their obligations solely among their peers, married couples may dwell together in the booth during the week of <italic>sukkot</italic> if they so choose.</p>
+    <p>As mentioned, the Torah text does not, as a rule, distinguish between men and women when it commands but rather distinguishes between priests—and other male dignitaries such as elders or kings—and Israel. By creating four categories of laws and exempting women from one of them, the <italic>tannaim</italic> mimic the priest-Israel hierarchy and transform it into a man-woman hierarchy.<xref ref-type="fn" rid="fn142">142</xref> This undertaking is similar to the approach taken in the context of public Torah reading:<xref ref-type="fn" rid="fn143">143</xref> There, the biblical hierarchy “reading male elite–listening people (men and women)”—as, for instance, on the occasion of <italic>hakhel</italic><xref ref-type="fn" rid="fn144">144</xref>—is transformed into a rabbinic hierarchy “reading and listening man–listening woman.” Thus, the task of reading, previously reserved for male dignitaries, is expanded to encompass ordinary men, who step into the footsteps of the elite.<xref ref-type="fn" rid="fn145">145</xref> And just as the <italic>tannaim</italic> here demonstrate their awareness of the dissonance between Torah and rabbinic commandments by permitting—in principle, but not in practice—women to participate in the Torah reading ceremony,<xref ref-type="fn" rid="fn146">146</xref> the Tannaites and Amorites refer in the tractates Qiddushin and Berakhot to an exemption of women and not to a prohibition vis-à-vis a number of time-bound commandments. In practice, however, it is usually just men—explicitly obligated by the rabbis—who fulfill the <italic>mitzvot aseh she hazman graman</italic>, even though the Torah addresses these commandments to the entire people of Israel, regardless of sex. This assignment of commandments, which often deviates from the biblical addressees, reflects the patriarchal social order of antiquity as well as a tradition that might have been customary already at the time of the Torah.<xref ref-type="fn" rid="fn147">147</xref></p>
+    <p>By applying different rules to men and women in post-Temple Judaism, the <italic>tannaim</italic> and <italic>amoraim</italic> created a principle parallel to the different commandments that applied to the priests and Israel as handed down in the Torah. Their motive for this step might be revealed by an examination of the selection of mitzvot to which they obligated men and exempted women: The common feature of these commandments was their character as “ersatz Temple rituals.” By using these rituals to distinguish between the sexes, the rabbis perpetuated the elite role and status of priests, with men walking in their footsteps. The resulting inequality in the degrees of obligation of men and women has shaped the religious practice of Jewish women (and men) for centuries.<xref ref-type="fn" rid="fn148">148</xref> In this context, however, the unequal size of the juxtaposed groups must not be ignored: Whereas the priests were a minority,<xref ref-type="fn" rid="fn149">149</xref> women make up half of the population. In contrast to the Torah, which conferred the privilege of the obligation to a broader spectrum of commandments on a small male elite, the rabbis, with their hierarchy of mitzvot conferred privileged status on all men, a move that goes hand-in-hand with a lower social status for all women.</p>
+  </sec>
+</sec>
+<sec id="conclusions">
+  <label>3</label>
+  <title>Conclusions</title>
+  <p>When the Torah commands, it does not, as a rule, distinguish between men and women; instead, most of its mitzvot are addressed to the people as a whole (<italic>bnei</italic> <italic>yisrael</italic>, <italic>yisrael,</italic> etc.). The Torah text does, however, distinguish between commandments that apply only to priests and those that apply to the people as a whole. In contrast, the <italic>tannaim</italic> introduce a systematic framework for distinguishing between commandments for men and commandments for women: In m. Qiddushin 1:7, they create four categories of commandments whose only purpose appears to be to limit the obligation to some commandments to men alone. In defining these categories, the rabbis do not rely on biblical sources. There are six commandments from which the rabbis exempt women in the tractates Qiddushin and Berakhot on the basis of time-boundness and with which they illustrate the category of <italic>mitzvot aseh she hazman graman</italic>—<italic>sukkah,</italic> <italic>lulav</italic>, <italic>shofar</italic>, <italic>tzitzit</italic>, <italic>tefillin,</italic> and <italic>shema</italic>.<xref ref-type="fn" rid="fn150">150</xref> However, an equal number of commandments contradict this principle: In these tractates, women are also exempted from three non-time-bound and obligated to four time-bound commandments. Thus, not only the principle of m. Qiddushin 1:7 but also the exception to this principle would seem to be the rule.<xref ref-type="fn" rid="fn151">151</xref></p>
+  <p>The six time-bound commandments from which the Gemara in Qiddushin and Berakhot exempts women are illustrative of the category <italic>mitzvot aseh she hazman graman</italic>. In the Gemara of the two Talmuds, there appears to be just one additional commandment—<italic>re’iyah</italic>—from which women are exempted explicitly on the basis of time-boundness. Thus, these seven mitzvot make up an exhaustive list.<xref ref-type="fn" rid="fn152">152</xref></p>
+  <p>The <italic>tannaim</italic> and <italic>amoraim</italic> provide no justification for the categorization in m. Qiddushin 1:7, and references to Torah verses, which would root their approach in the biblical text and lend it legitimacy, are few and far between. Instead, they repeatedly question the principle and frequently do not rely solely on time-boundness when exempting women from time-bound commandments.</p>
+  <p>Possible grounds for the principle handed down in m. Qiddushin 1:7 that leads to a distinction between commandments for men and commandments for women can be found in the selection of laws that the rabbis list as examples of time-bound commandments to which women are not obligated: For them, <italic>sukkah,</italic> <italic>lulav</italic>, <italic>shofar</italic>, <italic>tzitzit</italic>, <italic>tefillin,</italic> <italic>shema</italic>, and Torah study symbolize rituals that play a central role in the transformation of a Judaism grounded in offering and Temple rituals—many of which were reserved for priests alone—into a text and study-oriented rabbinic Judaism. In this context, the inconsistent principle regarding the exemption of women from time-bound commandments handed down in m. Qiddushin 1:7—which can be summarized under the moniker “ersatz Temple rituals”—enables the rabbis to create a hierarchy of mitzvot between men and women that takes the place of the previously-existing hierarchy between priests and Israel.</p>
+  <p>What is the difference between a Jewish man and a Jewish woman? From the perspective of the hierarchy proposed in this paper, the answer is: After the Temple ceased to exist, men stepped into the footsteps of the priests and women remained Israel.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+  <fn id="fn1">
+    <p>Heschel, <italic>The Sabbath</italic>, 8.</p>
+  </fn>
+  <fn id="fn2">
+    <p>m. Qiddushin 1:7 (MS Kaufmann; translation by the author/Edward Levin); these principles, which address both men and women, are preceded by principles that apply to parents vis-à-vis their children and children vis-à-vis their parents. The Mishnah exempts mothers from obligations vis-à-vis their sons; examples of such mitzvot are listed in the Gemara in b. Qiddushin 29a. Unless stated otherwise, Hebrew terms in square brackets within quotes were added by the author.</p>
+  </fn>
+  <fn id="fn3">
+    <p>“Prescriptions” or positive commandments refer to מצוות עשה, “proscriptions” or negative commandments to מצוות לא תעשה. Other terms used to refer to pre- and proscriptions include the following: laws, regulations, rules, commandments, and mitzvot.</p>
+  </fn>
+  <fn id="fn4">
+    <p>b. Qiddushin 34a–35a; b. Berakhot 20b.</p>
+  </fn>
+  <fn id="fn5">
+    <p>On the history of research see footnote 122.</p>
+  </fn>
+  <fn id="fn6">
+    <p>In her analysis of Exodus and Leviticus Dorothea Erbele-Küster shows that <italic>bnei yisrael</italic> can mean men and women as well as men. Particularly in the context of the Exodus – both men and women left Egypt – she suggests an inclusive meaning, e.g., in Leviticus 23:42–44 (commandment of <italic>sukkah</italic>; Erbele-Küster, “Der Dienst,” 277–279; see also Brettler, “Women in the Decalogue,” 191–192); see below sections “21 Selected Commandments” and “Rabbinic Assignment Deviates from Biblical Addressees.” For exceptions see below footnote 123. An indication that, from a biblical perspective, <italic>ben</italic> does not exclusively mean “son” can be found in Leviticus 6:11: There, the term is accompanied by the clarification “every male” (also: “every male among the descendants [resp. sons] of Aaron” [כל זכר בבני אהרן]; Erbele-Küster, “Der Dienst,” 275–279; see Rashi on Leviticus 6:11. On the rabbis’ understanding of <italic>yisrael</italic> see below footnote 29; on the importance of context for the meaning of male pronouns and nouns in biblical texts see Stein, “The Grammar,” 7–26.</p>
+  </fn>
+  <fn id="fn7">
+    <p>Staubli and Schroer, <italic>Menschenbilder der Bibel</italic>, 411–412; the Levites constitute a third group (see footnote 16). The priestly Temple tasks were limited to men. Even though women from priestly families shared some of the privileges of male priests – they had, for example, access to sacred foods (see e.g. Leviticus 22:10–13), which, as Sarah Shectman argues, might be evidence that the social status of women in the Torah was not monolithic (Shectman, “The Social Status,” 84, 94–99) – cultic priestly duties in the Temple were carried out exclusively by men (Staubli and Schroer, <italic>Menschenbilder der Bibel</italic>, 64; Marx, <italic>Tractates</italic>, 12; Haran, “Priests and Priesthood,” 513; Biale, <italic>Women and Jewish Law</italic>, 11).</p>
+  </fn>
+  <fn id="fn8">
+    <p>See examples in footnote 130 below.</p>
+  </fn>
+  <fn id="fn9">
+    <p>For other examples illustrating this perception see m. Horayot 3:7–3:8 and sections “<italic>Patur</italic>: Exempt, but in Principle Obligated” and “<italic>Tefillin:</italic> The Paradigmatic Time-Bound Commandment“ below. On the link between obligation to mitzvot and social hierarchy in Temple and rabbinic Judaism suggested by Judith Hauptman see below quote in section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy” (footnote 127; Hauptman, <italic>Rereading the Rabbis</italic>, 227).</p>
+  </fn>
+  <fn id="fn10">
+    <p>b. Qiddushin 31a; see also section “<italic>Patur</italic>: Exempt, but in Principle Obligated” below.</p>
+  </fn>
+  <fn id="fn11">
+    <p>See table in section “21 Selected Commandments” below.</p>
+  </fn>
+  <fn id="fn12">
+    <p>In the Torah text, for example, gender hierarchy can be seen in the more active role of male protagonists as compared to female protagonists and in the fact that direct discourse between God and humankind takes place almost exclusively with men (for exception see e.g. Van der Horst, “Rebekah,” 143). Unlike the Torah, which forbids lay people from performing priestly tasks (see footnote 57), the <italic>tannaim</italic> and <italic>amoraim</italic> merely exempt women from time-bound commandments; they do not forbid their performance by women (Hauptman, <italic>Rereading the Rabbis</italic>, 227; Hauptman, “From the Kitchen,” 121–122). The view that women are prohibited from donning <italic>tefillin</italic> can be found in post-Talmudic rabbinic literature (Brody, “Women, Tefillin, and the Halakhic Process,” 8–17).</p>
+  </fn>
+  <fn id="fn13">
+    <p>Safrai, “Traditional Judaism,” 68; an example of this can be seen in m. Gittin 5:8, according to which the first <italic>aliyah la-torah</italic> during the Torah reading ceremony must be reserved for a kohen (Rhein, “Toralesung,” 52, footnote 114; see also Cohn, <italic>The Memory</italic>, 157, footnote 78).</p>
+  </fn>
+  <fn id="fn14">
+    <p>See e.g. Walzer et al., <italic>The Jewish Political Tradition</italic>, 110–111; Himmelfarb, “A Kingdom of Priests,” 89–90, 102–104; Michael Walzer et al. refer to “the entire people” (110) and Martha Himmelfarb to “all Israel” (104); i.e. they do not limit the assignment of priestly tasks to the non-priestly man; Steven D. Fraade refers to “Levites and non-priests” (Fraade, “Memory and Loss,” 124); regarding the assignment of priestly expertise to (and by) the rabbis see Cohn, <italic>The Memory</italic>, 71, 87–88.</p>
+  </fn>
+  <fn id="fn15">
+    <p>The <italic>shema</italic> is composed of three paragraphs from the Torah: Deuteronomy 6:4–9, Deuteronomy 11:13–21, and Numbers 15:37–41. The first paragraph comprises the commandment of the <italic>shema</italic> itself (Deuteronomy 6:7) as well as of <italic>talmud torah</italic> (6:7), <italic>tefillin</italic> (6:8), and <italic>mezuzah</italic> (6:9). The second paragraph repeats the commandments of <italic>tefillin</italic> and <italic>mezuzah</italic>; the third paragraph comprises the commandment of <italic>tzitzit</italic> (Numbers 15:38). On the correlation of <italic>talmud torah</italic>, <italic>shema,</italic> and <italic>tefillin</italic> see Alexander, <italic>Gender,</italic> 137–143, 176–177.</p>
+  </fn>
+  <fn id="fn16">
+    <p>Hauptman, <italic>Rereading the Rabbis,</italic> 228; Levine, <italic>Jerusalem,</italic> 389; Lehman, “The Gendered Rhetoric,” 329–330; Safrai, “Jerusalem,” 108–112; see also Fraade, “Memory and Loss,” 117. Alongside the priests and Israel, the Levites constitute a third group, one that serves both the priests and Israel (see e.g. Numbers 3:5–13). Given the range of commandments to which they are obligated (and their resulting status), they are located between these two groups; see Haran, <italic>Temples and Temple-Service</italic>, 84–87; Shectman, “The Social Status,” 83–84; for a differentiated consideration of the status of the Levites in biblical times see Leuchter, <italic>The Levites</italic>; see also m. Horayot 3:8. This paper focuses on the status of priests and Israel since the topic at issue – “ersatz Temple rituals” from which women were exempt – is rooted in priestly tasks and not in the (serving) tasks of the Levites. By transferring “ersatz Temple rituals” to men and not to women, the <italic>tannaim</italic> and <italic>amoraim</italic> made men walk in the footsteps of the priests. In contrast, following the destruction of the Second Temple, the biblical rituals of the Levites were not adapted for a Judaism without a Temple. Moreover, there is no group comparable to the Levites, namely, no group that is obligated to fewer mitzvot than men and to more mitzvot than women: The in-between category disappears and all that remains are a few rituals that are purely symbolic in nature.</p>
+  </fn>
+  <fn id="fn17">
+    <p>Deuteronomy 33:10; Walzer et al., <italic>The Jewish Political Tradition</italic>, 111; Tigay, <italic>Deuteronomy</italic>, 325.</p>
+  </fn>
+  <fn id="fn18">
+    <p>t. Megillah 3:11; b. Megillah 23a; Rhein, “Toralesung,” 14–15; see also below section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.”</p>
+  </fn>
+  <fn id="fn19">
+    <p>Whereas in b. Makkot 23b Rabbi Simlai recognized the existence of 613 biblical commandments, the <italic>amoraim</italic> did not define all of them. Indeed, systematic lists of the mitzvot were not compiled until the Middle Ages (see Rhein, <italic>Compilation of the 21 Commandments</italic>).</p>
+  </fn>
+  <fn id="fn20">
+    <p>The Torah does not include the concept of מצוות עשה שהזמן גרמן.</p>
+  </fn>
+  <fn id="fn21">
+    <p>Erbele-Küster, “Der Dienst,” 277–279.</p>
+  </fn>
+  <fn id="fn22">
+    <p>Parallel passages are listed in Rhein, <italic>Compilation of the 21 Commandments</italic>.</p>
+  </fn>
+  <fn id="fn23">
+    <p>In b. Sukkah 2a and Sifra, <italic>parashah</italic> Emor, for example, where the obligation to <italic>sukkah</italic> is discussed, there is a reference to Leviticus 23:42. The first known systematic listings of the Torah verses with the entirety of the 613 commandments are much more recent, among them Sefer Hamitzvot (12th century) and Sefer Hahinukh (13th century).</p>
+  </fn>
+  <fn id="fn24">
+    <p>All of these 11 commandments are included in Moses’ second speech (Deuteronomy 4:44–28:69; see Tigay, <italic>Deuteronomy,</italic> 58), which is addressed to <italic>yisrael</italic> (<italic>bnei yisrael</italic> in Deuteronomy 4:44; <italic>kol</italic>-<italic>yisrael</italic> in Deuteronomy 5:1).</p>
+  </fn>
+  <fn id="fn25">
+    <p>See table below and, for more details, Rhein, <italic>Compilation of the 21 Commandments</italic>.</p>
+  </fn>
+  <fn id="fn26">
+    <p>Selection according to the <italic>tannaim</italic> and <italic>amoraim</italic>. ♀: non-time-bound, women obligated; &#128339;: time-bound, women not obligated; &#128339; ♀: time-bound, women obligated; –: non-time-bound, women not obligated; for more details see Rhein, <italic>Compilation of the 21 Commandments</italic>.
+	</p>
+  </fn>
+  <fn id="fn27">
+    <p>The time-boundness of this commandment has been subject of controversy since tannaitic times (see Ellinson, <italic>Serving</italic>, 169–172).</p>
+  </fn>
+  <fn id="fn28">
+    <p>See below section “Arguing with Time-Boundness.”</p>
+  </fn>
+  <fn id="fn29">
+    <p>Sifre Bamidbar on Numbers 15:38 (commandment of <italic>tzitzit;</italic> translation by the author; except for translations from Midrash Sifra, the source of all midrashic and post-Talmudic rabbinic literature cited hereinafter is <italic>The Bar Ilan Responsa Project</italic>); see also <italic>Mekhilta According to Rabbi Ishmael,</italic> tractate Pis’cha, chapter 17 on Exodus 13:9, where an analogy between <italic>tzitzit</italic> and the non-time-bound commandment of <italic>mezuzah</italic> is mapped as both of these mitzvot are mentioned in the context of the term אות (sign) in the Torah (Deuteronomy 6:8–9; Exodus 13:9; 13:16).</p>
+  </fn>
+  <fn id="fn30">
+    <p>See also Sifre Bamidbar on Numbers 15:29 (<italic>sukkah</italic>); Ilan, “Daughters of Israel,” 26; Erbele-Küster, “Der Dienst,” 277–279; but see also Sifre Bamidbar on Numbers 18:2 (priestly mitzvah of guarding the Temple area). The rabbinical interpretation of <italic>yisrael</italic> has been the subject of controversy among researchers. Shaye J.D. Cohen argues that the rabbis have a male understanding of “people” and “Israel” and only those who are obligated to <italic>all</italic> mitzvot are (entirely) considered “Israel” (Cohen, <italic>Why,</italic> 120–124); for the differentiation between <italic>bnot yisrael</italic> and <italic>bnei yisrael</italic> in Deuteronomy 23:18, see Cohen, <italic>Why,</italic> 122; for the term <italic>am</italic> see Rhein, “Toralesung,” 11–13. Tal Ilan’s juxtaposition of Sifre Bamidbar’s and Sifre Devarim’s understanding of biblical commandments reveals different exegetical methods: In Sifre Bamidbar, Ilan identifies an exegesis that for the most part includes women in terms such as <italic>ben</italic> and <italic>bnei yisrael</italic>, whereas in Sifre Devarim their exegesis largely excludes women (Ilan, “Daughters of Israel,” 23–28). Using examples from tannaitic literature, Elizabeth Shanks Alexander demonstrates that the rabbinic understanding of <italic>bnei yisrael</italic> and other terms used for the people differs on a case-by-case basis (Alexander, <italic>Gender,</italic> 224, footnotes 26 and 27).</p>
+  </fn>
+  <fn id="fn31">
+    <p>Excerpts from Leviticus 23:33–44.</p>
+  </fn>
+  <fn id="fn32">
+    <p>The two other time-bound mitzvot among the 21 commandments under discussion, which are based on verses addressed to <italic>bnei yisrael</italic> and from which women are exempt, also imply rituals and action: <italic>tzitzit</italic> (Numbers 15:38; see also Deuteronomy 22:12) and <italic>shofar</italic> (Numbers 29:1); on <italic>tzitzit</italic> and time-boundness see below section “Arguing with Time-Boundness.”</p>
+  </fn>
+  <fn id="fn33">
+    <p><italic>talmud torah</italic>, <italic>shema</italic>, <italic>tefillin</italic>, <italic>mezuzah</italic>, <italic>birkat hamazon</italic>, serving God, rejoicing on the festivals, <italic>re’iyah</italic>, returning a lost object, releasing the mother bird, making a guard rail; all of these commandments are addressed to <italic>yisrael</italic> in Deuteronomy 5:1.</p>
+  </fn>
+  <fn id="fn34">
+    <p>For women’s role in rejoicing on the festivals see footnote 90.</p>
+  </fn>
+  <fn id="fn35">
+    <p>Rhein, “Toralesung,” 6–8.</p>
+  </fn>
+  <fn id="fn36">
+    <p>Sifre Bamidbar on Numbers 15:38; see above section “One Biblical Addressee: More Than One Rabbinic Assignee.”</p>
+  </fn>
+  <fn id="fn37">
+    <p>A look beyond the 21 mitzvot under discussion reveals more examples of biblical explications of the notion “people” in the context of commandments. One of them can be found in Numbers 5:6–7 (confessing sins): The Torah text specifies who <italic>bnei</italic> <italic>yisrael</italic> is, namely איש או אשה, man or woman (Numbers 5:6; see also Cohen, <italic>Why,</italic> 122; b. Qiddushin 35a).</p>
+  </fn>
+  <fn id="fn38">
+    <p>Genesis 1:28. For the non-time-bound commandment to procreate, the underlying Torah verse addresses males as well as females (Genesis 1:28, addressing זכר ונקבה); according to the <italic>baraita</italic>, however, only men are obligated to fulfill it. The tannaitic and amoraic literature incorporates contradictory opinions when it comes to the mitzvah of procreation; see i.a. m. Yevamot 6:6 and b. Yevamot 65b; but see also t. Yevamot 8:4, 8:6; on women and procreation see Benovitz, “Time-triggered,” 62–63; Millen, <italic>Women, Birth, and Death</italic>, 20–25; Margalit, “Priestly Men,” 298–300; Hauptman, <italic>Rereading the Rabbis,</italic> 130–136, 223; Ellinson, <italic>Partners</italic>, 32–86.</p>
+  </fn>
+  <fn id="fn39">
+    <p>Deuteronomy 16:14. The context of the time-bound commandment to rejoice on the festivals is Moses’s second speech, which is addressed to Israel (beginning at Deuteronomy 5:1), and the <italic>baraita</italic> obligates women as well as men to this commandment. Deuteronomy 16:14, however, is phrased in the second-person singular, and women and wives are not among the people expressly mentioned (Tigay, <italic>Deuteronomy,</italic> 121, commenting on Deuteronomy 12:7).</p>
+  </fn>
+  <fn id="fn40">
+    <p>Leviticus 19:3. <italic>Talmud torah</italic> and <italic>shema</italic>, both based on Deuteronomy 6:7, are not listed here, as בן and לבניך can refer to both “son(s)” and “child(ren)” (see Rhein, “Talmud Tora,” 5, 28).</p>
+  </fn>
+  <fn id="fn41">
+    <p>According to Midrash Sifra, fearing one’s parents means: “He should not sit in his place and he should not speak in his place and he should not contradict him,” and honoring one’s parents means: “He should feed him and give him a drink, dress him and cover him, bring him in and take him out” (Sifra, <italic>parashah</italic> Kedoshim; translations based on Jacob Neusner; see also t. Qiddushin 1:11; b. Qiddushin 31b). While Leviticus 19:3, the basis of the mitzvah to fear one’s parents, mentions the mother first and the father second, the order is the other way round in Torah verses that demand the honoring of one’s parents (Exodus 20:12; Deuteronomy 5:16; see also the order father–mother in Deuteronomy 27:16; Brettler, “Women in the Decalogue,” 191; Tigay, <italic>Deuteronomy,</italic> 70; Levine, <italic>Leviticus</italic>, 125). Cohen points out that fearing one’s parents is composed of actions that must be avoided while honoring them implies actions that must be undertaken (Cohen, <italic>Why,</italic> 117).</p>
+  </fn>
+  <fn id="fn42">
+    <p>See quote in footnote 47.</p>
+  </fn>
+  <fn id="fn43">
+    <p>Chernick, “Man,” 254–255; Bratsiotis, “‘îsh; ‘ishshāh,” 1:223–224, 229; Kühlewein<italic>,</italic> “‘îš,” 1:101–102; on the <italic>Numeruswechsel</italic> following <italic>ish</italic> see Levine, <italic>Leviticus,</italic> 125; on the interpretation of <italic>“ish ish”</italic> in Midrash Sifra as inclusive of women see Yadin-Israel, <italic>Scripture and Tradition</italic>, 31–37.</p>
+  </fn>
+  <fn id="fn44">
+    <p>“When it says [in the same verse]: ‘A man shall fear <italic>[tira’u]</italic> his mother and his father’ [(Leviticus 19:3), employing the plural form of the verb, this indicates that] there are two [that are obligated] here, [both a man and a woman]” (b. Qiddushin 30b; Hebrew transliteration in square brackets: <italic>Koren Talmud Bavli;</italic> see also b. Qiddushin 29a; Sifra, <italic>parashah</italic> Kedoshim).</p>
+  </fn>
+  <fn id="fn45">
+    <p>See footnote 47.</p>
+  </fn>
+  <fn id="fn46">
+    <p>b. Qiddushin 30b; see also b. Qiddushin 35a and Sifra, <italic>parashah</italic> Kedoshim. The Gemara goes on to explain in Rav’s name that women who are divorced are fully obligated to fear their parents. The statement in b. Qiddushin 30b on women’s subjugation raises questions, since in post-Talmudic rabbinic literature women are considered to be fully obligated to fear their parents, but – with reference to b. Qiddushin 30b – their obligation towards honoring their parents is limited (Sefer Hahinukh, commandment 212; Shulhan Arukh, YD 240:17); see Cohen, <italic>Why,</italic> 251, footnote 19.</p>
+  </fn>
+  <fn id="fn47">
+    <p>See parallel passages in y. Qiddushin 1:7 (61c), b. Berakhot 20b, and y. Berakhot 3:3 (6b); t. Qiddushin 1:10.</p>
+  </fn>
+  <fn id="fn48">
+    <p>b. Qiddushin 34a; in b. Qiddushin 34b fearing one’s parents is defined as the paradigmatic non-time-bound commandment: “And furthermore: From where do we [derive that] women are obligated in positive mitzvot that are not time-bound? That derives from [the mitzvah of] fearing [one’s mother and father]: Just as women are obligated [in the mitzvah of] fear, so too, women are obligated in every positive mitzvah that is not time-bound” (see Rovner, “Rhetorical Strategy,” 209–210).</p>
+  </fn>
+  <fn id="fn49">
+    <p>b. Qiddushin 34a; see Rhein, “Talmud Tora,” 3–13; see also <italic>Mekhilta According to Rabbi Ishmael</italic>, tractate Pis’cha, chapter 17 on Exodus 13:9; <italic>Mekhilta de-Rabbi Shimon bar Yohai</italic>, tractate Pis’cha, chapter 18:7 on Exodus 13:9.</p>
+  </fn>
+  <fn id="fn50">
+    <p>b. Qiddushin 34a; y. Berakhot 3:3 (6b); Alexander, <italic>Gender,</italic> 137–143; Kraemer, <italic>Reading the rabbis</italic>, 107.</p>
+  </fn>
+  <fn id="fn51">
+    <p>Rhein, “Talmud Tora,” 3, 7; Schiffman, <italic>From Text to Tradition</italic>, 263; see also Cohn, <italic>The Memory,</italic> 74–75.</p>
+  </fn>
+  <fn id="fn52">
+    <p>As an offspring of an illegitimate relationship a <italic>mamzer</italic> has significantly fewer rights and consequently a lower social status than an offspring of a legitimately married couple (Deuteronomy 23:3; m. Qiddushin 3:13 i.a.).</p>
+  </fn>
+  <fn id="fn53">
+    <p>m. Horayot 3:8; see Hezser, <italic>The Social Structure,</italic> 267–269, 480–489.</p>
+  </fn>
+  <fn id="fn54">
+    <p>Jotkowitz, “A Man Takes Precedence,” 54–55, 63–64; like <italic>mamzerim</italic> and priests, women are born into their status. The question is: How would the rabbis evaluate the status of an educated woman as opposed to that of a non-educated man? On Beruria’s status in rabbinic literature see Ilan, <italic>Integrating,</italic> 175–194.</p>
+  </fn>
+  <fn id="fn55">
+    <p>See below sections “Arguing with Time-Boundness” and “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.”</p>
+  </fn>
+  <fn id="fn56">
+    <p>In addition, the paradigmatic time-bound commandment <italic>tefillin</italic> represents a man’s level of freedom, as a statement of Rabbi Joshuah ben Levi illustrates: “A slave who dons phylacteries in the presence of his master is emancipated” (b. Gittin 40a; Hauptman, <italic>Rereading the Rabbis,</italic> 226).</p>
+  </fn>
+  <fn id="fn57">
+    <p>See below section “<italic>Patur:</italic> Exempt, but in Principle Obligated.”</p>
+  </fn>
+  <fn id="fn58">
+    <p>See e.g. the proscription on the use of anointing oil by non-priests (Exodus 30:31–33); see also Marx, <italic>Tractates</italic>, 11; Haran, <italic>Temples and Temple-Service</italic>, 175–177; on the role of women in the Second Temple see Stemberger, “Did Women”<italic>;</italic> Safrai, <italic>Women in the Temple.</italic></p>
+  </fn>
+  <fn id="fn59">
+    <p>b. Qiddushin 31a; b. Bava Qamma 38a; see also m. Horayot 3:7; Rhein, “Konservativer,” 166. Rabbi Hanina’s statement in b. Qiddushin 31a appears in the context of a (non-obligated) gentile who is praised for his diligence in honoring his parents (Exodus 20:12; Deuteronomy 5:16) – a commandment from which a <italic>baraita</italic> in b. Qiddushin 30b partially exempts married women; in b. Bava Qamma 38a the statement appears in the context of a gentile engaged in Torah study. It is noteworthy that in contrast to women, gentiles (like slaves and minors) can achieve the status of a free adult Jew (Ilan, “The Woman as ‘Other’,” 79; Cohen, <italic>Why,</italic> 120).</p>
+  </fn>
+  <fn id="fn60">
+    <p>b. Qiddushin 33b–34a, y. Qiddushin 1:7 (61c), m. Berakhot 3:3, b. Berakhot 20b, y. Berakhot 3:3 (6b); see also t. Qiddushin 1:10; see also above section “21 Selected Commandments” All of these mitzvot address Israel: The Torah verses on which the <italic>tannaim</italic> and <italic>amoraim</italic> base <italic>sukkah</italic>, <italic>lulav</italic>, <italic>shofar,</italic> and <italic>tzitzit</italic> address <italic>bnei yisrael</italic>; those on which <italic>tefillin</italic> and <italic>shema</italic> are based address <italic>yisrael</italic> (which is also true of the repetition of the mitzvah of <italic>tefillin</italic> in Deuteronomy 11:18, while in the repetitions in Exodus 13:9 and 13:16 the Torah verses address the people [Exodus 13:3]).</p>
+  </fn>
+  <fn id="fn61">
+    <p>Centuries later, Maimonides compiles almost exactly the same list of time-bound commandments to which women are not obligated (60 <italic>mitzvot hahekhrekhiyot</italic>: 60 commandments that are repeated in a separate listing at the end of the compilation of all 248 positive commandments in Maimonides’ Sefer Hamitzvot; see Rhein, <italic>Excursus</italic>). Additionally to <italic>sukkah</italic>, <italic>lulav</italic>, <italic>shofar</italic>, <italic>tzitzit</italic>, <italic>tefillin</italic>, and <italic>shema</italic>, he lists <italic>omer</italic> and the daily priestly blessing (which only applies to male priests); the former is based on a Torah verse that addresses <italic>bnei yisrael</italic>, the latter is addressed to Moses respectively Aaron and his sons. Tannaitic and amoraic sources do not explicitly mention women’s non-obligation vis-à-vis <italic>omer</italic> (Barmash, “Women and Mitzvot,” 5; Berman, “The Status of Women,” 13; in the Sefer Hamitzvot [P 161] and in the Mishneh Torah [Hilkhot Temidin Umusafim 7:24] Maimonides exempts women from <italic>omer</italic>; the Sefer Hahinukh [306], also exempting women, argues with time-boundness; on the wide-spread custom among women to count <italic>omer</italic> see Ellinson, <italic>Serving</italic>, 73–75).</p>
+  </fn>
+  <fn id="fn62">
+    <p>In post-Talmudic rabbinic literature, the argument of time-boundness with regard to the role of women is used for several mitzvot, among them <italic>omer</italic> (see footnote 60).</p>
+  </fn>
+  <fn id="fn63">
+    <p>See also b. Hagigah 4a and b. Eruvin 96a–b below. Closely intertwined with <italic>re’iyah</italic> are Temple-offering laws during the three pilgrim festivals (חגיגה; Exodus 23:14) and rejoicing on these festivals; see Maimonides’ comments on mitzvah P 52 in the Sefer Hamitzvot; on women and rejoicing on the festivals see footnote 90; on women and <italic>re’iyah</italic> see Tigay, <italic>Deuteronomy,</italic> 121 (on Deuteronomy 12:7).</p>
+  </fn>
+  <fn id="fn64">
+    <p>The rabbis base these three commandments on Torah verses that are included in the <italic>shema</italic> itself (see footnote 15).</p>
+  </fn>
+  <fn id="fn65">
+    <p>y. Qiddushin 1:7 (61c); see parallel passages in y. Berakhot 3:3 (6b) and t. Qiddushin 1:10; see also b. Menahot 43a. Unlike Rabbi Shimon other <italic>tannaim</italic> believe that women are obligated to <italic>tzitzit</italic> (Labovitz, “A Man Spinning,” 80–81). Gail Labovitz points out that tannaitic literature refers to men and not to women when describing the wearing as well as the making of <italic>tzitzit</italic> (Labovitz, “A Man Spinning,” 76–79, 83).</p>
+  </fn>
+  <fn id="fn66">
+    <p>b. Eruvin 96a–b; see also parallel passages in <italic>Mekhilta According to Rabbi Ishmael</italic>, tractate Pis’cha, chapter 17 on Exodus 13:9, y. Berakhot 2:3 (4c) and b. Shabbat 62a; see also b. Qiddushin 35a; Alexander, <italic>Gender,</italic> 99–102. Unlike in rabbinic literature, in biblical books (1–2 Samuel; 1 Chronicles), Michal is not depicted as a woman donning <italic>tefillin</italic> (Ilan, <italic>Jewish Women</italic>, 182).</p>
+  </fn>
+  <fn id="fn67">
+    <p>See quote above in section “<italic>Tefillin:</italic> The Paradigmatic Time-Bound Commandment”; see also Alexander, <italic>Gender,</italic> 137–143, 176–177.</p>
+  </fn>
+  <fn id="fn68">
+    <p>y. Berakhot 3:3 (6b); Alexander, <italic>Gender,</italic> 107–111; by contrast, in the Babylonian Talmud it is argued that women are exempt from <italic>shema</italic> (and from <italic>tefillin</italic>) on the basis of the mitzvah’s time-boundness (b. Berakhot 20b).</p>
+  </fn>
+  <fn id="fn69">
+    <p>m. Berakhot 3:3.</p>
+  </fn>
+  <fn id="fn70">
+    <p>y. Berakhot 3:3 (6b); see Benovitz, “Time-triggered,” 56; the two biblical quotes come from Deuteronomy 11:19 and 6:4. The reference to Israel in Deuteronomy 6:4 regarding slaves’ non-obligation indirectly excludes women from the addressee group <italic>yisrael</italic>. At the same time this Gemara implies that women – unlike slaves – have “only one Lord.” This view contradicts the position of David ben Josef Abudarham’s and others who see women’s exemption from time-bound commandments as deriving from their obligations towards their husbands, which could compete against their obligations towards God (Rhein, “Das Gebet,” 315; Biale, <italic>Women and Jewish Law</italic>, 13–14).</p>
+  </fn>
+  <fn id="fn71">
+    <p>b. Qiddushin 29b; Sifre Devarim on Deuteronomy 6:7; Rhein, “Talmud Tora,” 5–6; see also Alexander, <italic>Gender,</italic> 107–111.</p>
+  </fn>
+  <fn id="fn72">
+    <p>For <italic>shofar</italic> see b. Rosh Hashanah 33a and b. Eruvin 96b, for <italic>sukkah</italic> b. Sukkah 28a–b, and for <italic>lulav</italic> b. Sukkah 42a.</p>
+  </fn>
+  <fn id="fn73">
+    <p>Alexander, <italic>Gender,</italic> 39–40, 217–221; Barmash, “Women and Mitzvot,” 8.</p>
+  </fn>
+  <fn id="fn74">
+    <p>See below section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.”</p>
+  </fn>
+  <fn id="fn75">
+    <p>See e.g. t. Qiddushin 1:10 or b. Menahot 43a; see also Rhein, “Toralesung,” 7–8, 20.</p>
+  </fn>
+  <fn id="fn76">
+    <p>See e.g. b. Qiddushin 34a; i.a. in view of Torah study the Gemara at this point does not draw on the principle according to which a father, unlike a mother, is obligated to a number of mitzvot vis-à-vis his son, among them Torah study (m. Qiddushin 1:7; b. Qiddushin 29a).</p>
+  </fn>
+  <fn id="fn77">
+    <p>If the issue were time-intense rituals or rituals that can only be carried out in a narrow time slot, the rabbis would have exempted women from <italic>birkat hamazon</italic> – to be said after every meal – rather than from non-time-intense mitzvot such as <italic>tzitzit</italic> or from commandments that only apply once a year during holidays such as <italic>shofar</italic>, <italic>sukkah, and</italic> <italic>lulav</italic> (Barmash, “Women and Mitzvot,” 6–7; Benovitz, “Time-triggered,” 46–50; Hauptman, <italic>Rereading the Rabbis,</italic> 225; see below section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.” On women’s obligation to <italic>birkat hamazon</italic> see Kulp and Rogoff, <italic>Reconstructing the Talmud</italic>, 170–202; on men and women dwelling in the <italic>sukkah</italic> see b. Qiddushin 34a–b).</p>
+  </fn>
+  <fn id="fn78">
+    <p>See i.a. Margalit, “Priestly Men,” 304–305.</p>
+  </fn>
+  <fn id="fn79">
+    <p>Schiffman, <italic>From Text to Tradition</italic>, 263; see below section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.”</p>
+  </fn>
+  <fn id="fn80">
+    <p>y. Berakhot 3:3 (6b).</p>
+  </fn>
+  <fn id="fn81">
+    <p>Daniel Boyarin considers men’s obligation and women’s exemption or marginalization vis-à-vis Torah study to be the basis for gender hierarchy in Judaism (Boyarin, “Torah Study,” 516–522). The rabbis obligate women to <italic>mezuzah</italic>; this non-time-bound mitzvah is included in the <italic>shema</italic> paragraphs as well; see <italic>Mekhilta According to Rabbi Ishmael</italic>, tractate Pis’cha, chapter 17 on Exodus 13:9; see also Alexander, <italic>Gender,</italic> 139–145, 154–155; 216–232; Benovitz, “Time-triggered,” 68–70.</p>
+  </fn>
+  <fn id="fn82">
+    <p>Tigay, <italic>Deuteronomy,</italic> 325; on the juxtaposition of Torah study and offering rituals see b. Megillah 3b.</p>
+  </fn>
+  <fn id="fn83">
+    <p>Numbers 15:39–40 (emphasis added); see also Rashi’s commentary on Numbers 15:39 and on the numerical value 613 of the term “<italic>tzitzit.</italic>”</p>
+  </fn>
+  <fn id="fn84">
+    <p>Numbers 15:38.</p>
+  </fn>
+  <fn id="fn85">
+    <p>See e.g. the Tosefta’s comment on Rabbi Yehuda defining the people that do not have to recite certain blessings; t. Berakhot 6:18.</p>
+  </fn>
+  <fn id="fn86">
+    <p>b. Qiddushin 40b; Rhein, “Talmud Tora,” 3.</p>
+  </fn>
+  <fn id="fn87">
+    <p>Strictly speaking no one, not even a priest, is obligated to all 613 commandments. However, the rabbis’ understanding of the notion <italic>kol mitzvot</italic> generally applies to men and not to women.</p>
+  </fn>
+  <fn id="fn88">
+    <p>b. Qiddushin 34a; see Kraemer, <italic>Reading the rabbis</italic>, 94–97, 104; see also parallel passage in b. Eruvin 27a (though not related to women’s obligations to mitzvot) and Hirsch, <italic>Die fünf Bücher der Torah</italic>, 679. Rabbi Yohanan’s statement raises issues in that he also could have pointed to a father’s (and not a mother’s) obligation to a number of mitzvot vis-à-vis a son; Torah study is specifically listed as an example of this principle (b. Qiddushin 29a).</p>
+  </fn>
+  <fn id="fn89">
+    <p>Benovitz, “Time-triggered,” 79.</p>
+  </fn>
+  <fn id="fn90">
+    <p>Benovitz refers to the <italic>pesah</italic> offering as a commandment that potentially belongs to this category as well (Benovitz, “Time-triggered,” 49), but he does not do so regarding <italic>re’iyah</italic> (b. Qiddushin 34b; see also m. Hagigah 1:1).</p>
+  </fn>
+  <fn id="fn91">
+    <p>Examples are pairs such as the commandment to rest on Shabbat (Exodus 23:12) and holidays (e.g. Leviticus 23:35 for <italic>sukkot</italic>), on the one hand, and the prohibition on working, on the other; the commandment to fast on y<italic>om kippur</italic>/the proscription on eating (Leviticus 23:29); <italic>matzah</italic>/the proscription on eating <italic>chametz</italic> during <italic>pesah</italic> (Exodus 13:3). This relationship is missing when it comes to commandments such as <italic>shofar</italic>, <italic>sukkah,</italic> and <italic>lulav</italic> (Benovitz, “Time-triggered,” 81). It is also missing for the time-bound commandment to rejoice on the festivals. In b. Hagigah 6b women are explicitly obligated to rejoice on the festivals; the Gemara in b. Pesahim 109a assigns to the (male) head of the family the task that leads to rejoicing (according to Rabbi Yehuda i.e. give wine to men and clothes to women); on the rules regarding widows see b. Qiddushin 34a; on the linkage of prescriptions to proscriptions see also Ellinson, <italic>Serving</italic>, 43.</p>
+  </fn>
+  <fn id="fn92">
+    <p>Benovitz, “Time-triggered,” 81–82.</p>
+  </fn>
+  <fn id="fn93">
+    <p>Benovitz, “Time-triggered,” 81; Samson Raphael Hirsch, too, characterizes five <italic>mitzvot aseh she hazman graman</italic> as symbolic acts (<italic>sukkah,</italic> <italic>lulav</italic>, <italic>shofar</italic>, <italic>tefillin,</italic> and <italic>tzitzit</italic>); in addition, he includes <italic>re’iyah</italic> and <italic>hagigah</italic> – but not <italic>shema</italic> – in this category (Hirsch, <italic>Die fünf Bücher der Torah</italic>, 679 [comment on Leviticus 23:43]; see also Benovitz, “Time-triggered,” 59; on <italic>shema</italic> see Biale, <italic>Women and Jewish Law</italic>, 18; on <italic>re’iyah</italic> and <italic>hagigah</italic> see footnote 62).</p>
+  </fn>
+  <fn id="fn94">
+    <p>See e.g. Barmash, “Women and Mitzvot,” 10; Ilan, <italic>Jewish Women</italic>, 177–179; Biale, <italic>Women and Jewish Law</italic>, 17; see also Perush HaMishnah on m. Qiddushin 1:7; in contrast, Alexander holds the view that the rabbis initially argued exegetically: The legal category <italic>zman graman</italic> served the purpose of distinguishing between the two “<italic>ot</italic> commandments” <italic>tefillin</italic> (Exodus 13:9 and 13:16; Deuteronomy 6:8 and 11:18) and <italic>mezuzah</italic> (Deuteronomy 6:9 and 11:20 [relating to <italic>ot</italic> in Deuteronomy 11:18]) and different groups of people’s obligation towards them (<italic>Mekhilta According to Rabbi Ishmael</italic>, tractate Pis’cha, chapter 17 on Exodus 13:9; Alexander, <italic>Gender,</italic> 32–41).</p>
+  </fn>
+  <fn id="fn95">
+    <p>The term <italic>zman</italic> as a notion of time is not found in the Torah; it appears for the first time in <italic>ketuvim</italic> (Ecclesiastes 3:1, Esther 9:27 and 9:31, Daniel 2:16 and 7:12, Ezra 10:14, Nehemiah 2:6; see Stern, <italic>Time and Process</italic>, 26–27; Dietrich and Arnet, <italic>Konzise,</italic> 143); on the biblical concepts of time <italic>et</italic> (עת) and <italic>mo’ed</italic> (מועד) and on זמן in the tannaitic and amoraic rabbinic literature see Stern, <italic>Time and Process</italic>, 26–45.</p>
+  </fn>
+  <fn id="fn96">
+    <p>m. Qiddushin 1:1–6; see above section “Arguing with Time-Boundness” and below section “<italic>Patur:</italic> Exempt, but in Principle Obligated.”</p>
+  </fn>
+  <fn id="fn97">
+    <p>Hauptman, <italic>Rereading the Rabbis,</italic> 226; on the correlation between freedom and fulfilling commandments see Ovadya Sforno’s comments on Exodus 12:2.</p>
+  </fn>
+  <fn id="fn98">
+    <p>Genesis 2:3; see Heschel, <italic>The Sabbath,</italic> 9; in Genesis 2:3 God sanctifies the seventh day; later on, for instance in Exodus 20:8, human beings are commanded to sanctify Shabbat.</p>
+  </fn>
+  <fn id="fn99">
+    <p>Stemberger, “Zeit, Geschichte, Ewigkeit,” 217; this statement is made in connection with Exodus 12:2 and the obligation of the people – derived therefrom – to determine the beginning of the year and thus establish the calendar (<italic>nisan</italic>; see Rashi on Exodus 12:2; see also Cohen, <italic>Why,</italic> 121); see e.g. <italic>kiddush hahodesh</italic> (Exodus 12:2; Stern, <italic>Time and Process</italic>, 65–69).</p>
+  </fn>
+  <fn id="fn100">
+    <p>m. Kelim 1:8–9.</p>
+  </fn>
+  <fn id="fn101">
+    <p>See Abraham Joshua Heschels statement according to which “the higher goal of spiritual living is (…) to face sacred moments” (Heschel, <italic>The Sabbath</italic>, 6); see also rabbinic determination of prayer time, which corresponds to the Temple-offerings (Stemberger, “Zeit, Geschichte, Ewigkeit,” 219–220).</p>
+  </fn>
+  <fn id="fn102">
+    <p>Margalit, “Priestly Men,” 304–306.</p>
+  </fn>
+  <fn id="fn103">
+    <p>Hauptman, <italic>Rereading the Rabbis,</italic> 226-227; see below section “From Man to Man: ‘Ersatz Temple Rituals’ and the Priestly Legacy.”</p>
+  </fn>
+  <fn id="fn104">
+    <p>Margalit, “Priestly Men,” 305; Margalit points out that, for example, when the rabbis appoint the time for the evening <italic>shema</italic> in m. Berakhot 1:1, they refer to a priestly act; Susanne Plietzsch, analyzing <italic>Mekhilta According to Rabbi Ishmael</italic> (tractate Shabbeta), also sees evidence of the growing significance of holy time, particularly of Shabbat, in rabbinic Judaism, while the importance of the Temple as a holy place decreases (Plietzsch, “Dass jede einzelne Sache,” 275–279).</p>
+  </fn>
+  <fn id="fn105">
+    <p>Stemberger, “Zeit, Geschichte, Ewigkeit,” 217; see also Stern, <italic>Time and Process</italic>, 28–29.</p>
+  </fn>
+  <fn id="fn106">
+    <p>See last paragraph in section “<italic>Patur:</italic> Exempt, but in Principle Obligated” below; the regularity with which many priestly commandments were carried out might also have played a role in the rabbinic exemption of women from time-bound mitzvot (תמיד; e.g. twice a day or once a week; see Haran, <italic>Temples and Temple-Service</italic>, 208–215). On the other hand, Sarit Kattan Gribetz points out that women, too, have to perform rituals “that are temporally dependent, even as women’s rituals are not rhetorically marked as time-bounded” (Gribetz, “Time, Gender, and Ritual,” 147); an example is a woman’s morning and evening self-examination for signs of menstrual blood (see footnote 126 below).</p>
+  </fn>
+  <fn id="fn107">
+    <p>The Torah uses the term <italic>peter</italic> (firstborn; womb; see e.g. Exodus 13:2 and 13:12) but not the verb <italic>patar,</italic> which is based on the same root (Niehr, “pāṭar,” 11:530).</p>
+  </fn>
+  <fn id="fn108">
+    <p>m. Berakhot 2:5 and 3:1. Prior to burial, all mourners, men and women alike, are exempt from observing positive commandments (b. Mo’ed Qatan 23b). It is the only phase in the lives of Jewish adults in which men and women share the same religious obligations. This situation leads to a temporary hierarchy of mitzvot between mourners and non-mourners (Rhein, “Temporär gleichgestellt”).</p>
+  </fn>
+  <fn id="fn109">
+    <p>See e.g. <italic>patur</italic> in m. Pe’ah 5:5, where a poor person is exempt from the tithe.</p>
+  </fn>
+  <fn id="fn110">
+    <p>m. Shabbat 2:5.</p>
+  </fn>
+  <fn id="fn111">
+    <p>See e.g. Exodus 30:33, Leviticus 22:10, and Numbers 18:4; see footnote 57.</p>
+  </fn>
+  <fn id="fn112">
+    <p>In b. Rosh Hashanah 33a, for example, the Gemara passes down Rabbi Yose’s and Rabbi Shimon’s view according to which women can perform the commandment of <italic>shofar</italic>.</p>
+  </fn>
+  <fn id="fn113">
+    <p>In m. Ketubbot 7:6, for example, a number of mitzvot to which a married woman is obligated is listed; if she transgresses them, she loses the rights established by the <italic>ketubah</italic>; see also Wegner, “The Image,” 80.</p>
+  </fn>
+  <fn id="fn114">
+    <p>m. Horayot 3:7.</p>
+  </fn>
+  <fn id="fn115">
+    <p>t. Berakhot 6:18; b. Qiddushin 31a; b. Bava Qamma 38a; Perush haMishnah on m. Horayot 3:7; Rhein, “Toralesung,” 14; Ilan, “The Woman as ‘Other’,” 82; Safrai, “Traditional Judaism,” 59; 68; Ross, <italic>Expanding the Palace of Torah</italic>, 14–16; Zohar, “Women,” 41–45; see also Barmash, “Women and Mitzvot,” 28–30; t. Berakhot 6:18 – “for women are not obligated [to perform] the commandments” – can be read as the non-obligation of women to all commandments as well as their non-obligation to some of the commandments; see also Ross, <italic>Expanding the Palace of Torah</italic>, 254, footnote 40.</p>
+  </fn>
+  <fn id="fn116">
+    <p>m. Qiddushin 1:1–6; Zohar, “Women,” 35–39, 44–45; see also Hauptman, <italic>Rereading the Rabbis,</italic> 68–71, 222–223.</p>
+  </fn>
+  <fn id="fn117">
+    <p>m. Qiddushin 1:8; Benovitz, “Time-triggered,” 54; Hauptman, <italic>Rereading the Rabbis,</italic> 227–228; see b. Qiddushin 36a on Temple rituals forbidden to women.</p>
+  </fn>
+  <fn id="fn118">
+    <p>In Sifre Bamidbar on Numbers 15:38, where Rabbi Shimon is mentioned as the originator of the differing obligations of men and women regarding time-bound commandments, women are not merely exempt but rather excluded (נהג, a term that is also used in m. Qiddushin 1:8). In m. Qiddushin 1:7, however, the rabbis use the term <italic>patur</italic>. In the context of <italic>tzitzit</italic> – rather than with regard to the general principle – Rabbi Shimon also uses the term <italic>patur</italic> (Sifre Bamidbar on Numbers 15:38; t. Qiddushin 1:10; see Hauptman, “From the Kitchen,” 119–122; Labovitz, “A Man Spinning,” 81). In the scholarly literature, women’s exemption from time-bound commandments is often analyzed in light of men’s obligation. Hauptman, in contrast, focuses on the two terms exemption–prohibition: While women were forbidden from performing priestly tasks, the rabbis allowed them voluntarily to perform Temple rituals that were transferred into rabbinic Judaism (Hauptman, <italic>Rereading the Rabbis,</italic> 227–228; Hauptman, “From the Kitchen,” 119–122).</p>
+  </fn>
+  <fn id="fn119">
+    <p>Rashba argues that the prohibition of בל תוסיף (nothing should be added [to the commandments of the Torah]; Deuteronomy 13:1) is not violated by a woman who voluntarily fulfils time-bound commandments because her exemption from these commandments is merely a leniency regarding something to which she is, in principle, obligated (Rashba on b. Eruvin 96a<italic>;</italic> many thanks to Michel Monheit for pointing out this source to me). Rashba’s statement implies that women – like blind men (b. Bava Qamma 87a) – are obligated to fulfill time-bound commandments because like (sighted) men they are included among the people obligated to fulfill the mitzvot of the Torah (see also Rashi on b. Eruvin 96a–b). When discussing blind men’s obligation or exemption vis-à-vis mitzvot, Rabbi Yehuda argues with an exegesis on Deuteronomy 6:1: “The verse states: ‘And this is the commandment, statutes, and laws’; anyone who is subject to [civil] laws is [also] subject to [the] commandments and statutes, and anyone who is not subject to [civil] laws is [also] not subject to [the] commandments and statutes” (b. Bava Qamma 87a). For the status of disabled men in rabbinic Judaism see Belser and Lehmhaus, “Disability,” 435–440.</p>
+  </fn>
+  <fn id="fn120">
+    <p>In b. Qiddushin 30b, discussing the commandment to honor one’s parents, Rav Idi bar Avin transmits a view of Rav who distinguishes between married and widowed women; see Israel Kagan, <italic>The Concise Book,</italic> 57; Hauptman, <italic>Rereading the Rabbis,</italic> 222–224.</p>
+  </fn>
+  <fn id="fn121">
+    <p>Stemberger, “Zeit, Geschichte, Ewigkeit,” 217; Heschel, <italic>The Sabbath,</italic> 8.</p>
+  </fn>
+  <fn id="fn122">
+    <p>See footnote 90.</p>
+  </fn>
+  <fn id="fn123">
+    <p>Kraemer, <italic>Reading the rabbis</italic>, 95; Biale, <italic>Women and Jewish Law</italic>, 11; Rovner, “Rhetorical Strategy,” 200–201. Since the Middle Ages rabbis and scholars have been discussing possible reasons for women’s exemption from time-bound commandments (Benovitz, “Time-triggered,” 47–50; Margalit, “Priestly Men,” 301). First and foremost, the arguments focus on women’s household duties and wives’ obligations towards their husbands, both of which might be difficult to reconcile with time-bound mitzvot (Rhein, “Das Gebet,” 315–316; Ross, <italic>Expanding the Palace of Torah</italic>, 14–19; Hauptman, <italic>Rereading the Rabbis,</italic> 226; Biale, <italic>Women and Jewish Law</italic>, 11–14). The fourteenth century scholar David ben Josef Abudarham, for example, took the view that if a woman were obligated to fulfill time-bound mitzvot, she would find herself torn between the obligations towards her husband on the one hand and towards God on the other (Biale, <italic>Women and Jewish Law</italic>, 13–14). In the 20th century, Saul Berman argued that the rabbis placed women’s duties at home and that obligation to time-bound mitzvot, because their fulfillment tends to take place in a public setting, would conflict with these duties (Berman, “The Status of Women,” 16–17). In addition, it has been suggested – by Samson Raphael Hirsch, for example – that for biological reasons women do not need as many commandments as men (Hirsch, <italic>Die fünf Bücher der Torah</italic>, 679; Ellinson, <italic>Serving</italic>, 43–44; Alexander, <italic>Gender,</italic> 2–3; Benovitz, “Time-triggered,” 58–60). Since the 20th century, the time factor as a reason for women’s exemption from time-bound mitzvot has increasingly been questioned. Judith Hauptman argued in the 1990s that the principle handed down in m. Qiddushin 1:7 served the sole purpose of differentiating between men’s and women’s obligations (Hauptman, <italic>Rereading the Rabbis,</italic> 226–227; see quote below [footnote 127]). Elizabeth Alexander focuses on an exegetical origin of women’s exemption from commandments, which only later developed into a general principle, and Pamela Barmash points out that the rabbis often take a case-by-case approach when discussing women’s obligations and sees a correlation between women’s subordinate role in rabbinic Judaism and their exemption from some commandments (Alexander, <italic>Gender,</italic> 32–41; see footnote 93; Barmash, “Women and Mitzvot,” 8–13, 31–32); see also Ilan, “Daughters of Israel,” 24–28, Ilan, <italic>Jewish Women</italic>, 177–179, and Anat Israeli’s outline of the recent history of research (Israeli, “Jewish Women,” 12–14).</p>
+  </fn>
+  <fn id="fn124">
+    <p>On this point see footnote 6; among the exceptions are commandments that apply specifically to women or to men alone, such as a woman’s obligation to bring an offering after she has given birth (Leviticus 12:6) and <italic>re’iyah</italic> for men.</p>
+  </fn>
+  <fn id="fn125">
+    <p>Hauptman, <italic>Rereading the Rabbis,</italic> 226; Hezser, “Women, Children, and Slaves,” 490–492, 495–497; see also Barmash, “Women and Mitzvot,” 8.</p>
+  </fn>
+  <fn id="fn126">
+    <p>Hauptman describes the modified Temple rituals from which the rabbis exempt women as “rituals that were able to survive the destruction of the Temple” (Hauptman, <italic>Rereading the Rabbis,</italic> 228). The rabbis themselves described both “ersatz Temple rituals” and Temple rituals that were no longer practiced. Naftali Cohn interprets the exalted role of Temple rituals in rabbinic literature as the Tannaites’ reaction to the importance of the Temple to the people even after its destruction, on the one hand, and as a strategy to further the acceptance and authority of rabbinic Judaism, on the other (Cohn, <italic>The Memory</italic>, 73–74).</p>
+  </fn>
+  <fn id="fn127">
+    <p>Women’s religious practice also contains aspects rooted in priestly Temple rituals. Gribetz compares a man’s morning and evening <italic>shema</italic> (m. Berakhot 1:1) to a woman’s examination of her body morning and evening for signs of menstrual blood (m. Niddah 1:7). Both of these rituals – recitation of the <italic>shema</italic> and self-examination for the purpose of establishing ritual purity – were performed by priests in the Temple (Gribetz, “Time, Gender, and Ritual,” 143–152; on priestly recitation of the <italic>shema</italic> see footnote 131 below). Sylvie-Anne Goldberg compares <italic>niddah</italic>, <italic>hallah,</italic> and <italic>hadlakat haner</italic> to priestly tasks (Goldberg, “Is Time,” 22–23; see also Marx, “The Missing Temple,” 67). In any case, men as well as women are obligated to <italic>hallah</italic> and <italic>hadlakat haner</italic> (Barmash, “Women and Mitzvot,” 5, 15–16); this is why these mitzvot are, <italic>de jure</italic>, not really “women’s commandments,” even though they are culturally transmitted as such up to the present.</p>
+  </fn>
+  <fn id="fn128">
+    <p>Hauptman, <italic>Rereading the Rabbis,</italic> 227; see also Margalit, “Priestly Men,” 301–306; Hauptman depicts the time-bound commandments from which the rabbis exempt women as “key mitzvot of marking Jewish time” (Hauptman, <italic>Rereading the Rabbis,</italic> 227). In contrast, in this article it is argued that the common feature of both the time-bound and the non-time-bound commandments from which women are exempt (thus creating different religious practices for men and women) is that they all serve as “ersatz Temple rituals.” On parallels between the meaning of time in the context of priestly tasks in the Temple and in the context of commandments reserved for men in rabbinic Judaism see Margalit, “Priestly Men,” 305–306.</p>
+  </fn>
+  <fn id="fn129">
+    <p>Rhein, “Talmud Tora,” 7; Halbertal, <italic>People of the Book,</italic> 1, 6–8, 94–100; Schiffman, <italic>From Text to Tradition</italic>, 164–166, 263.</p>
+  </fn>
+  <fn id="fn130">
+    <p>On women’s role in the <italic>minyan</italic> see Rhein, “Das Gebet,” 325–332.</p>
+  </fn>
+  <fn id="fn131">
+    <p>E.g., burning incense twice a day (Exodus 30:7–8) and tending the <italic>menorah</italic> daily (Exodus 27:21), both of which are obligations reserved for priests; see Stemberger, “Did Women,” 9; see also Halbertal, <italic>People of the Book,</italic> 6–7; on the time factor <italic>(tamid)</italic> inherent to these commandments see Haran, <italic>Temples and Temple-Service</italic>, 208–215; on the status of priestesses see Shectman, “The Social Status,” 83–99.</p>
+  </fn>
+  <fn id="fn132">
+    <p>Marx, “The Missing Temple,” 65; since the priests recited the <italic>shema</italic> when offering sacrifices in the Temple (see i.a. m. Tamid 4:3 and 5,1; b. Berakhot 11b–12a), this commandment has gained an additional attribute of priestliness.</p>
+  </fn>
+  <fn id="fn133">
+    <p>Fraade, “Memory and Loss,” 117; Hauptman, <italic>Rereading the Rabbis,</italic> 228; Safrai, “Jerusalem,” 108–112.</p>
+  </fn>
+  <fn id="fn134">
+    <p>Safrai, “Jerusalem,” 108–112; Rachel Hachlili shows that in wall paintings and mosaics in synagogues of late antiquity, ritual objects associated with the Temple, such as <italic>lulav</italic> and <italic>shofar</italic>, were often depicted with a <italic>menorah</italic>; during the Second Temple period the <italic>menorah</italic> might have been used as a symbol of the priests and their tasks (Hachlili, <italic>The Menorah</italic>, 206–207, 211–213).</p>
+  </fn>
+  <fn id="fn135">
+    <p>b. Sukkah 44a; the willow branches (ערבות) are one of the four species of plants (ארבעה מינים) for <italic>sukkot</italic>, along with a citron (אתרוג), myrtle twigs (הדסים), and a palm branch (לולב; Kutch, “Sukkot,” 19:300).</p>
+  </fn>
+  <fn id="fn136">
+    <p>m. Sukkah 4:5; see also b. Sukkah 37b–38a; the circling of the altar is, in principle, a ritual reserved for the priests (m. Kelim 1:9).</p>
+  </fn>
+  <fn id="fn137">
+    <p>m. Sukkah 3:12; m. Rosh Hashanah 4:3.</p>
+  </fn>
+  <fn id="fn138">
+    <p>See also t. Rosh Hashanah 2:5.</p>
+  </fn>
+  <fn id="fn139">
+    <p>Safrai, “Jerusalem,” 109.</p>
+  </fn>
+  <fn id="fn140">
+    <p>Like the clarification of the role of priests with regard to <italic>shofar</italic> handed down in tractate Rosh Hashanah, however, the Gemara in tractate Arakhin clarifes the obligation of priests in the context of <italic>sukkah</italic>: Unlike on-duty priests, off-duty priests (along with ordinary men) are obligated to <italic>sukkah</italic> (b. Arakhin 3b).</p>
+  </fn>
+  <fn id="fn141">
+    <p>Lehman, “The Gendered Rhetoric,” 329.</p>
+  </fn>
+  <fn id="fn142">
+    <p>At the same time they also mimic the biblical priestly gender roles: While in the Torah, the men and women of Israel were subject, as a rule, to the same commandments, in priestly families it was exclusively the men who were assigned to carry out Temple duties. The hierarchy of mitzvot between men and women within priestly families is thus transformed into a hierarchy of mitzvot between men and women generally.</p>
+  </fn>
+  <fn id="fn143">
+    <p>t. Megillah 3:11; b. Megillah 23a.</p>
+  </fn>
+  <fn id="fn144">
+    <p>Deuteronomy 31:12; see also women’s presence during Ezra’s Torah reading ceremony in Nehemiah 8:2–3.</p>
+  </fn>
+  <fn id="fn145">
+    <p>Rhein, “Toralesung,” 14–15.</p>
+  </fn>
+  <fn id="fn146">
+    <p>t. Megillah 3:11; b. Megillah 23a.</p>
+  </fn>
+  <fn id="fn147">
+    <p>Rhein, “Konservativer,” 163–166; Ross, <italic>Expanding the Palace of Torah</italic>, 103–110; Hauptman, <italic>Rereading the Rabbis,</italic> 3–5; Zohar, “Women,” 34, 41–45.</p>
+  </fn>
+  <fn id="fn148">
+    <p>Israeli, “Jewish Women,” 2; Millen, “Analysis of Rabbinic Hermeneutics,” 26, 33; see also Hauptman, <italic>Rereading the Rabbis,</italic> 222.</p>
+  </fn>
+  <fn id="fn149">
+    <p>Marx, <italic>Tractates</italic>, 11.</p>
+  </fn>
+  <fn id="fn150">
+    <p>An additional mitzvah from which women are exempt, <italic>re’iyah</italic>, is not listed as an example of a time-bound commandment, see below.</p>
+  </fn>
+  <fn id="fn151">
+    <p>An analysis of Maimonides’ 60 <italic>mitzvot hahekhrekhiyot</italic> ends even more support to this claim: Of the 24 time-bound biblical commandments included in this list, the medieval scholar obligates women to 15 (see Rhein, <italic>Excursus</italic>).</p>
+  </fn>
+  <fn id="fn152">
+    <p>Moshe Meiselman, too, refers to seven mitzvot, but he lists <italic>omer</italic> instead of <italic>re’iyah</italic> (Meiselman, <italic>Jewish Woman</italic>, 44–45; on <italic>omer</italic> see footnote 60).</p>
+  </fn>
+</fn-group>
+<ref-list>
+<title>Bibliography</title>
+<ref>
+<mixed-citation>
+Alexander, Elizabeth Shanks. <italic>Gender and Timebound Commandments in Judaism</italic>. New York: Cambridge University Press, 2013<italic>.</italic>
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Barmash, Pamela. “Women and Mitzvot, Y.D. 246:6.” In <italic>The Committee on Jewish Law and Standards Teshuvot</italic>, edited by the Rabbinical Assembly (April 2014, 34 p.), accessed 30 August 2020, <ext-link ext-link-type="uri" xlink:href="http://www.rabbinicalassembly.org/sites/default/files/public/halakhah/teshuvot/2011-2020/womenandhiyyuvfinal.pdf">http://www.rabbinicalassembly.org/sites/default/files/public/halakhah/teshuvot/2011-2020/womenandhiyyuvfinal.pdf</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Belser, Julia Watts, and Lennart Lehmhaus. “Disability in Rabbinic Jewish Sources.” In <italic>Disability in Antiquity</italic>, edited by Christian Laes, 434–452. London: Routledge, 2017.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Benovitz, Moshe. “Time-triggered Positive Commandments as Conversation Pieces.” In <italic>HUCA</italic> 78 (2007): 45–90.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Berman, Saul J. “The Status of Women in Halakhic Judaism.” <italic>Tradition</italic> 14, no. 2 (1973): 5–28.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Biale, Rachel. <italic>Women and Jewish Law: The Essential Texts, Their History, and Their Relevance for Today</italic>. New York: Schocken Books, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Boyarin, Daniel. “Torah Study and the Making of Jewish Gender.” In <italic>A Feminist Companion to Reading the Bible: Approaches, Methods and Strategies</italic>, edited by Athalya Brenner and Carole Fontaine, 515–546. Sheffield: Sheffield Academic Press, 1997.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Bratsiotis, N. P. “‘îsh; ‘ishshāh.” In <italic>Theological Dictionary of the Old Testament</italic> (<italic>TDOT)</italic>, edited by G. Johannes Botterweck, Helmer Ringgren, and Heinz-Josef Fabry, 1:222–235. Grand Rapids (MI): Eerdmans, 1974.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Brettler, Marc Zvi. “Women in the Decalogue.” In <italic>Women in Scripture: A Dictionary of Named and Unnamed Women in the Hebrew Bible, the Apocryphal/Deuterocanonical Books, and the New Testament</italic>, edited by Carol Meyers, Toni Craven, and Ross Kraemer, 191–192. Boston: Houghton Mifflin, 2000.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Brody, Shlomo M. “Women, Tefillin, and the Halakhic Process.” In <italic>Torah Musings Journal</italic> (February 2014, 20 p.), accessed 30 August 2020, <ext-link ext-link-type="uri" xlink:href="http://www.torahmusings.com/wp-content/uploads/2014/02/Women-and-Tefillin-Different-Models.pdf">http://www.torahmusings.com/wp-content/uploads/2014/02/Women-and-Tefillin-Different-Models.pdf</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Chernick, Michael. “איש as Man and Adult in the Halakic Midrashim.” <italic>JQR</italic> 73, no. 3 (1983): 254–280.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Cohen, Shaye J.D. <italic>Why Aren’t Jewish Women Circumcised? Gender and Covenant in Judaism</italic>. Berkeley: University of California Press, 2005.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Cohn, Naftali S. <italic>The Memory of the Temple and the Making of the Rabbis</italic>. Philadelphia: University of Pennsylvania Press, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Dietrich, Walter, and Samuel Arnet. <italic>Konzise und aktualisierte Ausgabe des Hebräischen und Aramäischen Lexikons zum Alten Testament</italic>. Leiden: Koehler &amp; Baumgartner, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Ellinson, Getsel. <italic>Partners in Life: A Guide to the Rabbinic Sources.</italic> Woman and the Mitzvot<italic>,</italic> vol. 3. Jerusalem: World Zionist Organization, 1998.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Serving the Creator: A Guide to the Rabbinic Sources.</italic> Woman and the Mitzvot<italic>,</italic> vol. 1. Jerusalem: World Zionist Organization, 1986.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Erbele-Küster, Dorothea. “Der Dienst der Frauen am Eingang des Zeltheiligtums (Exodus 38:8) – Kultisch-religiöse Verortungen von Frauen in Exodus und Leviticus.” In <italic>The Interpretation of Exodus: Studies in Honour of Cornelis Houtman</italic>, edited by Riemer Roukema, 265–281. Leuven: Peeters, 2006.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Fraade, Steven D. “Memory and Loss in Early Rabbinic Text and Ritual.” In <italic>Memory and Identity in Ancient Judaism and Early Christianity: A Conversation with Barry Schwartz</italic>, edited by Tom Thatcher, 113–126. Atlanta: SBL Press, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Goldberg, Sylvie-Anne. “Is Time a Gendered Affair? Category and Concept: ‘Woman’ and ‘Mitzvah’.” In <italic>Tov Elem: Memory, Community and Gender in Medieval and Early Modern Jewish Societies</italic>. <italic>Essays in Honor of Robert Bonfil</italic> (Hebrew/English), edited by Elisheva Baumgarten, Amnon Raz-Krakotzkin, and Roni Weinstein, 15–28. Jerusalem: The Bialik Institute, 2011.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Gribetz, Sarit Kattan. “Time, Gender, and Ritual in Rabbinic Sources.” In <italic>Religious Studies and Rabbinics: A Conversation</italic>, edited by Elizabeth Shanks Alexander and Beth A. Berkowitz, 139–157. London: Routledge, 2018.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hachlili, Rachel. <italic>The Menorah, the Ancient Seven-armed Candelabrum: Origin, Form and Significance</italic>. Leiden: Brill, 2001.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Halbertal, Moshe. <italic>People of the Book: Canon, Meaning, and Authority</italic>. Cambridge (MA): Harvard University Press, 1997.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>HaMishnah (MS Kaufmann).</italic> Faksimile-Ausgabe des Mischnacodex Kaufmann A 50. Edited by Georg Beer. Den Haag: Martinus Nijhoff,1929; rpr. Jerusalem, 1968.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Haran, Menahem. “Priests and Priesthood.” In <italic>Encyclopaedia Judaica</italic> (Second Edition), 16:513–523. Detroit: Macmillan Reference, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Temples and Temple-Service in Ancient Israel: An Inquiry into the Character of Cult Phenomena and the Historical Setting of the Priestly School</italic>. Oxford: The Clarendon Press, 1978.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hauptman, Judith. “From the Kitchen to the Dining Room: Women and Ritual Activities in Tractate .” In <italic>A Feminist Commentary on the Babylonian Talmud: Introduction and Studies</italic>, edited by Tal Ilan et al, 109–126. Tübingen: Mohr Siebeck, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Rereading the Rabbis. A Women’s Voice</italic>. Boulder: Westview Press, 1998.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Heschel, Abraham Joshua. <italic>The Sabbath: Its Meaning for Modern Man.</italic> New York: Farrar, Straus and Giroux, 1951.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hezser, Catherine. “Women, Children, and Slaves in Jewish Law.” In <italic>The Oxford Handbook of Biblical Law</italic>, edited by Pamela Barmash, 489–503. New York: Oxford University Press, 2019.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>The Social Structure of the Rabbinic Movement in Roman Palestine</italic>. Tübingen: Mohr Siebeck, 1997.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Himmelfarb, Martha. “‘A Kingdom of Priests’: The Democratization of the Priesthood in the Literature of Second Temple Judaism.” <italic>The Journal of Jewish Thought and Philosophy</italic> 6 (1997): 89–104.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hirsch, Samson R. <italic>Die fünf Bücher der Torah: übersetzt und erläutert.</italic> <italic>3. Teil: Wajikra</italic>. Basel: Morascha, 2010.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Ilan, Tal. “The Woman as ‘Other’ in Rabbinic Literature.” In <italic>Jewish Identity in the Greco-Roman World</italic>, edited by Jörg Frey, Daniel R. Schwartz, and Stephanie Gripentrog, 77–92. Leiden: Brill, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “‘Daughters of Israel, Weep for Rabbi Ishmael’: The School of Rabbi Akiva and Rabbi Ishmael on Women.” <italic>Nashim</italic> 4 (2001): 15–34.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Integrating Women into Second Temple History</italic>. Peabody: Hendrickson, 2001.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Jewish Women in Greco-Roman Palestine</italic>. Peabody: Hendrickson, 1996.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Israeli, Anat. “Jewish Women and Positive Time-bound Commandments: Reconsidering the Rabbinic Texts.” <italic>Women in Judaism: A Multidisciplinary Journal</italic> 12, no. 1 (2015, 27 p.), accessed 30 August 2020, <ext-link ext-link-type="uri" xlink:href="http://wjudaism.library.utoronto.ca/index.php/wjudaism/article/view/26331">http://wjudaism.library.utoronto.ca/index.php/wjudaism/article/view/26331</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Jotkowitz, Alan. “‘A Man Takes Precedence Over a Woman when it Comes to Saving a Life’: The Modern Dilemma of Triage from a Halakhic and Ethical Perspective.” <italic>Tradition</italic> 47:1 (2014): 48–68.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kagan, M. <italic>The Concise Book of Mitzvoth: The Commandments Which Can Be Observed Today</italic>. Compiled by the Chafetz Chayim, English Adaption and Notes by Charles Wengrov, Hebrew/English. Jerusalem: Feldheim Publishers, 1990.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kraemer, David. <italic>Reading the Rabbis: The Talmud as Literature</italic> . New York: Oxford University Press, 1996.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kühlewein<italic>,</italic> J. “‘îš.” In <italic>Theological Lexicon of the Old Testament (TLOT)</italic>, edited by Ernst Jenni and Claus Westermann, 1:98–104. Peabody (MA): Hendrickson Publishers, 1997.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kulp Joshua, and Jason Rogoff. <italic>Reconstructing the Talmud: An Introduction to the Academic Study of Rabbinic Literature</italic>. New York: Mechon Hadar, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kutch, Ernst. “Sukkot.” In Encyclopaedia Judaica (Second Edition), 19:300. Detroit: Macmillan Reference, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Labovitz, Gail. “A Man Spinning on His Thigh: Gender, Positive Time-Bound Commandments and Ritual Fringes. Mishnah Mo’ed katan 3:4.” <italic>Nashim</italic> 28 (2015): 75–87.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Lehman, Marjorie. “The Gendered Rhetoric of Sukkah Observance.” <italic>JQR</italic> 96:3 (2006): 309–335.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Levine, Baruch A. <italic>Leviticus: The JPS Torah Commentary</italic>. Philadelphia: The Jewish Publication Society, 1989.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Levine, Lee I. <italic>Jerusalem:</italic> <italic>Portrait of the City in the Second Temple Period (538 B.C.E.–70 C.E.)</italic>. Philadelphia: The Jewish Publication Society, 2002.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Leuchter, Mark. <italic>The Levites and the Boundaries of Israelite Identity</italic>. New York: Oxford University Press, 2017.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Margalit, Natan. “Priestly Men and Invisible Women: Male Appropriation of the Feminine and the Exemption of Women from Positive Time‐Bound Commandments.” <italic>AJS Review</italic> 28:2 (2004): 297–316.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Marx, Dalia. <italic>Tractates Tamid, Middot and Qinnim: A Feminist Commentary</italic>. Tübingen: Mohr Siebeck, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “The Missing Temple: The Status of the Temple in Jewish Culture Following its Destruction.” <italic>European Judaism</italic> 46, no. 2 (2013): 61–78.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Meiselman, Moshe. <italic>Jewish Woman in Jewish Law</italic>. New York: Ktav Publishing House, 1978.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Millen, Rochelle L. <italic>Women, Birth, and Death in Jewish Law and Practice</italic>. Lebanon: Brandeis University Press, 2004.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “Analysis of Rabbinic Hermeneutics.” In <italic>Gender and Judaism: The Transformation of Tradition</italic>, edited by Tamar M. Rudavsky, 25–37. New York: New York University Press, 1995.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>Mishnah:</italic> <italic>A New Translation with a Commentary by Pinhas Kehati</italic>. Seder Nashim, vol. 3: Gittin, Kiddushin. Translated by Edward Levin. Jerusalem: Eliner Library, 1994.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Niehr, H. “pāṭar; pāṭîr; peṭer; piṭrâ.” In <italic>Theological Dictionary of the Old Testament</italic> (<italic>TDOT)</italic>, edited by G. Johannes Botterweck, Helmer Ringgren, and Heinz-Josef Fabry, 11:529–533. Grand Rapids (MI): Eerdmans, 2001.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Plietzsch, Susanne. “‘Dass jede einzelne Sache, für die Israel sein Leben gab, in seinen Händen Bestand haben sollte…:’ Individuelle und regional unabhängige Religiosität in der Mekhilta des Rabbi Jischmael.” <italic>JSJ</italic> 41 (2010): 244–285.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Rhein, Valérie. “Temporär gleichgestellt: jüdische Trauerrituale für Mann und Frau in der ersten Trauerphase <italic>(Aninut)</italic>.” In <italic>Die Geschlechter des Todes. Theologische Perspektiven auf Tod &amp; Gender</italic>, edited by Angela Berlis, Magdalene L. Frettlöh, Isabelle Noth, and Silvia Schroer. Göttingen: Vandenhoeck &amp; Ruprecht, 2020, forthcoming.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Compilation of the 21 Commandments Mentioned in the Discussion of the Exemption of Women from Time-Bound Mitzvot in b. Qiddushin 33b–35a and b. Berakhot 20b With Torah Verses and Groups of Addressees</italic>. 2020, August 30, 7 p. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.4008385">https://doi.org/10.5281/zenodo.4008385</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Excursus: Maimonides’</italic> <italic>“shishim mitzvot hahechrekhiyot.”</italic> 2020, August 30, 19 p. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.4008387">https://doi.org/10.5281/zenodo.4008387</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “Konservativer als die Halacha? Die Frau im Judentum und die Bat-Mizwa in Deutschschweizer Einheitsgemeinden.” In <italic>Schweizer Judentum im Wandel: Religion und Gemeinschaft zwischen Integration, Selbstbehauptung und Abgrenzung</italic>, edited by Jacques Picard and Daniel Gerson, 159–201. Zürich: Chronos, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “Toralesung und die Frau: ein rabbinisches Dilemma.” <italic>Lectio Difficilior</italic> (2014:1, 62 p.), accessed 30 August 2020, <ext-link ext-link-type="uri" xlink:href="http://www.lectio.unibe.ch/14_1/inhalt_d.htm">http://www.lectio.unibe.ch/14_1/inhalt_d.htm</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “Talmud Tora für die Frau: vom ‘Verbot’ zum ‘Gebot’?” <italic>Lectio Difficilior</italic> (2012:2, 83 p.), accessed 30 August 2020, <ext-link ext-link-type="uri" xlink:href="http://www.lectio.unibe.ch/12_2/inhalt_d.htm">http://www.lectio.unibe.ch/12_2/inhalt_d.htm</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “‘Das Gebet des Menschen wird nirgends als im Bethause erhört’ (bBer 6a): Die jüdische Frau in Religionsgesetz und -praxis am Beispiel des Minyans.” <italic>Judaica</italic> (2007:4): 306–343.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Ross, Tamar. <italic>Expanding the Palace of Torah: Orthodoxy and Feminism</italic>. Lebanon: Brandeis University Press, 2004.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Rovner, Jay. “Rhetorical Strategy and Dialectical Necessity in the Babylonian Talmud: The Case of Kiddushin 34a–35a.” <italic>HUCA</italic> 65 (1994): 177–231.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Safrai, Chana. “Traditional Judaism and the Feminist Challenge.” In <italic>Judaism and the Challenges of Modern Life</italic>, edited by Moshe Halbertal and Donniel Hartman, 59–73. London: Continuum, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Women in the Temple: The Status and Role of Women in the Second Temple of Jerusalem</italic>. Utrecht: Catholic Theological University of Utrecht (since 2006 Tilburg University), 1991; unpublished dissertation.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Safrai, Shmuel. “Jerusalem in the Halacha of the Second Temple Period.” In <italic>The Centrality of Jerusalem: Historical Perspectives</italic>, edited by Marcel Poorthuis and Chana Safrai, 94–113. Kampen: Kok Pharos, 1996.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Schiffman, Lawrence H. <italic>From Text to Tradition: A History of Second Temple and Rabbinic Judaism</italic>. Hoboken: Ktav Publishing House, 1991.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Shectman, Sarah. “The Social Status of Priestly and Levite Women.” In <italic>Levites and Priests in Biblical History and Tradition</italic>, edited by Mark A. Leuchter and Jeremy M. Hutton, 83–99. Leiden: Brill, 2012.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>Sifra: An Analytical Translation</italic>. Vol. 3: Aharé Mot, Qedoshim, Emor, Behar and Behuqotai. Translated by Jacob Neusner. Atlanta: Scholars Press, 1988.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Staubli, Thomas, and Silvia Schroer, eds. <italic>Menschenbilder der Bibel</italic>. Ostfildern: Patmos, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Stein, David E. S. “The Grammar of Social Gender in Biblical Hebrew.” In <italic>HebStud</italic> 49 (2008): 7–26.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Stemberger, Günter. “Did Women Actively Participate in the Sacrificial Cult of the Temple of Jerusalem? Some Preliminary Observations.” In <italic>Introduction to Seder Qodashim: A Feminist Commentary on the Babylonian Talmud V</italic>, edited by Tal Ilan, Monika Brockhaus, and Tanja Hidde, 9–21. Tübingen: Mohr und Siebeck, 2012.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. “Zeit, Geschichte, Ewigkeit im rabbinischen Judentum.” In <italic>Zeit und Ewigkeit als Raum göttlichen Handelns</italic>, edited by Reinhard G. Kratz and Hermann Spieckermann, 213–230. Berlin: Walter De Gruyter, 2009.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Stern, Sacha. <italic>Time and Process in Ancient Judaism</italic>. Oxford: The Littman Library of Jewish Civilization, 2003.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>Talmud Bavli</italic>, The Noé Edition, Hebrew/English, Commentary by Adin E.-I. Steinsaltz. Jerusalem: Koren Publishers, 2012–2019.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>The Bar Ilan Responsa Project</italic>. Global Jewish Database (Online Electronic Collection). Ramat Gan: Bar Ilan University.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>The Jerusalem Talmud</italic>. Edition, Translation, and Commentary by Heinrich W. Guggenheimer. Berlin: Walter de Gruyter, 2000–2015.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>The New Oxford Annotated Bible:</italic> <italic>New Revised Standard Version</italic>, <italic>With The Apocrypha</italic>. Edited by Michael D. Coogan et al. Oxford: Oxford University Press, 2010.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>The Tosefta:</italic> <italic>Translated from the Hebrew with a New Introduction by Jacob Neusner</italic>. 2 vols. Peabody: Hendrickson, 2002.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+<italic>The Tosefta: Zeraim, Moed, Nashim, Bava Kama, Bava Metzia, Bava Batra.</italic> Edited by Saul Lieberman. New York: JTSA, 1965–1988.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Tigay, Jeffrey H. <italic>Deuteronomy:</italic> <italic>The JPS Torah Commentary</italic>. Philadelphia: The Jewish Publication Society, 1996.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Van der Horst, Pieter W. “Rebekah.” In <italic>Women in Scripture: A Dictionary of Named and Unnamed Women in the Hebrew Bible, the Apocryphal/Deuterocanonical Books, and the New Testament</italic>, edited by Carol Meyers, Toni Craven, and Ross Kraemer, 143–145. Boston: Houghton Mifflin, 2000.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Walzer, Michael, Menachem Lorberbaum, and Noam J. Zohar, eds. <italic>The Jewish Political Tradition</italic>. Vol. 2: Membership. New Haven: Yale University Press, 2003.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Wegner, Judith Romney. “The Image and Status of Women in Classical Rabbinic Judaism.” In <italic>Jewish Women in Historical Perspective</italic>, edited by Judith Baskin, 73–100. Detroit: Wayne State University Press, 1998.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Yadin-Israel, Azzan. <italic>Scripture and Tradition: Rabbi Akiva and the Triumph of Midrash</italic>. Philadelphia: University of Pennsylvania Press, 2015.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Zohar, Noam J. “Women, Men and Religious Status: Deciphering a Chapter in Mishnah.” In <italic>Approaches to Ancient Judaism: Historical, Literary, and Religious Studies</italic>, edited by Herbert W. Basser and Simcha Fishbane, 33–54. Atlanta: Scholars Press, 1993.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

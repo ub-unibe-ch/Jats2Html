@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN"
+                  "JATS-publishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="de">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">JNDF</journal-id>
+<journal-title-group>
+<journal-title>Judaica: Neue digitale Folge</journal-title>
+<abbrev-journal-title>JNDF</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2673-4273</issn>
+<publisher>
+<publisher-name>Bern Open Publishing</publisher-name>
+<publisher-loc>Bern, Switzerland</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">https://doi.org/10.36950/jndf.1.7</article-id>
+<title-group>
+<article-title>David Albaharis Roman <italic>Der Bruder</italic> als Lektüre aus der sephardischen Diaspora</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Deppner</surname>
+<given-names>Corinna</given-names>
+</name>
+<email>corinna.deppner@gmail.com</email>
+<aff>Universität Hamburg</aff>
+</contrib>
+<author-comment><p>Der Beitrag ist die erweiterte Fassung eines in englischer Sprache gehaltenen Vortrags während der <italic>Sephardic Summerschool,</italic> Moses Mendelssohn Akademie Halberstadt, 2019.</p></author-comment>
+</contrib-group>
+<pub-date pub-type="epub">
+<month>10</month>
+<year>2020</year>
+</pub-date>
+<volume>1</volume>
+<permissions>
+<copyright-statement>Copyright © 2020, Corinna Deppner. This work is licensed under Creative Commons Attribution 4.0 International.</copyright-statement>
+<copyright-year>2020</copyright-year>
+<copyright-holder>Corinna Deppner</copyright-holder>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This work is licensed under Creative Commons Attribution 4.0 International.</license-p>
+</license>
+</permissions>
+<abstract>
+<p>In the novel <italic>The Brother,</italic> David Albahari designs a transmedial network that relates to the breakup of Yugoslavia and the breakup of a family. The confrontation with an unknown brother, who was adopted by a Jewish family in Argentinian exile, lets the coordinates of morality and aesthetics get out of hand: The brother not only reveals himself as a connoisseur of the literature of Jorge Luis Borges, he also bursts into the everyday life of a country that is unprepared for him as a transsexual person. In this spectrum of literary discourse and experienced homophobia, of diaspora and transgender, of memories stimulated by photographs, aesthetic lines of escape unfold and aim at accepting the unknown Other.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>David Albahari, <italic>Der Bruder</italic> (orig. <italic>Brat</italic>); Diaspora; Transgender; Fotografie</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<boxed-text content-type="dedication">
+  <p><italic>Dedicado a Paloma Díaz-Mas, CSIC, Madrid</italic></p>
+</boxed-text>
+<sec id="im-wechsel-der-literarischen-fronten">
+  <label>1</label>
+  <title>Im Wechsel der literarischen Fronten</title>
+  <p>Handlungsort des Romans <italic>Der Bruder</italic> ist Belgrad in den 90er Jahren des 20. Jahrhunderts, nach dem Zerfall Jugoslawiens. In der Wohnung des Erzählers berichtet Filip, dass er einen Brief von seinem angeblichen Bruder Robert erhalten habe, einem Bruder, von dessen Existenz er bis dato nichts wusste. Der Leser erfährt somit aus zweiter Hand, was sich ereignete; der Erzähler ist zugleich passiver Zuhörer und Medium für die Übermittlung des Geschehens. Berichtet wird, dass das im Brief angekündigte und plötzliche Auftauchen des unbekannten Bruders Filips Lebensrealität ins Wanken bringt. Filip ist der Verfasser einer Autobiografie mit dem Titel <italic>Das Leben eines Verlierers,</italic> in der er einerseits seine behütete Kindheit in liebevoller Erinnerung an die Eltern beschreibt und andererseits von der Erfahrung eines einschneidenden Verlustes durch den frühen Tod der Schwester (ein Unfall) berichtet. Diese beiden Merkmale in Filips Kindheitserinnerungen werden durch das Auftauchen des Bruders neu verwoben: Filips Bruder wurde – dem Vernehmen nach – zur Zeit politischer, sich gegen die Diktatur Titos wendender Unruhen aus existenzieller Not einer Familie zur Adoption übergeben, die kurz darauf nach Argentinien emigrierte. Seine jüdischen Adoptiveltern, die selbst keine Kinder haben konnten, haben den leiblichen Eltern ein Collier als Dank für die Schenkung des Kindes überlassen. Das Elternhaus erscheint Filip unter diesen Umständen in einem neuen Licht – das an Filip vererbte Collier wird zum „Symbol des Verrates“<xref ref-type="fn" rid="fn1">1</xref> der Eltern an dem ersten Sohn Robert. Auch Filips durch den frühen Tod der Schwester erfahrener Verlust erscheint durch das Auftauchen des Bruders in einem neuen Licht:</p>
+  <disp-quote>
+    <p>[A]ber von Robert habe niemand etwas verlauten lassen, […] dessen war er sich mehr als sicher, sonst hätte er nie das Buch <italic>Das Leben eines Verlierers</italic> geschrieben, das von Anfang bis Ende auf der Tatsache fußte, dass er sehr früh seine Schwester verloren und so das Leben eines Verlierers begonnen habe in der Überzeugung, keine Geschwister mehr zu besitzen […] Fast alles, was er bislang geschrieben habe, gründe auf der Tatsache, die keine war. Daher sehe es so aus, als sei alles, was er getan habe, ein großer Betrug und sein ganzes Leben Täuschung, Illusion, Lüge gewesen.<xref ref-type="fn" rid="fn2">2</xref></p>
+  </disp-quote>
+  <p>Aus dieser Perspektive wandelt sich die Autobiografie Filips zu einer Fiktion, da sich die Fakten der erzählten Wirklichkeit neu zusammensetzen – was auch nach dem Realitäts- und Fiktionalitätsgehalt von Literatur überhaupt fragen lässt. In der im Roman geschilderten Konstellation fallen zwei zeitlich getrennte Ereignisse zusammen: der Verlust und das Wiederfinden des Bruders.<xref ref-type="fn" rid="fn3">3</xref> Sie ereignen sich im selben Augenblick. Sie kulminieren in einer Konzeption von Gleichzeitigkeit, die in ihrer Plötzlichkeit zu einer von dem Brief ausgelösten Selbstreflexion Filips kontrastiert, der fast die Hälfte des Romans eingeräumt wird. Es ist ein Denkraum, in dem Filip sein bisheriges Leben ohne Bruder Revue passieren lässt und infrage stellt.</p>
+  <p>Es kommt zu einem Treffen der Brüder im Restaurant <italic>Brioni</italic> in Zemun, einem Stadtteil von Belgrad. Zwei Ähnlichkeiten der Geschwister werden herausgestellt: die Anatomie der Hände<xref ref-type="fn" rid="fn4">4</xref> und ihr Interesse für Literatur, einschließlich der von beiden betriebenen schriftstellerischen Tätigkeit. Letztere dient zugleich einer Kontrastierung hinsichtlich der literarischen Ausrichtung: Während Filip ein autobiografisches Genre wählt, beschäftigt sich Robert mit dem Werk des argentinischen Schriftstellers Jorge Luis Borges, der u. a. für seinen affirmativen Umgang mit Fiktionen bekannt ist. Übertragen auf die Lebensumstände der Brüder lässt sich jedoch eine gegenläufige Ausrichtung feststellen: Filip, der Realist, nimmt die Möglichkeit einer neuen Lebensrealität an und erkennt den fiktiven Charakter seiner bisher als autobiografisch empfundenen Lebensumstände. Robert, der literarisch die Fiktion favorisiert, beharrt auf genealogisch begründbaren Familienwerten. Er verlässt die Adoptiveltern – die er als <italic>Imitation</italic> und <italic>falsch</italic><xref ref-type="fn" rid="fn5">5</xref> bezeichnet – und begibt sich auf die Suche nach dem leiblichen Bruder. Diese Verschränkung zwischen literarischem Schaffen und Lebensumständen der beiden Figuren wird im Romanverlauf weiterverfolgt und mehrfach gewendet: Während Filip die Wirklichkeit nunmehr als Bühne begreift, auf der sich das Treffen zwischen ihm und seinem Bruder wie eine aristotelische Tragödie ereignet – deren Funktionsweise im Roman eingehend erläutert wird –<xref ref-type="fn" rid="fn6">6</xref> sieht Robert die einzige Möglichkeit für Literatur im Zerschlagen der aristotelischen Ordnung:</p>
+  <disp-quote>
+    <p>Aristoteles ist schon interessant, aber er hat alles falsch interpretiert, die Entstehung der Poesie, die Rolle des Rhythmus, die Bedeutung der Nachahmung, die Notwendigkeit der Einheit von Zeit, Handlung und Ort. Was er anbietet ist eine gewöhnliche Kulturdiktatur, die vorschreibt, dass ein gutes Werk so und nicht anders zu sein hat, und dies ist der schlechteste Rat, den man jemandem geben kann, der ein gutes Werk schreiben will, weil das nur auf eine einzige Art geschrieben werden kann, nämlich indem man alles zerstört, was nach der aristotelischen Logik als Zeichen für ein gutes Werk gilt.<xref ref-type="fn" rid="fn7">7</xref></p>
+  </disp-quote>
+  <p>Insoweit wäre Roberts Auffassung von Literatur eine, die in <italic>Der Bruder</italic> als Gegenpart zu Aristoteles angeführt wird und eigentlich der fiktionalen Literatur zugerechnet werden müsste. Er orientiert sich offensichtlich an dem unzuverlässigen wie fragmentarischen Schreiben Jorge Luis Borges’. Auch auf dieser Basis entwickelt sich eine Umkehrung. Während Filip die Realität in Begriffe drängt, die einer Theaterszene entsprechen, bedient sich Robert ihrer Requisiten – dazu gehören Schminke, „dunkelrote[r] Lippenstift“ sowie „lang[e] künstlich[e] Wimpern“<xref ref-type="fn" rid="fn8">8</xref> – um eine eigene Wirklichkeit zu formen. Erstaunlicherweise erbringt Robert selbst den Beweis für Filips Auffassung. Er macht die Gaststätte sozusagen zum Schauplatz, indem er nach einem Gang auf die Toilette als in Frauenkleidung gehüllte Person namens Alisa zurückkehrt: „[Filip …] hob den Kopf und erblickte Robert in Frauenkleidern, geschminkt und mit langem, glattem Haar. Er näherte sich dem Tisch mit wiegenden Hüften, das Klopfen kam von seinen hohen Stöckelschuhen.“<xref ref-type="fn" rid="fn9">9</xref></p>
+  <p>Als Filip fragt, warum Robert sich so „verkleid[e]“, antwortet jener mit der Gegenfrage, ob er ihm denn geglaubt hätte, „wenn er nur eine Geschichte über das Tragen von Frauenkleidern gehört hätte“?<xref ref-type="fn" rid="fn10">10</xref> Robert suggeriert somit eine Nichtrepräsentierbarkeit der Welt durch sprachliche Zeichen. „Worten“ – so heißt es zuvor – „kann man nicht immer trauen“<xref ref-type="fn" rid="fn11">11</xref>. Mit Roberts Verwandlung in Alisa vollzieht sich vor dem Hintergrund der Familiengeschichte – d. h. der Erinnerung an die verlorene Schwester sowie dem Auftreten des verlorenen und zugleich wieder in Erscheinung tretenden Bruders – zunächst eine weitere Wendung der Geschwisterkonstellation: Robert will als Alisa Filip die abwesende Schwester ersetzen. Filip erwidert diese Offenbarung mit einer liebevollen Geste und nimmt seine neu gewonnene Schwester an.<xref ref-type="fn" rid="fn12">12</xref> Zugleich ereignet sich mit der Verwandlung Roberts eine Transgression der Geschlechterordnung, die sich für die außenstehenden Gäste des Restaurants als Provokation erweist.</p>
+  <p>Die Empörung der Gäste schlägt in Wut und Aggression um. Sie reagieren homophob und beleidigen die Geschwister. Es kommt zu einer physischen Auseinandersetzung zwischen Robert und einer gewalttätigen Gruppe, die sich unter den Gästen befindet. Robert wird zusammengeschlagen – Filip verfällt in eine Art Fieberrausch, in dem er über den Ausgang der Tragödie halluziniert und seinem transsexuellen Bruder nicht zur Hilfe kommt. Den schwer verwundeten Körper bringt er zu sich nach Hause, wo sich die Geschwister für einen längeren Zeitraum aufhalten. Filip sinnt – einer Flucht in die Literatur gleich – dem Geschehen ästhetisch nach und überlässt Robert unversorgt seinem Schicksal. Als Filip endlich realisiert, dass sein sich transsexuell positionierender Bruder aufgrund von unterlassener Hilfestellung sterben wird, bringt er ihn ins Krankenhaus, wo dieser kurz nach dem Eintreffen verstirbt. Filip, der einerseits die Verwandlung des Bruders in Alisa akzeptiert, bezieht die Auswirkungen dieses ‚Dramas‘ letztendlich auf sein eigenes Leben, das sich nun ebenfalls gewandelt habe:</p>
+  <disp-quote>
+    <p>Er sah mich an und sagte, er wisse, dass seine Erzählung wirr sei, hoffe dennoch, ich begriffe, dass es einer der schrecklichsten Tage in seinem Leben war, ein Tag, an dem Gewinn und Verlust so schnell aufeinanderfolgten, dass nicht einmal er sie voneinander unterscheiden konnte. Zunächst hatte er einen Bruder bekommen; dann hatte er, nachdem er dessen Geschichte gehört hatte, seine Eltern verloren, jene Eltern, die er in <italic>Das Leben eines Verlierers</italic> gepriesen hatte; danach hatte er den Bruder verloren, aber gleichzeitig eine Schwester bekommen; am Ende hatte er auch die Schwester verloren und drohte nun auch noch, sich selbst zu verlieren.<xref ref-type="fn" rid="fn13">13</xref></p>
+  </disp-quote>
+  <p>Die Verwandlung des Bruders in eine Schwester bewirkt eine Aneinanderreihung von Ereignissen, die – in den Augen Filips – den tragischen Charakter des auf der Bühne des <italic>Brioni</italic> aufgeführten Stückes ausmachen.<xref ref-type="fn" rid="fn14">14</xref> Gleichzeitig ist auch Filip nicht mehr in der Lage, die aristotelische Kohärenz gedanklich herzustellen, was zum Auseinanderfallen der aristotelischen Einheit führt,<xref ref-type="fn" rid="fn15">15</xref> die er doch – anders als Robert – zusammenhalten wollte. Als Filip die Wohnung des Erzählers verlässt, erkennt jener, dass sich Filip – einer Katharsis gleich – tatsächlich verändert habe.<xref ref-type="fn" rid="fn16">16</xref> Als die Tür ins Schloss fällt, dreht der Erzähler den Schlüssel um, gerade so, als solle diese Geste das Ende einer Aufführung bezeichnen. Was als Tragödie endet, kann so auch als Lehrstück gelesen werden. Unausgesprochen enthält es die Aufforderung, die ablehnende Haltung gegenüber dem Anderen, dem Fremden zu ändern.</p>
+  <p>Was die Einstellung zur literarischen Form betrifft wird deutlich, dass die Botschaften des Romans in die Frage nach dem Verhältnis von Illusion und Wirklichkeit, von konstruierbarer und erlebbarer Existenz gekleidet sind. Diese Polarität wird auch zur Gegenüberstellung der unterschiedlichen Kulturen, in denen die Brüder aufgewachsen sind: „Alles in allem werde der Unterschied zwischen diesen beiden Ländern [Argentinien und Serbien] am deutlichsten, […] wenn man den bekanntesten argentinischen und den bekanntesten serbischen Schriftsteller, Jorge Luis Borges und Ivo Andrić, nebeneinanderstelle. Bei dem Ersten, meinte Robert, sei alles Phantasie; bei dem Zweiten alles Geschichte.“<xref ref-type="fn" rid="fn17">17</xref></p>
+  <p>Diese Gegenüberstellung von Fiktionalität und Realismus als künstlerische Auffassungen erhält durch die Gegenüberstellung von Argentinien und Serbien im Zusammenhang des historischen Subtextes der Geschichte eine weitere Polarität, die Polarität von Exil und Herkunft. Während das Exil die jüdische Diaspora aufruft, wird Serbien zum ‚Mutterland‘ erklärt. In Robert realisieren sich beide Dimensionen, insofern er in der Diaspora überlebt und im Land der Herkunft stirbt. Mit ihm stirbt somit nicht nur der Transsexuelle, sondern auch der exilierte Jude, denn Robert wurde von seinen Adoptiveltern als Jude erzogen.<xref ref-type="fn" rid="fn18">18</xref></p>
+  <p>Damit kristallisieren sich für die Analyse des Romans Akzentsetzungen heraus, die uns sowohl über die literarischen Wendungen des Autors Auskunft geben als auch zu den inhaltlichen Konfliktpotenzialen führen, die David Albahari in <italic>Der Bruder</italic> und auch in weiteren Romanen thematisiert: Antisemitismus und Homophobie.<xref ref-type="fn" rid="fn19">19</xref> Diese vom Autor ebenso fokussierten wie miteinander verschränkten Pole führen nicht nur kulturell und gedanklich in ein Areal virulent gebliebener gesellschaftlicher Konfliktzonen. Jenseits der Spuren des Leidens ergibt sich in Albaharis Narrativ eine Zusammenkunft jüdischen und zunächst als schwul verstandenen, transsexuellen Identitätsverhandlungen, die in den ästhetischen Gesten des Bruders modellhaften Charakter erhält. Diese Begegnung von randständigen, paradoxerweise zugleich einflussreichen Außenseiterpositionen mit variantenreichen Kreativitätspotentialen ist zuerst von Susan Sontag beschrieben worden.<xref ref-type="fn" rid="fn20">20</xref> Die Spiegelung der mit beiden Persönlichkeitsprofilen verbundenen Erfahrungen und Narrative lässt dieses Zusammentreffen in der Bruder-Figur des Romans zu einem aus unterschiedlichen Perspektiven sich bildenden Paradigma wachsen. Transformationsenergien – des Körpers wie des Wissens – sind die Basis dafür (Kap. 5).</p>
+  <p>Von Albahari wird zunächst ein an Kontinuität orientiertes Denken im Reflex auf die Familiengeschichte eingeführt und anhand der Körper- und Geschlechtsidentität des transsexuellen Bruders weitergedacht (Kap. 1). Die aufgerufenen Parameter Herkunft, Exil, Diaspora kollidieren zum einen mit Wirkdimensionen aus familiären, religiösen und ethnischen Konstellationen einschließlich daraus resultierender Erfahrungen, zum anderen mit kulturellen Einschreibungen, die sich aus den Denktraditionen jüdischer Diskussionskultur ableiten lassen (Kap. 2 und 5). In diese Spannung tritt die Selbstenthüllung des Bruders, die, als performative Maskerade vorgetragen, zugleich den Befund nicht entrinnbarer Körperlichkeit demonstriert (Kap. 3). Damit laufen die Aussagen des Romans zur Identität des Bruders nicht auf ein Entweder-oder von gegebenen oder entworfenen Wirklichkeitsgefügen hinaus. Vielmehr machen sie deutlich, dass die Konstruktion, dass Inszenierung wie Zuschreibung sich selbst paradoxerweise als essentiell konnotierte Gesten erweisen. Dieses in den literarischen Auffassungen der Brüder aufgegriffene Paradigma, wird ebenfalls für das in dem Roman behandelte und in diesem Artikel fokussierte Thema der Fotografie in Anspruch genommen (Kap. 4). Die Fotografie wird zunächst als Medium der Zeugenschaft für eine Familiengeschichte eingesetzt. In der Folge stellt sich heraus, dass das, was sich als neu gefundene Wirklichkeit abzuzeichnen scheint, nämlich der gefundene Bruder, in den Fotografien abwesend ist. Dass diese Konstellation gleichzeitig theoretische Diskurse über Fotografie beinhaltet, in denen der Fotografie ebenso Beleg wie Konstruktion von Wirklichkeit attestiert wird, ist Indiz dafür, dass Albahari den Umgang mit theoretischen Denkmodellen auch in Bezug auf ein Bildmedium auf motivischer wie struktureller Ebene des Romans fortschreibt. Die mediale Beschaffenheit der Fotografie, stets nur einen Ausschnitt aus einem komplexen Geschehen wiederzugeben, entspricht einer als fragmentarisch empfundenen Existenz und, damit verbunden, einem Verlust von Unversehrtheit. Fotografie sei, so Hanno Loewy, insbesondere aufgrund ihrer zerstückelnden Sichtweise, ein Inbegriff für die jüdische Diaspora (Kap. 4 und 2).<xref ref-type="fn" rid="fn21">21</xref> Demnach wäre mit dem von Albahari thematisierten Charakter der Fotografie als ein fragmentierendes Medium auch ein Verweis auf das diasporische Dispositiv des Romans gegeben. Die in der Forschung zu dem schriftstellerischen Werk Albaharis herausgearbeitete literarische Form des <italic>nomadischen Schreibens</italic><xref ref-type="fn" rid="fn22">22</xref> ergänzt diese Konditionierung. Nomadisches Schreiben resultiert aus Verschiebungen des Stils, bricht Gegensätze plural auf und zeichnet sich durch intermediale Bewegungen, kulturelle Transformationen und Destabilisierungsprozesse aus. Nicht zuletzt aufgrund des Umgangs mit fragmentierten, zerstreuten Narrativen und deren prismatischen Zusammenführungen sind diese Eigenschaften Impuls und Vorbild für ein diasporistisches Schreiben (Kap. 5). Diese Spur ist, so die These, auf die Reflexion jener sephardischen Diaspora zurückzuführen, die die jüdischen Gemeinden im Balkan als von Spaniolen begründet ausweisen und von deren Kultur- und Religionsräumen David Albahari nachhaltig geprägt wurde (Kap. 2 und 5). Gleichwohl fokussiert der Roman keineswegs klare Identitätszuschreibungen, auch nicht eine jüdische. Er bezeugt vielmehr ein Ausloten von Bruchlinien. Was Eindeutigkeit in der Identitätssuche vermissen lässt, entzieht sich zugleich einer eindimensionalen Deutungsperspektive. Die Ausweglosigkeit, in die sich der zum Sujet gewählte Bruder durch die Selbstenthüllung begibt (Kap. 3), ist paradigmatisch für das Fehlen eines Identität stiftenden Rückhalts: Weder ist seine Zugehörigkeit zur Familie gesichert, noch zu anderen auf- und angerufenen Bindegliedern der Gesellschaft oder einer Gemeinde. Durch diese Unwägbarkeiten und Verstörungen legen die Übereinkünfte zugleich ihre Differenz frei. Der Bruder ist jetzt der Fremde. Eine neue Diaspora zeichnet sich ab, die Diaspora des Transsexuellen, die von Albahari mit der jüdischen zu einer Schicksalsgemeinschaft verschwistert wird.<xref ref-type="fn" rid="fn23">23</xref> In dieser Zusammenschau überschneiden sich in dem Roman die dafür aufgerufenen strukturellen Entsprechungen in vergleichbarer Weise. Genderdiskurse und Queer-Theorie treffen auf Parameter des jüdischen Denkens und werden mit Fragen nach einer bleibenden Bestimmtheit konfrontiert.</p>
+</sec>
+<sec id="diaspora-und-exilliteratur-der-bruder-und-mutterland-im-vergleich">
+  <label>2</label>
+  <title>Diaspora und Exilliteratur – <italic>Der Bruder</italic> und <italic>Mutterland</italic> im Vergleich</title>
+  <p>In <italic>Der Bruder</italic> artikuliert sich das Nachdenken über jüdische Identität zunächst als Teil der Biografie von Robert. Gleichwohl äußert Filip später, dass Robert keine nennenswerte Beziehung zur jüdischen Religion und Kultur entwickelt habe. Ergebnis ist ein Reflektieren über eine verborgene, mittelbar anwesende und durch andere Kulturen durchscheinende und somit fragmentierte jüdische Kultur. Robert ist in Serbien geboren. Er lebt in Australien. Sein Ort der Kindheit und Jugend ist Argentinien. Es ist nicht nur das Land der diasporischen Existenz seiner Pflegeeltern, sondern auch das Land seiner kulturellen Prägung. Dem entspricht sein Interesse für Jorge Luis Borges, dem wichtigsten Schriftsteller Argentiniens, über den Robert eine Diplomarbeit verfasste und der zum inhaltlichen Anknüpfungspunkt für Begegnung und Gespräch mit dem aufgesuchten Bruder wird. Mit Borges haben wir es nicht nur mit einem komplexen südamerikanischen Literaten zu tun. Er hat auch europäische Denker des Poststrukturalismus beeinflusst. Hier ist insbesondere Michel Foucaults Bezugnahme auf Borges in <italic>Die Ordnung der Dinge</italic> zu nennen. Borges hat wesentliche Impulse für seine mehrschichtige Sprache aus jüdischen Quellen gewonnen, die über diesen Umweg auch in <italic>Der Bruder</italic> zur Wirkung kommen. Unter anderem kann die von Borges erfundene und von Foucault zitierte „chinesische Enzyklopädie“,<xref ref-type="fn" rid="fn24">24</xref> die eine neue Kategorisierung von Tieren durch eine sprachliche Schöpfung schafft, als ein Hinweis auf Borges Auseinandersetzung mit der jüdischen Tradition gesehen werden. Die Schöpfung der Welt durch Sprache ist das Gemeinsame.<xref ref-type="fn" rid="fn25">25</xref></p>
+  <p>In David Albaharis <italic>Der Bruder</italic> entwickelt sich aus der Begegnung der zwei Brüder ein ernsthaftes Gespräch über Literatur. Darin erläutern sie – wie oben ausgeführt – ihre jeweilige Auffassung von Literatur, und zwar in Bezug auf deren Repräsentation von Wirklichkeit. Auch in anderen Romanen Albaharis ist dieses Thema präsent. Im Roman <italic>Mutterland</italic> z. B. ist es das Gespräch des Erzählers mit seinem Freund Donald über Stilfragen der Literatur, die auf unterschiedliche Weise der Frage nach dem Wahrheitsgehalt von Literatur gewidmet sind. Vollzieht sich die Abbildbarkeit der Welt durch Sprache auf direktem Wege oder bedarf es dazu der Fragmentierung und Neuzusammensetzung der Fakten? Und worin zeigt sich der entwerfende Charakter der Sprache?</p>
+  <p>Der Erzähler reflektiert in dem das gesamte Romangeschehen begleitende Gespräch abermals die Schöpfung aus Sprache und darüber, wie sie in Form und Inhalt in Erscheinung tritt. Dabei steht eine als amerikanisch begriffene Haltung einer europäischen gegenüber:</p>
+  <disp-quote>
+    <p>Wer schreiben kann wie Donald, würde sich hinsetzen und eine Story niederschreiben, dabei den kürzesten Weg vom Anfang zum Ende gehen. In ihr würde nichts darauf hindeuten, dass es außer der Story noch etwas gäbe, anders als bei mir, als bei meiner Story, in der es, wenn ich sie erst einmal niederschriebe, alles Mögliche gäbe, nur nicht die Story selbst, und die, vom Hereinbrechen von Parallelwirklichkeiten erschüttert, immer wieder auseinanderfiele.<xref ref-type="fn" rid="fn26">26</xref></p>
+  </disp-quote>
+  <p>Mit dieser Gegenüberstellung, die auch den Zweifel an der eigenen literarischen Fähigkeit zum Ausdruck bringt, gibt der Erzähler zu erkennen, dass seine Auffassung literarischen Schaffens – und so ist der gesamte Roman strukturiert – sich auf verschiedenen räumlichen und zeitlichen Ebenen bewegt. Er verschiebt diese, führt sie gegeneinander, verknüpft sie wieder und macht damit die historischen Begebenheiten zur Folie für ein prismatisches Denken, das sich beständig selbstkommentierend die Fragmentierungen des Lebens zusammenfügt.</p>
+  <p>Im Roman <italic>Mutterland</italic> hat Albahari in Form einer autobiografischen Lektüre eine multiperspektivische Sicht auf seine Identität als serbischer, inzwischen in der kanadischen Diaspora lebender Jude entworfen, die weiteren Aufschluss über sein Verständnis eines Judentums in der Diaspora gibt, auch als Quelle für sein literarisches Werk. <italic>Mutterland</italic> ist als Erinnerungsbuch an die Mutter angelegt. Der Erzähler projiziert sie anhand einer literarischen Umsetzung von Tonbandaufnahmen, die vor mehreren Jahren in Serbien gemacht wurden, in die Erzählgegenwart. Die Niederschrift erfolgt in Kanada, seinem nach dem Tod der Mutter frei gewählten Exil. Indem er Oralität und Literalität in einer literarischen Form in Beziehung setzt, reanimiert er mit Hilfe der Erzählung die Mutter, die wie eine anwesende Gesprächspartnerin aus ihrem Leben berichtet. Die Mutter erzählt von der Okkupation durch die Nationalsozialisten, der Ermordung ihres ersten Mannes und ihrer Kinder sowie von der Ehe mit dem Vater des Erzählers, der nach dem Weltkrieg aus einem Lager kam und später als Gynäkologe in Serbien praktizierte. Das alles wird aus der Perspektive einer konvertierten Jüdin erzählt, die in erster Ehe mit einem aschkenasischen Juden und in zweiter Ehe mit einem Sepharden verheiratet war. Als Geste gegen den nationalsozialistischen Terror setzt sie alles in Bewegung, um ihre Kinder jüdisch zu erziehen.</p>
+  <p>Die literarische Konstellation orientiert sich an den Worten der Mutter. Ihr Bericht fungiert als ‚oral history‘. Dieser formt sich aus gemachten Erfahrungen und drückt zugleich ihren Überlebenswillen aus. Im Angesicht der Angst, auch nach der NS-Okkupation einer weiterhin existierenden Führergläubigkeit ausgeliefert zu sein, entwirft sie folgendes Bild:</p>
+  <disp-quote>
+    <p>Und so traten wir gleich, als wir in Zemun ankamen, der jüdischen Gemeinde in Belgrad bei, nicht weil ich aus euch, aus deiner Schwester und dir echte Juden machen wollte, denn fast alle dort waren nur Teile von Juden, Splitter eines zerbrochenen Gefäßes, sondern um in euch – und auch in mir – ein Gefühl wirklicher Zugehörigkeit zu entwickeln, um da, wo alles ins Wanken geraten war oder sich in wirbelndes Gas verwandelt hatte, festen Boden unter die Füße zu bekommen.<xref ref-type="fn" rid="fn27">27</xref></p>
+  </disp-quote>
+  <p>Die in <italic>Mutterland</italic> nachgezeichnete Familiengenealogie stimmt mit den wesentlichen Daten, Orten und Erlebnissen David Albaharis überein.<xref ref-type="fn" rid="fn28">28</xref> Seine Reflexion der jüdischen Geschichte ist wesentlich aus einer kulturellen Einstellung erwachsen. Die jüdischen Gemeinden im südslawischen Raum sind Ende des 15. Jahrhunderts entstanden, gegründet von sephardischen Juden nach ihrer Vertreibung von der iberischen Halbinsel. Sarajewo wurde zu einem Ort jüdischer Gelehrsamkeit, Split, Zagreb, Belgrad, Novi Sad und Subotica entwickelten sich zu Zentren jüdischen Lebens. Obwohl Albahari die sephardische Herkunft seiner jüdischen Kultur nicht eigens betont, ist diese doch als Bezugsfeld seiner Aktivitäten und Denkräume anzusehen.<xref ref-type="fn" rid="fn29">29</xref></p>
+  <p>Von 1991 bis 1992 – also während des Jugoslawienkrieges – war David Albahari Vorsitzender der Jüdischen Gemeinde in Belgrad. In dieser Funktion war er maßgeblich an der Evakuierung von Juden aus den Kriegsgebieten nach Belgrad beteiligt.<xref ref-type="fn" rid="fn30">30</xref> Nach dem Tod der Mutter wanderte er nach Kanada aus und wurde aufgrund seiner mehrkulturellen Prägung als „Jewish Serbian Canadian Writer“ bezeichnet, dessen Identität „multicentric“<xref ref-type="fn" rid="fn31">31</xref> sei.</p>
+  <boxed-text xml:lang="en">
+    <disp-quote>
+      <p>A monolithic individual and collective identity is an illusion which Albahari never enjoyed due to the fact that his identity has always been very complex. A literary critic, Teofil Pančić, describes Albahari as a Jew in Serbian Diaspora and a Serbian author in Canadian Diaspora […], which multiplies identity layers of Albahari’s personality. Jewish identity is essentially important to Albahari and he describes to Mihajlo Pantić how he gradually “became” a Jew. His early childhood was marked with close connections to the Jewish community through the activities of his parents so he was growing up imbued with the Jewish tradition and ritual.<xref ref-type="fn" rid="fn32">32</xref></p>
+    </disp-quote>
+  </boxed-text>
+  <p>Wie der Titel <italic>Mutterland</italic> bereits artikuliert, konfiguriert Albahari seine literarische Intention aus dem Land seiner Herkunft und seiner Familie. Die meisten seiner Schriften orientieren sich an Familienangehörigen bzw. sind Projektionen davon. Albahari selbst versteht seine literarische Arbeit als eine Aufnahme von Spuren der eigenen Familiengeschichte, die er zu Romanen fiktionalisiert.</p>
+  <disp-quote>
+    <p>Die meisten meiner Schriften sind einem Familienmitglied gewidmet. Mein erstes Buch ist eine Sammlung von Kurzgeschichten über die Familie meines Vaters vor dem Zweiten Weltkrieg. Der zweite Teil handelt von meiner Familie, meinem Vater, meiner Mutter, meiner Schwester und mir im Belgrad der sechziger Jahre. Es ist wichtig zu verstehen, was die Grundlage der Gesellschaft ist. Beim Schreiben geht es doch immer um den Versuch, die Bedeutung der Verbindung zwischen den Menschen zu verstehen. Ich habe es von Buch zu Buch versucht. <italic>Beschreibung des Todes</italic> (Wieser 1993) ist eine Art Familiengeschichte, genauso wie <italic>Mutterland</italic>. Ich würde aber nicht sagen: Das ist meine Familie. Ich schreibe keine Autobiographie, ich schreibe Romane. Vor die Wahl gestellt zwischen der wahren Geschichte meiner Familie und einer Story, würde ich immer die Story wählen. Das ist eine Geschichte, die mir wichtig ist. Allerdings habe ich mich immer wieder gefragt, ob ich nicht eines Tages doch eine Autobiographie schreiben sollte. Aber es gibt einfach nichts mehr zu schreiben, es steht alles in meinen Büchern. Es wird also nie eine Autobiographie geben.<xref ref-type="fn" rid="fn33">33</xref></p>
+  </disp-quote>
+  <p>Die Fiktionalisierung seiner Familiengeschichte wird in <italic>Der Bruder</italic> zusätzlich durch biblische Bezüge aufgeladen. Dies zeigt sich besonders deutlich in der dramatischen Schlusssequenz: Nachdem Robert in Frauenkleidern vor dem <italic>Brioni</italic> zusammengeschlagen wird, bringt Filip ihn in einem Taxi zu sich nach Hause. Filip wird während und nach dem Übergriff fortlaufend von fieberhaften Träumen eingeholt:</p>
+  <disp-quote>
+    <p>Eine große Müdigkeit legte sich auf ihn wie ein Federbett, und er dachte nur noch an Schlaf. […] Er dachte an Robert, der in die Decke gewickelt im Fond des Taxis zurückgeblieben war, und wollte hören, was sein Herz ihm dazu sagte, aber das Herz schwieg. Vielleicht ist es mit dem Herzen immer so, sagte er, wenn es einmal verstummt, bringt es keiner mehr zum Sprechen. Aus dem Herzen ausgestoßen ist wie aus dem Paradies vertrieben, sagte er zum Taxifahrer […]<xref ref-type="fn" rid="fn34">34</xref></p>
+  </disp-quote>
+  <p>In dieser Passage zeichnet sich der weitere Verlauf der Geschichte bereits ab: Robert wird – einer Leiche gleich – in eine Decke gewickelt und in das Fahrzeug gelegt. Die Fahrt geht nicht ins Krankenhaus, sondern in die Wohnung Filips, der sich somit am Tod Roberts (mit-)verantwortlich macht. Der Hinweis auf das verstummende wie ausgestoßene Herz, das Filip die Vertreibungsszene aus dem Paradies in Erinnerung ruft, wird durch die im Roman gegebene Konstellation durch das biblische Motiv des Brudermordes erweitert.</p>
+  <p>Der Sündenfall ruft die Frage nach göttlicher Vorbestimmung und dem freiem Willen der Menschen auf den Plan: Mit dem Verstoß gegen das göttliche Gebot, nicht vom Baum der Erkenntnis zu essen, entscheiden sich die Menschen für ein selbstbestimmtes und eigenverantwortliches Leben. Der freie Wille bedeutet jedoch nicht nur selbstbestimmtes Leben, sondern auch Verantwortlichkeit für das eigene Handeln. Die Verantwortlichkeit wird in <italic>Der Bruder</italic> in Form der Schuldfrage am Tod Roberts vielfach aufgerufen, womit – der biblischen Chronologie entsprechend – der Brudermord im Anschluss an die Vertreibung aus dem Paradies in Erscheinung tritt. Filip versucht sich der blutigen Realität zu entziehen. Er flieht in eine ästhetische Welt, deren Drehbuch (nach aristotelischen Gesichtspunkten) bereits vorgeschrieben ist. Die im Krankenhaus erfolgte Diagnose macht jedoch deutlich, dass Filip das Leben seines Bruders hätte retten können:</p>
+  <disp-quote>
+    <p>Die Todesursache des Patienten, stand da, sei eine starke Blutung in der Bauchhöhle infolge einer totalen Milzruptur gewesen. […] Hätte man den Patienten rechtzeitig eingeliefert, hieß es am Ende, sagte Filip, wäre es vielleicht möglich gewesen, die Verletzungen zu behandeln, er wurde jedoch mindestens vierundzwanzig Stunden nach den Verletzungen ins Krankenhaus gebracht, als es nicht mehr möglich war, das fatale Ende abzuwenden.<xref ref-type="fn" rid="fn35">35</xref></p>
+  </disp-quote>
+  <p>Als mögliche Motive für Filips Handeln – abermals ist eine Parallele zum biblischen Brüderpaar Kain und Abel erkenntlich – werden Argumente wie „Eifersucht“ und „Neid“ genannt.<xref ref-type="fn" rid="fn36">36</xref> Zudem verdeutlicht Filips Bericht über das Treffen mit dem Bruder, dass er es mit Robert mit einem Konkurrenten in seinem Fach – Robert ist erfolgreicher Autor – zu tun hat. <xref ref-type="fn" rid="fn37">37</xref></p>
+  <p>Der biblische Sündenfall wird oft als <italic>conditio sine qua non</italic> für die Exilsituation der Menschen verstanden – die biblische Sprachverwirrung, die auf den Turmbau zu Babel folgt, in einer analogen Lesart als Exilierung der Sprache gedeutet.<xref ref-type="fn" rid="fn38">38</xref> Wenn Albahari in <italic>Der Bruder</italic> das Sprechen einer unbekannten Sprache erwähnt,<xref ref-type="fn" rid="fn39">39</xref> ist damit eine weitere Verbindung zum babylonischen Intertext gegeben, der auch auf die Sprachsituation Jugoslawiens, eines mehrere Kulturen und Ethnien zusammenschließenden Staats, bezogen werden kann. In seinem Roman <italic>Mutterland</italic> fungiert Babel dafür als direkter Referenztext<xref ref-type="fn" rid="fn40">40</xref> – in <italic>Der Bruder</italic> ist über die Reflexion über Sprache ein vergleichbares Pendant angesprochen.<xref ref-type="fn" rid="fn41">41</xref></p>
+</sec>
+<sec id="gender-homosexualität-und-transgender">
+  <label>3</label>
+  <title>Gender, Homosexualität und Transgender</title>
+  <p>Homosexualität und Homophobie bilden einen weiteren thematischen Brennpunkt der Werke David Albaharis.<xref ref-type="fn" rid="fn42">42</xref> In <italic>Der Bruder</italic> ergibt sich diesbezüglich eine Verbindung zu Diskursen zu Transgender und Transsexualität. Die These ist, dass in dieser Wendung die Frage nach Identität und Zugehörigkeit, die Albahari im Kontext von Exilliteratur und Mehrsprachigkeit fokussiert, eine zusätzliche Dimension erhält. Anknüpfend an den Disput der Brüder ließe sich sagen, dass die Frage nach Fiktionalität und Realität in der Literatur sich auch in der Frage nach der Geschlechtsidentität des Bruders spiegelt. Haben wir es mit einer performativen Inszenierung zu tun? Oder ist der vorgetragene Wunsch nach Geschlechtswandlung essentiell zu verstehen? Läuft das in Szene gesetzte Zeichengefüge Roberts auf eine unleugbare Referentialität hinaus? Oder verhilft eine Fiktion im Borges’schen Sinne dazu zu erkennen, dass sich der Sinn erst durch die Zeichenverschiebung ergibt, womit der ,verkleidete‘ Robert sich als der ‚originale‘ Robert entpuppen würde? Durch diese Unbestimmtheitsstellen wird erkennbar, dass die geschilderte Veränderung der Geschlechtsidentität sich wiederum als Exempel für die ästhetische Gestaltung des Romans erweist. Im Kern ist es die Auseinandersetzung zwischen der an der Ähnlichkeit festhaltenden <italic>Poetik</italic> Aristoteles und der die Ähnlichkeitsbeziehungen auflösenden Literatur Borges, die keine fertigen Lösungen präsentiert und dazu auffordert, Identifikationsmodifikationen erst herzustellen. Die folgende Szene erweist sich diesbezüglich als eine Schlüsselstelle des Romans:</p>
+  <disp-quote>
+    <p>Robert glaube sogar, sagte Filip, dass alle Schriften von Aristoteles, zumindest in ihrer ursprünglichen Fassung, vernichtet worden seien, nur weil die Eltern seine Thesen über den Sinn der Elternschaft aus der Welt schaffen wollten und daher alles zerstörten, was ihnen in die Hände fiel. Und deshalb, meinte Robert, sagte Filip, da die Werke von Aristoteles keine Originale, sondern nur Nachahmungen seien, sei die unter ihrem Einfluss entstandene Literatur keine originäre, sondern nur eine elende Nachahmung. Nur einigen wenigen Schriftstellern, darunter auch Borges, sei es gelungen, sich dem tödlichen Einfluss von Aristoteles’ diktatorischer Poetik zu entziehen und vom ersten bis zum letzten Buchstaben ursprüngliche Werke zu schaffen.<xref ref-type="fn" rid="fn43">43</xref></p>
+  </disp-quote>
+  <p>Borges wird demgegenüber als eine Art ‚Original-Autor‘ vorgestellt, obwohl er eine Literaturauffassung vertritt, die jeden Text als einen Intertext begreift und sich stets gegen die Vorstellung einer alleinigen Urheberschaft aussprach.<xref ref-type="fn" rid="fn44">44</xref> Die Abwertung von Aristoteles <italic>Poetik</italic> als „elende Nachahmung“<xref ref-type="fn" rid="fn45">45</xref> steht dem Verständnis entgegen, dem das Werk als ein literaturwissenschaftlicher Urtext gilt und die Nachahmung als ästhetische Kategorie begründet.<xref ref-type="fn" rid="fn46">46</xref> Auf die Romanhandlung gemünzt stellt sich die Frage, wie sich das Verhältnis von Original und Kopie auf das Verhältnis der beiden Brüder überträgt. Ist Robert ein wirklicher Bruder? Ist er erst als umgewandelte Person mit sich identisch? Bezeugt erst die Zuweisung des Namens Alisa seine Existenz? Oder ist Alisa wiederum eine Ersatz-Schwester, die die ‚Original-Schwester‘ repräsentiert?</p>
+  <p>Ferner ist eine Übernahme des Prinzips der Abschrift im Sinne einer erzählten Wiedergabe – einer ‚stillen Post‘ gleich – für das Schreiben Albaharis nachzuvollziehen: Er entwirft eine doppelt vermittelte Sprechsituation, die sich über den Bericht des Erzählers ergibt: „meinte Robert, sagte Filip“<xref ref-type="fn" rid="fn47">47</xref>. In dieser Setzung ist ebenfalls die Unsicherheit über das tatsächliche Geschehen mitgegeben – über die originale Handlung sozusagen –, da das Erlebte aus zweiter bzw. dritter Hand geschildert wird. Für die Literatur erfährt diese Unsicherheit über die Geschehnisse jedoch eine positive Wendung, da sie eine Vielfalt an Handlungsmöglichkeiten generiert. Und an dieser Stelle kommt der Transgenderdiskurs des Romans ins Spiel, der nicht zuletzt auf Wandlung, Vielfältigkeit und parallele Realitäten abzielt.</p>
+  <p>Filip, der das Geschehene in Begriffen der aristotelischen Tragödie als Theaterstück auf der Bühne des <italic>Brioni</italic> zu fassen versucht, erkennt, dass in dem Moment, in dem Robert auf die Toilette verschwindet, sich die „Möglichkeiten vervielfältigen“.<xref ref-type="fn" rid="fn48">48</xref> Die Toilette ist der Ort bzw. <italic>Abort,</italic> an den sich Robert zurückzieht, um seine Verwandlung in Alisa zu vollziehen. Die Veränderung Roberts ist eine Realität, die „ganz sicher nicht zu der aristotelischen Formel der Tragödie“<xref ref-type="fn" rid="fn49">49</xref> passt. Die Aussage Filips über die vielen Möglichkeiten kann sowohl als parallele Gedankenführung zum Handlungsgeschehen gedeutet werden als auch bezüglich der wandelbaren Gender-Identität seines Bruders. Mit dem Auftreten Alisas wird eine „Kette der Veränderungen“ losgetreten, „die nicht mehr abriss“.<xref ref-type="fn" rid="fn50">50</xref> Ein unendliches Wandlungspotenzial der Welt steht in Aussicht.</p>
+  <p>Die der Wandlung vorausgehende Geschwisterszene im <italic>Brioni</italic> ist homoerotisch aufgeladen. Das Händehalten, die Berührung der Köpfe, das Streicheln<xref ref-type="fn" rid="fn51">51</xref> sind zärtliche Gesten, die das Aufsehen der Gäste erregen. Sie ahnen nicht, dass es sich um ein wiedergefundenes Bruderpaar handelt. Der Wechsel der Bedeutung der Zeichen, der sich zwischen Geschwisterpaar und Männerpaar ergibt, entzieht sich der gewohnten soziokulturellen Konditionierung: das Händehalten der Brüder, die ihre anatomischen Ähnlichkeiten des Handrückens bestaunen, wäre gesellschaftlich akzeptabel – eine zärtliche Geste unter Freunden nicht. Robert und Filip werden entsprechend von einem Gast bedroht: „ihr Schwuchteln, brüllte der Mann, sagte Filip, es ist höchste Zeit, dass ihr von hier verschwindet […] er habe keine Lust, sich mit irgendeiner Schwulenseuche anzustecken“<xref ref-type="fn" rid="fn52">52</xref>. Robert entgegnet diesem Angriff mit einem „Hey, mate! Fuck you, mate!“.<xref ref-type="fn" rid="fn53">53</xref> Während der Sprachwechsel ins Englische – auf einer metareflexiven Ebene – noch auf Roberts Wandlungsfähigkeit im Sinne einer Zeichenvielfalt für das Beschreiben der Realität hindeutet,<xref ref-type="fn" rid="fn54">54</xref> ist es zugleich diese Äußerung, die Roberts bzw. Alisas Schicksal besiegelt. Der Komplexität des Ereignisses steht die Eindimensionalität der gewalttätigen Reaktion gegenüber. Die unendliche Möglichkeitsstruktur des Geschehens reduziert sich zu einem die Vielfältigkeit negierenden Ende mit Mord. „Da habe er noch nicht gewusst, sagte Filip, dass alle Elemente der kommenden Ereignisse bereits vorhanden waren, dass die Richtungen, Überschneidungen, Unterschiede und wiederkehrenden Ähnlichkeiten vorbestimmt waren und es keine Möglichkeit mehr gab, einen anderen Weg einzuschlagen.“<xref ref-type="fn" rid="fn55">55</xref></p>
+  <p>Mit dieser letztendlich in das vorherrschende gesellschaftliche Verständnis von Geschlechteridentität eingreifenden Zuspitzung der Handlung nimmt Albahari Diskurse in den Blick, die nach der kulturellen Repräsentation der Geschlechterdifferenz fragen und die sich den Normen widersetzen. Die Frage, inwieweit eine Geschlechtsidentität performativ hervorgebracht wird oder ob eine „Materialisierung eines gegebenen biologischen Geschlechts“<xref ref-type="fn" rid="fn56">56</xref> sich als unumgängliche Substanz erweist, hat dazu geführt, die heteronormative Geschlechterordnung zu bezweifeln. Insbesondere der Geschlechterdiskurs zielt darauf ab, andere Formen der Geschlechtsidentität zu ihrem Recht zu verhelfen. Was als „Queerness“ bezeichnet wird, entfaltet sich jenseits einer heteronormativen Ordnung und gibt der Transsexualität eine Stimme.<xref ref-type="fn" rid="fn57">57</xref> Im Roman <italic>Der Bruder</italic> wird die Konstellation einer heterosexuellen Norm als allein mögliche Geschlechteridentität zunächst durch die Anmutung eines homoerotischen Paares infrage gestellt. Mit der Verwandlung Roberts in Alisa als Bestandteil einer Bühnensituation wird die Performanz der Geschlechtsidentität thematisiert. Mit dem von Robert geäußerten Wunsch nach Geschlechtsumwandlung in eine „anatomische Alisa“<xref ref-type="fn" rid="fn58">58</xref> wird darüber hinaus Transsexualität angedeutet. Die Situation erweist sich zugleich als ein Zustand des Übergangs. Im Transgenderdiskurs wird darauf verwiesen, dass die Bezeichnung Transsexualität auf eine körperliche Eindeutigkeit zielt, Transgender dagegen eine Geschlechtsidentität außerhalb der Norm der Zweigeschlechtlichkeit bezeichnet und sich zwischen den Identitätsformen bewegt. Letzterer Zustand ist für das Romangeschehen relevant. Er wird als Zwischenzustand wahrgenommen (d. h. als genderfluid bzw. transgender), selbst wenn Robert – mit seiner Verkleidung – auf eine eindeutige körperliche Umwandlung (transsexuell) zielt.</p>
+</sec>
+<sec id="fotografien-als-fragmente-der-erinnerung-und-des-vergessens">
+  <label>4</label>
+  <title>Fotografien als Fragmente der Erinnerung und des Vergessens</title>
+  <p>Die Begegnung im <italic>Brioni</italic> wird von beiden Brüdern vorbereitet: von Robert, der von früheren Aufenthalten Filips an diesem Ort weiß, von Filip, der mit dem Treffpunkt einen Ort verlorengegangener Träume verbindet. Unter den von Filip mitgebrachten Dokumenten, die der Rekonstruktion der Familiengeschichte dienen sollen, befinden sich Kindheitsfotografien, die insofern einen negativen Beweischarakter für die Behauptung Roberts haben, als dass sie die Abwesenheit – nicht aber die Existenz – eines Bruders dokumentieren.</p>
+  <disp-quote>
+    <p>Solche Begegnungen, wenigstens die, über die er in Zeitungen gelesen oder die er im Fernsehen gesehen habe, bestünden meist aus dem Anschauen von Fotos, die gewissenmaßen als Gedankenstütze dienten für alles, was sich in den getrennten Biographien unwiderrufbar ereignet habe, denn alle diese Fotos seien schließlich Aufnahmen, auf denen der jetzt wiederentdeckte Mensch fehle. So sehe man zum Beispiel, sagte er, auf einem Foto, auf dem er stolz neben seinem Dreirad stehe, die Leere, die Robert gefüllt hätte, wäre er bei ihm gewesen.<xref ref-type="fn" rid="fn59">59</xref></p>
+  </disp-quote>
+  <p>Die Eigenschaft der Fotografie, als „unwiderlegbarer Beweis dafür“ zu gelten, „daß ein bestimmtes Ereignis sich tatsächlich abgespielt hat“,<xref ref-type="fn" rid="fn60">60</xref> wird in dem Roman einerseits als Anhaltspunkt begriffen, um sich an stattgefundene Ereignisse in einer vergangenen Wirklichkeit zu erinnern; andererseits werden die Fotografien bereits vor dem Treffen zum Auslöser von fiktiven, gleichwohl als möglich erscheinenden Realitätsvarianten.</p>
+  <disp-quote>
+    <p>Gut, sagte er, dann könne er beruhigt nach Hause gehen und sich auf das Treffen im Gasthaus <italic>Brioni</italic> vorbereiten, wo nebenbei gesagt das Licht so schummrig sei, dass er eine starke Taschenlampe mitzunehmen gedenke für den Fall, dass Robert irgendwelche Fotos mitbrächte. Er habe schon immer den Eindruck gehabt, sagte Filip, dass in dem Album seiner Familie einige Fotos fehlten, dass an einigen Stellen die Chronologie gestört oder völlig verloren gegangen sei, und habe ständig gehofft, dass irgendwelche alten Fotos auftauchten, die die Lücken im Leben der Familie füllen würden. Das gelte natürlich nur, sagte er, wenn man glaube, die Fotos spiegelten wirklich das Leben wider.<xref ref-type="fn" rid="fn61">61</xref></p>
+  </disp-quote>
+  <p>Einerseits gelingt es Robert beim Abtasten von Aufnahmen der Eltern eine physiognomische Ähnlichkeit zu seinem Gesicht festzustellen, was ihm ermöglicht, die echten, „verfluchten Eltern“ von den „Ersatzeltern“ zu unterscheiden.<xref ref-type="fn" rid="fn62">62</xref> Andererseits wird durch sein Fehlen auf den Fotografien und das vermutete Fehlen von Fotografien im Fotoalbum über ein mögliches Leben an der Seite Filips spekuliert:</p>
+  <disp-quote>
+    <p>Er hätte dann natürlich nicht Robert, Robi oder Bobi geheißen, sondern einen hiesigen Namen getragen, etwa Milan oder Petar, und wäre folglich Mile oder Pera gerufen worden. Doch vielleicht sei sein Name wirklich Milan oder Petar, [<italic>sic</italic>] gewesen und später in Argentinien in Robert umgewandelt worden, wer könne das schon wissen, sagte er, vielleicht sei dies nicht einmal offiziell geschehen und er trage auch weiterhin den Namen, auf den er hier getauft worden sei.<xref ref-type="fn" rid="fn63">63</xref></p>
+  </disp-quote>
+  <p>Diese mehrfach gewendete Sicht auf den infrage gestellten Beweischarakter der Fotografien spielt auf deren Doppelbödigkeit an, die auch im Romanverlauf aufrechterhalten wird. Eine Fotografie sei nur ein Fragment, heißt es bei Susan Sontag, „dessen Vertäuung mit der Realität sich im Laufe der Zeit löst. Es driftet in eine gedämpfte abstrakte Vergangenheit, in der es jede mögliche Interpretation (und auch jede Zuordnung zu anderen Fotos) erlaubt.“<xref ref-type="fn" rid="fn64">64</xref> Als eine den Augenblick festhaltende Aufnahme, als Wiedergabe eines Ausschnitts der Wirklichkeit, verbunden mit einer subjektiven Sicht durch die Kamera und den möglicherweise beeinflussten Zuführung von Licht in der Dunkelkammer des Entwicklungslabors, erweist sich das fotografische Handeln immer auch als formender Eingriff. Hinzu kommt die zur Pose einladende Aufforderung, die der fotografischen Geste oftmals auch den Charakter des Inszenierten verleiht.<xref ref-type="fn" rid="fn65">65</xref> Strukturell wird der entwerfende, generative Charakter der Fotografie in Bezug auf literarische Wirklichkeitskonstruktionen von Albahari weitergesponnen ohne deren Authentizität versprechende Besonderheit („Es-ist-so-gewesen“<xref ref-type="fn" rid="fn66">66</xref>) aufzugeben. Offensichtlich ist es die der Fotografie eigene Ambivalenz, die er auch mit den anderen Narrativen seines Romans in Beziehung zu setzen sucht.</p>
+  <p>Bezüglich der strukturellen Übernahme fotografischer Eigenschaften ist unabhängig von den Reflexionen über die an die Kindheit erinnernden Fotografien zu beachten, dass Filip das <italic>Brioni,</italic> den Ort des den Roman entscheidend prägenden Ereignisses, als „Reich des Schattens und des Halbdunkels“ beschreibt, in dem er einen „ausreichend beleuchteten Tisch“<xref ref-type="fn" rid="fn67">67</xref> für das Treffen mit dem Bruder wählen möchte. Das <italic>Brioni</italic> wird in dieser Perspektive zu einer Art Dunkelkammer, in der die verdrängten Spuren der Familiengeschichte beleuchtet werden und sich ebenso zu einem Bild des Unbewussten materialisieren wie als flüchtiges Ereignis aufscheinen. Die Szenerie gleicht dementsprechend einer <italic>Camera Obscura,</italic> in deren Dunkelheit Licht einfällt und ein durch die Linse gesehenes spiegelverkehrtes Bild der Außenwelt zur Erscheinung gebracht wird. Die Aufforderung, das Gesehene sozusagen in einer Umkehrung des Wahrgenommenen vom Kopf auf die Füße zu stellen, deutet abermals auf die Wandlungsperspektiven des Romans. Das Zusammenspiel von Hell und Dunkel, die Umkehrung des Erwarteten ebenso wie der augenblickliche Moment, den jede Fotografie festhält, werden in die Beschreibung der Szenerie im <italic>Brioni</italic> aufgenommen:</p>
+  <disp-quote>
+    <p>Er fragte sich, ob ich seinen Schock ermessen könne, als er zwanzig Minuten vor der verabredeten Zeit die Tür vom <italic>Brioni</italic> aufmachte und eine Gaststätte betrat, die dem <italic>Brioni,</italic> von dem er die ganze Zeit erzählte, nicht im Entferntesten entsprach und in der, also in dieser alt/neuen Gaststätte, ihn ein so starkes Licht blendete, dass er schon nach Hause gehen wollte, um eine dunkle Brille zu holen.<xref ref-type="fn" rid="fn68">68</xref></p>
+  </disp-quote>
+  <p>Die Ambivalenz der Fotografie ist somit auch in den Ort eingeschrieben, der Filip als gewandelter Ort – von „kleiner Kneipe“ zu „gehobenem Restaurant“, vom „Schattenreich“ zum „grellen Licht“<xref ref-type="fn" rid="fn69">69</xref> – erscheint, und darüber hinaus als ein Ort zum Entdecken der im Zwielicht aufscheinenden Familiengeheimnisse. Gemeinsam ist dem beschriebenen Halbdunkel und dem blendenden Licht, dass sie eine klare Sicht verschleiern und als Zwischenzustand den Raum für visuelle und andere Täuschungen zubereiten. Walter Benjamin deutet in seinen Reflexionen über die Bilder erzeugenden Medien Film und Fotografie eine Vergleichbarkeit mit der Psychoanalyse an. Was die technischen Möglichkeiten des Aufnahmeapparates wie Vergrößerung und Verkleinerung „der Wirklichkeit abgewinnen“ können, die „zum großen Teile nur außerhalb eines <italic>normalen</italic> Spektrums der Sinneswahrnehmungen“ lägen, vermittle die Erfahrung eines „Optisch-Unbewußten“: „Vom Optisch-Unbewußten erfahren wir erst durch sie, wie vom Triebhaft-Unbewußten durch die Psychoanalyse“.<xref ref-type="fn" rid="fn70">70</xref> Für Freud war das Verfahren der Fotografie vergleichbar mit der Erkundung des Unbewussten in der Psychoanalyse, indem er das Bewusste dem Positivbild und das Unbewusste dem Fotonegativ zuordnete. Das eine sei nicht vom anderen zu trennen, so dass demnach in der zur Anschauung gebrachten Fotografie das Unbewusste dem Negativ entsprechend verborgen enthalten ist.<xref ref-type="fn" rid="fn71">71</xref></p>
+  <p>Auf ihrer Erkundungsfahrt durch die Familiengeschichte zerreißen Filip und Robert jedoch die Fotografien. Ein zerstörerischer Akt, der sich gegen das Trugbild einer vermeintlichen Dokumentation der Familiengeschichte wendet, damit es seine hinter der Oberfläche verborgenen, <italic>optisch unbewussten</italic> Wahrheiten offenbaren möge: „Der Tisch […] wurde zu einem mit zerrissenen Fotos bedeckten Tisch, sagte Filip. Sein ganzes Leben, sagte er, lag dort in den Fetzen von Schwarzweiß- und Farbfotos, die niemand mehr hätte zusammenfügen können […]“<xref ref-type="fn" rid="fn72">72</xref>. Damit wird nicht nur der fragmentarische Charakter der Fotografie als Ausschnitt des Erlebten bis zur Unkenntlichkeit weiterfragmentiert, zerrissen, zersplittert wie die Identität der gewandelten Figuren. Im fragmentierenden Charakter der Fotografie ist zugleich ein weiterer Verweis auf das diasporistische Dispositiv des Romans gegeben: Fotografie sei, so Hanno Loewy, insbesondere aufgrund ihrer zerstückelnden Sichtweise, ein Paradigma für die jüdische Diaspora. Die Fotografie zeige jene „nicht als eine Ethnographie feststehender, visuell fixierbarer Orte […], sondern als eine Archäologie von Orten, Objekten und Personen, die eine Krise der Herkunft zum Ausdruck bringen können – eine Krise, die den verschiedenen Ursprüngen des Jüdischen eingeschrieben ist.“<xref ref-type="fn" rid="fn73">73</xref></p>
+  <p>Auf einer der Fotografien ist das Collier zu sehen, das die Eltern für die Schenkung des Sohnes erhielten.<xref ref-type="fn" rid="fn74">74</xref> Dieses deutet auf einen anderen Weg der Spurensuche. Es fungiert zunächst als ein faktisch aufgeladenes Zeichen für den Verrat der Eltern. Als Bild ist es einerseits ein Ausschnitt, als Motiv bleibt es ganz. Das Bild des Colliers wird zum Kulminationspunkt, das ebenso als Beweisstück seiner Geschichte dient, wie es andererseits einen Wandel ankündigt: als weibliches Attribut wird es zum Zeichen einer neuen Identität, die sich zunächst als Performativität in der Verkleidung zu erkennen gibt. Im Verlauf der Geschichte wird daraus blutiger Ernst. Das ruft – analog zur Beschaffenheit der Fotografie als materielle und zugleich konstruierte Spur – die Frage nach der Substanz der Geschlechtsidentität hervor.<xref ref-type="fn" rid="fn75">75</xref></p>
+</sec>
+<sec id="albaharis-werke-als-jüdisches-narrativ">
+  <label>5</label>
+  <title>Albaharis Werke als jüdisches Narrativ</title>
+  <p>Das Gemeinsame der heterogen erscheinenden, den Roman <italic>Der Bruder</italic> strukturierenden Aspekte liegt darin, dass sie – wie die Fotografie – Eindeutigkeit versprechen, sich aber als mehrschichtig erweisen. Die mit dem Brief des unbekannten Bruders eingeleitete Erinnerungsarbeit führt nicht zur Aufklärung der damit verbundenen Familiengeschichte, sondern provoziert Fragen die über die Familie auf die Gesellschaft verweisen. Der Tod der Schwester und der zur Adoption freigegebene Bruder werden zu Anknüpfungspunkten für Erkundungen, die in die Gegenwart Serbiens führen. Dieses Land hat den Terror der Vergangenheit nur mit der Aufteilung des Staats Jugoslawiens überwunden, ohne dessen Ursachen zu beheben. Eine Folge ist, dass sich Aggressionen nach innen entladen und z. B. in homophoben Haltungen zutage treten. Die in dem Roman auf vielfältige Weise gestellte Frage nach der Schuld an der Ermordung des transsexuellen Bruders ist in ein Spektrum möglicher Antworten verwoben, das obendrein die heterogene Struktur der Narration verantwortet. Die Erzählung beginnt nicht einfach mit einem Besuch eines sich in Belgrad zurückmeldenden Bruders – sie konfrontiert mit der komplexen Identität eines sich ankündigenden, dem Vernehmen nach in Südamerika aufgewachsenen und inzwischen in Australien lebenden Unbekannten.</p>
+  <p>Dessen Rückkehr auf Zeit, um aus dem Ort der Herkunft zugleich den Ort der Wandlung in eine andere Daseinsform zu machen, eine neue Geburt gewissermaßen, mit einem anderen Geschlecht, übersteigt die Vorstellungskraft der sich an diesem aufgesuchten Ort Befindenden. Ist deren Tat Resultat nicht überwundener Vorurteile, gespeist aus Kompensationen der Kriegserlebnisse und überkommender Machtstrukturen? Beginnt die Schuld nicht bereits früher, mit der Freigabe zur Adoption? Ist in den gesellschaftlichen Verhältnissen totalitärer Regimes die Ursache für das Erzwingen dieser Entscheidung zu suchen? Ist den Eltern das Verschweigen vorzuwerfen, durch das sie Filip in einer für ihn ausweglose Situation gelassen haben? Hätte Robert sein Vorhaben ankündigen sollen, damit Vorsichtsmaßnahmen hätten ergriffen werden können? Warum denkt Filip über das Geschehen als aristotelisches Drama nach, anstatt rasche Hilfe zu holen? Zu diesen in das Romangeschehen eingeschriebenen Fragen kommen Aspekte hinzu, die die Dramaturgie der Ereignisse hinsichtlich ihrer ästhetischen und literarischen Konstellation aufladen.</p>
+  <p>Das narrative Geflecht einer Rückkehr mit mehreren Unbekannten ist eingespannt in die Schilderung nachvollziehbarer Gegebenheiten, die sich als mittelbare Widerspiegelung komplexer gesellschaftlicher Verhältnisse einer Region ergeben, die durch Krieg und Terror zwischen sich entzweienden Ländern, Ethnien und Religionen nachhaltig erschüttert wurde. Die damit verbundenen Verschiebungen der Grenzen im Jugoslawienkrieg, die Albahari in Romanen wie <italic>Snezni covek</italic> (1995; engl. <italic>Snow Man</italic> 2005) und <italic>Mutterland</italic> direkt thematisiert, werden dort zu einer literarischen Struktur des <italic>Mapping</italic> erweitert, die das Raum-Zeitgefüge sprengt und gegenläufige Strukturen in die Kriegshandlungen implantiert.<xref ref-type="fn" rid="fn76">76</xref> Das auseinandergefallene Jugoslawien kann auch als Beispiel für den Verfall stabiler Systemarchitekturen angesehen werden, der das literarische Schreiben zu einer Verschiebung der Stilauffassungen herausfordert und auch zu dem führt, was als nomadisches Schreiben bezeichnet wurde,<xref ref-type="fn" rid="fn77">77</xref> ein Schreiben, das sich zwischen herkömmlichen Auffassungen bewegt und zugleich die Gegensätze in einer pluralen Form aufzuzeigen sucht.</p>
+  <p>Die literarischen Gegensätze, die David Albahari in <italic>Der Bruder</italic> markiert, sind zunächst auf Realismus und Fiktion gemünzt. Was im Gespräch der Brüder gegeneinander geführt wird, entspricht auch dem Konzept des Romans. Wird dem Realismus eine Widerspiegelung der gesellschaftlichen Wirklichkeit einschließlich ihrer historischen Bedingtheit attestiert, so orientiert sich die literarische Fiktion an der Wirkkraft der Sprache selbst, die über die erlebte Wirklichkeit hinausführt. Wird die erste Ausrichtung vor allem mit dem vergangenen sozialistischen System in Verbindung gesetzt, so wird als Vertreter der literarischen Fantasie Jorge Luis Borges angeführt, dessen Literatur die Sprache zu einem von Paradoxien durchzogenen Labyrinth verdichtet. Zielt der Realismus auf eindeutige Erkennbarkeit gesellschaftlicher Widersprüche, so führt die Fiktionalisierung zu mehrstimmigen Deutungsebenen. Die Ordnung von Zeit und Raum steht damit auch für die literarische Formgebung auf dem Spiel, führt diese zugleich zu neuen Variationen.</p>
+  <p>Im Roman <italic>Der Bruder</italic> kommt die eingeführte Dichotomie insofern zum Zuge, als dass das erzählte Geschehen als ein mögliches reales Ereignis übermittelt wird, dessen Ingredienzien jedoch einer Inszenierung zuarbeiten, ohne ganz die Materialisierung der Ereignisse auszuschließen. Als ideengeschichtliche Autorität wird Aristoteles aufgerufen, dessen <italic>Poetik</italic> die Mimesis und damit die Nachahmung als notwendige literarische Form begründet, die sich zur dramatischen Nachahmung zu steigern habe. Filip ist geradezu gefangen in der aristotelischen Lehre, die auch dazu führt, abstoßende Handlungen in einer nachahmenden Form genießen zu können.<xref ref-type="fn" rid="fn78">78</xref> Seine Unfähigkeit, dem sterbenden Bruder ausreichende Hilfe zukommen zu lassen wäre darauf zurückzuführen. Damit erweitert der Roman die literarische Struktur in eine ästhetische Stilgeste, die sich als Bestandteil der inhaltlichen Ausrichtung erweist.</p>
+  <p>Fragen zu den Auswirkungen des Stils auf den Inhalt werden in <italic>Mutterland</italic> unmittelbar in Form eines Gesprächs zwischen dem Erzähler und seinem Freund Donald thematisiert. Darin treffen auch unterschiedliche Literaturauffassungen in Amerika und Europa aufeinander. Dem direkten Weg zu einer <italic>story</italic> steht eine prismatische Auffassung von Literatur gegenüber, in der sich räumliche und zeitliche Ebenen überschneiden, als „parallele Wirklichkeit“<xref ref-type="fn" rid="fn79">79</xref>. Es ist ein Gespräch zwischen zwei Literaten, deren beider Auffassungen im Roman zum Zuge kommen.</p>
+  <p><italic>Mutterland</italic> macht das Schreiben in der Diaspora zum Thema. Der Roman konfrontiert das Leben in Nordamerika mit historischen Ereignissen Serbiens, dem Herkunftsland des Erzählers. In <italic>Der Bruder</italic> ist es das Zusammentreffen von Südamerika mit Europa, auch das aus einer diasporischen Perspektive. Zusammengenommen treffen in beiden genannten Romanen die Zerstreuung des Lebens aus dem Nachvollzug einer jüdischen Erinnerungskultur mit dem Versuch zusammen, dieser Zerstreuung in der Sprache der Romane Ausdruck zu verleihen, ohne auf Materialisierungen und Bindungsgefühle zu verzichten. Im Anrufen des griechischen Philosophen Aristoteles und des argentinischen Autors Jorge Luis Borges, dessen mit inhaltlichen Parallelwelten aufgeladenes Schreiben sich in wesentlichen Aspekten an der jüdischen Kommentarkultur orientiert hat, kommt bei Albahari ein Zusammenfall der Gegensätze (<italic>Coincidentia Oppositorum</italic>) nicht nur hinsichtlich Nachahmung und Fiktion zum Zuge. Jacques Derrida hat ein solches auch kulturhistorisch konnotiertes Zusammentreffen in Anlehnung an die von James Joyce formulierten Komposita aus <italic>Ulysses</italic> als „Jewgreek is greekjew. Extremes meet“<xref ref-type="fn" rid="fn80">80</xref> bezeichnet. In <italic>Die Schrift und die Differenz</italic> heißt es: „Sind wir Juden? Sind wir Griechen? Wir leben im Unterschied des Jüdischen und des Griechischen, der vielleicht die Einheit dessen ist, was man Geschichte nennt.“<xref ref-type="fn" rid="fn81">81</xref></p>
+  <p>Erreicht ist mit dieser Zusammenführung jedoch nicht einfach ein Ausgleich. Albaharis Schreiben erweist sich als eine Reflexion auf historisch weiter zurückliegender Traditionen, die er seiner kulturellen Bildung in einer sephardischen Gemeinde verdankt. Somit ist auch er ein bereits in Serbien von der jüdischen Diaspora geprägter Mensch. Seine Literatur ist mehr noch als jene Borges’ an dem ausgerichtet, was als ‚jüdische Diskussionskultur‘ bezeichnet wird. Nach rabbinischer Auffassung steckt „die Deutungshoheit nicht in einer einzigen (politischen oder religiösen) Autorität […] sondern in der Diskussion, in den Argumenten, in den logischen und rhetorischen Fähigkeiten.“<xref ref-type="fn" rid="fn82">82</xref> Daraus hat sich insbesondere die Heterogenität jüdischer Textkultur entwickelt. Grundlage dafür ist die Eigenschaft des jüdischen Textes, über längere Zeiträume stets neu kommentiert zu werden. Der Talmud speichert gewissermaßen die auf diese Weise entstehende Deutungsvielfalt, die, ausgehend von der Auslegung der Torah, auch zahlreiche Vorgänge des Alltags beinhaltet. Für das Verständnis dieser Gedankenführung ist ausschlaggebend, dass die genannten Kommentartexte alle von Bedeutung sind und ständig miteinander verknüpft werden.<xref ref-type="fn" rid="fn83">83</xref></p>
+  <p>Der Umgang mit Texten in jüdischer Tradition ist ein Pendeln zwischen Bewahrung (Tora) und Auslegung (Talmud). Das Wissen wird mit dieser Praktik einerseits für die Nachwelt bewahrt, andererseits ist ihr ein konstruierendes Moment eigen: die Generierung bzw. Hervorbringung neuen Wissens. Überträgt man diese Ausrichtung auf die literarische Praxis Albaharis, ist Mehrdeutigkeit das Ergebnis. Diese ergibt sich aus Verknüpfung von Polaritäten in Form- wie in Inhaltsfragen, von Zeiten, Räumen und Erzählungen, die ein Geflecht von Deutungsebenen erzeugen. Dadurch werden auch mediale Transformationsprozesse hervorgerufen, die sich der Einbeziehung von Kartierungen, Fotografien und nicht zuletzt den Aufzeichnungen von mündlich überlieferten Erinnerungen wie in <italic>Mutterland</italic> verdanken.</p>
+  <p>Die Verknüpfung der Polaritäten, die Kombination der Inhalte und Medien lässt erkennen, dass das Aufrufen der Referenzen gleichzeitig die Orientierung auf eine Substanz der Geschehnisse infrage stellt. Erweist diese sich nicht zugleich als inszeniert, als Erzeugung einer Fiktion, als Resultat einer Geschichte aus Zuschreibungen, Projektionen und Selbstinszenierungen? Insbesondere bei der Zusammenführung von Themen, die Albahari besonders beschäftigen, wie Antisemitismus und Homophobie, ist der Stellenwert dieser Themen an Narrative geknüpft, die die essentiellen Seiten der vorgestellten Identitäten mit konstruierbaren Ereignissen zusammenführen. In <italic>Der Bruder</italic> treffen wir auf Robert, der sich seiner Herkunft, d. h. seiner leiblichen Eltern, vergewissern will und gleichzeitig die Person ist, die sich wandelt und mithilfe der ihm zugeschriebenen Namen – Ernesto<xref ref-type="fn" rid="fn84">84</xref> in Serbien, Robert im Land des Exils seiner Adoptiveltern, Robi, Bobi vom Bruder genannt, möglicherweise aber auch Milan oder Petar im Land der aufgesuchten Herkunft registriert und Mile und Pera gerufen – aus einer imaginierten Vergangenheit herauspräpariert wird; der gleiche Robert, der als Alisa die Rolle der verstorbenen Schwester einnimmt und schließlich als Mensch mit transsexuellen Ambitionen zum Opfer einer Gewalttat wird. Genealogie, Fiktion, Performativität und Substanz des Körpers begegnen sich in einer zur Bühne gemachten Wirklichkeit und offenbaren ungelöste Konflikte, ebenso die Ursachen der Gewalt befragend, wie die Deutung der Identität betreffend.</p>
+  <p>In der im Roman zueinander geführten Konstellation, die im Schicksal des kulturell jüdisch geprägten, homophob beschimpften, in Frauenkleidern sich als Geschlecht im fremden Körper offenbarenden und als solcher ermordeter Bruder des Protagonisten besteht, entwirft Albahari ebenfalls eine Konstellation, die über die Frage nach Essentialität und Performativität von Geschlechteridentitäten hinausgeht. Angesprochen ist eine Dimension, die neben der gesellschaftlichen Diskriminierung von Juden und Homosexuellen und von Menschen, deren geschlechtliche Identität der Verkleidung bedarf, auf deren kulturelle Bedeutung verweist. Susan Sontag hat in ihren Thesen zum kulturellen Phänomen des „Camp“ darauf hingewiesen, dass „Juden und Homosexuelle […] die dominierenden schöpferischen Minderheiten in der zeitgenössischen urbanen Kultur“ darstellen. „Sie sind schöpferisch im wahrsten Sinne des Wortes: sie sind die Schöpfer von Erlebniswelten“.<xref ref-type="fn" rid="fn85">85</xref> Während die Juden mithilfe liberaler, reformistischer Ideen und der Stärkung des moralischen Empfindens ihre Integration in die moderne Gesellschaft voranzubringen suchten, hofften Homosexuelle, dass „die Stärkung des ästhetischen Empfindens ihre gesellschaftliche Integration bringen wird“.<xref ref-type="fn" rid="fn86">86</xref> Beide Intentionen haben Modellcharakter. Der „moralische Ernst der Juden“ korrespondiere auf diese Weise „mit dem Ästhetizismus (und der) Ironie der Homosexuellen“.<xref ref-type="fn" rid="fn87">87</xref> <italic>Camp</italic> bezeichnet die ästhetisch zugespitzte Stilgeste in Haltung und Kleidung, die eine Künstlichkeit unterstreicht und schließlich die Wandlung des Körpers simuliert.<xref ref-type="fn" rid="fn88">88</xref> Was aber ruft die Korrespondenz zur jüdischen Tradition hervor? Die Fundierung des jüdischen Denkens auf das hebräische Alphabet bringt nicht nur in seiner mündlichen und schriftlichen Gestalt eine Deutungsvielfalt hervor, sondern stellt auch die Buchstaben als Bausteine und deren Kombinatorik als Konzept heraus.<xref ref-type="fn" rid="fn89">89</xref> Die aus Buchstaben gebildete Schrift verkörpert eine Anordnung, die neues Wissen hervorbringt und beständig transformiert. Als Formen des modellartigen Entwerfens berühren sich somit die Gesten der gestaltenden Verkleidung mit den generierenden Eigenschaften der Buchstaben. Die Elemente des ästhetischen Verhaltens kommunizieren sozusagen strukturell mit den Elementen des Denkens, auch wenn sie sich sonst auf anderen Bahnen in die Welt begeben.<xref ref-type="fn" rid="fn90">90</xref> Gewonnen ist eine mit unterschiedlichen Ausprägungen versehene Einstellung, die Künstlichkeit braucht, um anschaulich und letztendlich essentiell zu werden. Zielt Albahari durch die Zusammenführung der Identitäten in der Person des Bruders, ob kulturell geprägt, gesucht oder angestrebt, auch auf diese Konsequenz einer Begegnung zwischen ästhetischen Einschreibungen und moralischem Ernst einschließlich ihres gesellschaftlichen Missverstehens?<xref ref-type="fn" rid="fn91">91</xref></p>
+  <p>Im Aufrufen der ästhetischen Referenzen der klassischen Poetik, des Dramas und der modernen Literatur, aber auch der Bilder von Schminke und Blut, von Schmuck und dessen fotografischer Bezugnahme, wird in <italic>Der Bruder</italic> ein Denkraum entworfen, in dem sich Bühne und Leben, Performativität und Körper als gegenseitige Einschreibungen begegnen. Die literarische Form ist dementsprechend in die Parameter einer konstruierbaren wie erlebbaren Existenz gekleidet. Die Narration entspricht einer Verschlingung von Fiktion und Wirklichkeit, einem Möbiusband gleich, bis die Schilderung einer eintreffenden und als Ereignis vorstellbaren Grausamkeit das Band zerreißt. Zerrissen werden auch die Fotografien, die sich bei der Erkundung der Familiengeschichte als unbrauchbar erweisen. Wahrheiten sind über das bloße Abbild der Wirklichkeit nicht zu haben. Die Zusammenfügung des Scherbenhaufens, diesem Resultat historischer Ereignisse und individueller Prägungen, bedarf offensichtlich eines reflektierenden Handelns, das verschiedene Wahrheiten zu akzeptieren versteht. „Die Welt ist nicht mehr von Gott vorbestimmt“,<xref ref-type="fn" rid="fn92">92</xref> heißt es in <italic>Der Bruder,</italic> was den Erzähler zur Schlussfolgerung verleitet, dass das ganze Schicksal eine Illusion sei, womit eine eigenverantwortliche Praxis eingeklagt wird, die sich gegen eine Illusion behauptet.</p>
+  <p>Albaharis literarische Entwürfe erzählen nicht zuletzt von einer fortschreitenden Differenzierung, mit der sich nach sozialer Zugehörigkeit organisierte Gesellschaften zunehmend konfrontiert sehen. Subsysteme provozieren und bringen neue Gedanken in die Welt, sie tauchen auf und verschwinden wieder. In der Schilderung des unbekannten, getroffenen, gewandelten und schließlich imaginierten Bruders sind jedoch dessen als subversiv verstandene, gleichwohl das Existenzrecht einklagende Spuren, von bleibender Wirkung.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<title>Anmerkungen</title>
+  <fn id="fn1">
+    <p>Albahari, <italic>Der Bruder,</italic> 106.</p>
+  </fn>
+  <fn id="fn2">
+    <p>Albahari, <italic>Der Bruder,</italic> 22–23.</p>
+  </fn>
+  <fn id="fn3">
+    <p>Albahari, <italic>Der Bruder,</italic> 41.</p>
+  </fn>
+  <fn id="fn4">
+    <p>Albahari, <italic>Der Bruder,</italic> 83.</p>
+  </fn>
+  <fn id="fn5">
+    <p>Albahari, <italic>Der Bruder,</italic> 105.</p>
+  </fn>
+  <fn id="fn6">
+    <p>„[S]chon evozierte er Teile von dessen <italic>Poetik,</italic> und bald sah er sich und Robert als Musterbeispiele in dem, was Aristoteles eine Tragödie nannte. Er konnte sich natürlich nicht an alle Gedanken von Aristoteles erinnern, seine Kenntnis der klassischen Antike sei immer unvollständig gewesen, sagte er, dafür war er aber sicher, dass man die Gäste und das Personal des <italic>Brioni</italic> die Bühne und die Mitwirkenden gleichzeitig auch Zuschauer waren. Das war eine Aufführung, sagte er, die sich während der Entstehung selbst betrachtete.“ Albahari, <italic>Der Bruder,</italic> 131.</p>
+  </fn>
+  <fn id="fn7">
+    <p>Albahari, <italic>Der Bruder,</italic> 132–33.</p>
+  </fn>
+  <fn id="fn8">
+    <p>Albahari, <italic>Der Bruder,</italic> 142, 143.</p>
+  </fn>
+  <fn id="fn9">
+    <p>Albahari, <italic>Der Bruder,</italic> 141.</p>
+  </fn>
+  <fn id="fn10">
+    <p>Albahari, <italic>Der Bruder,</italic> 144.</p>
+  </fn>
+  <fn id="fn11">
+    <p>Albahari, <italic>Der Bruder,</italic> 137.</p>
+  </fn>
+  <fn id="fn12">
+    <p>„Er sei gekommen, sagte Robert, um ihm die letzte Chance zu geben, seinen Bruder zu sehen, denn jetzt, da er vom Tod ihrer Schwester wisse, werde er zu ihrem Ersatz, zur Schwester, die es nicht gebe, ein passendes Bild der Wirklichkeit, mit der sie konfrontiert seien. […] Er neigte sich zu Robert, küsste ihn auf die Wange, lehnte den Kopf an seine Schulter, und Robert umarmte ihn und zog ihn an sich.“ Albahari, <italic>Der Bruder,</italic> 144.</p>
+  </fn>
+  <fn id="fn13">
+    <p>Albahari, <italic>Der Bruder,</italic> 161.</p>
+  </fn>
+  <fn id="fn14">
+    <p>Albahari, <italic>Der Bruder,</italic> 167.</p>
+  </fn>
+  <fn id="fn15">
+    <p>Albahari, <italic>Der Bruder,</italic> 148.</p>
+  </fn>
+  <fn id="fn16">
+    <p>Albahari, <italic>Der Bruder,</italic> 170.</p>
+  </fn>
+  <fn id="fn17">
+    <p>Albahari, <italic>Der Bruder,</italic> 97.</p>
+  </fn>
+  <fn id="fn18">
+    <p>In dem Roman heißt es, Robert habe nie offiziell den jüdischen Glauben angenommen, sei jedoch jüdisch erzogen worden und habe in seinem dreizehnten Lebensjahr seine Bar-Mizwa gefeiert. Albahari, <italic>Der Bruder,</italic> 95. Auf Roberts Distanzierung vom jüdischen Glauben reagiert Filip beinahe enttäuscht: „Es wäre interessanter gewesen, er hätte es getan [d. h. den jüdischen Glauben angenommen], sagte Filip, dann hätte er jetzt einen jüdischen Bruder, obwohl er selber kein Jude sei, und sein Leben hätte dadurch eine Dimension bekommen, die er sich in diesem Moment gar nicht ausmalen könne.“ Albahari, <italic>Der Bruder,</italic> 96.</p>
+  </fn>
+  <fn id="fn19">
+    <p>In einem Interview mit der deutschen Zeitschrift <italic>konkret</italic> äußert sich David Albahari zu seinem Schreiben über Homosexualität und Antisemitismus der serbischen Gesellschaft wie folgt: „Das hat verschiedene Gründe. Zum einen wird über diese Themen nicht gesprochen, es gibt bei vielen Menschen große Scham. Sie folgen den Führern und Vordenkern der Orthodoxen Kirche oder anderen, deren Ideen so etwas wie einen puren serbischen Geist verpflichtet sind. Obwohl ich nicht daran glaube, daß Schriftsteller Pflichten haben, denke ich, daß es eine Pflicht ist, Begebenheiten herauszufiltern, die diese seltsame Landschaft aus Mißverständnissen und Vorurteilen erzeugt, um dann zu versuchen zu erklären, was in der Gesellschaft wirklich geschieht.“ Albahari, „Ich wollte nie als Exilant gesehen werden“.</p>
+  </fn>
+  <fn id="fn20">
+    <p>Sontag, „Anmerkungen zu ‚Camp‘“, 338-339.</p>
+  </fn>
+  <fn id="fn21">
+    <p>Vgl. Anm. 73.</p>
+  </fn>
+  <fn id="fn22">
+    <p>Vgl. Anm. 77.</p>
+  </fn>
+  <fn id="fn23">
+    <p>In einer Untersuchung zur „Epistemologie des Verstecks“ stellt Eve Kosofsky-Sedgwick im Anschluss an Marcel Proust und Racine ebenso eine Vergleichbarkeit wie eine Differenz zwischen der Selbstenthüllung im Sinne eines Coming-out und der biblischen Selbstenthüllung Esthers als Jüdin heraus. Proust sieht in der Selbstoffenbarung Esthers eine Parabel für Selbstenthüllung einer schwulen Identität. Sie bringt sich durch die Selbstoffenbarung ihrem Gatten und König gegenüber in Gefahr getötet zu werden. Da sie durch ihre Tat jedoch das Volk der Israeliten rettet – das Liebesband zwischen ihr und dem König erweist sich als stärker als der mörderische Plan, die Juden zu vernichten – ist ein wichtiger Unterschied zu benennen. „Die Geschichte Esthers scheint modellhaft für eine bestimmte vereinfachte, aber höchst mächtige Vorstellung des Coming-out und seines transformativen Potentials zu sein.“ „Eine Identität als […] Jude […] und folglich das Geheimnis oder Versteck eines Juden […] würde sich dennoch von den spezifisch schwulen oder lesbischen Versionen derselben unterscheiden: nämlich durch die klare Linearität und Verantwortlichkeit ihrer Abstammung und die Wurzeln (wie schmerzvoll und ambivalent sie auch immer sein mögen) ihrer kulturellen Identifikation, durch die kulturelle Anbindung eines jeden Individuums (zumindest) an die Familie.“ Kosofsky-Sedgwick, „Epistemologie des Verstecks“, 124, 123.</p>
+  </fn>
+  <fn id="fn24">
+    <p>Foucault, <italic>Die Ordnung der Dinge,</italic> 17.</p>
+  </fn>
+  <fn id="fn25">
+    <p>Mit der Erzählung <italic>Das Aleph</italic> (1949) und dem Erzählband gleichen Titels aus dem Jahre 1949 thematisiert Borges den ersten Buchstaben des hebräischen Alphabets; in der Erzählung <italic>Die Bibliothek von Babel</italic> (1941) verknüpft er die babylonische Sprachverwirrung mit der Fiktion einer unendlichen Bibliothek. Andere Werke von Borges bezeugen eine Rezeption der jüdischen Kabbala. Vgl. Deppner, <italic>Wissenstransformationen in fiktionalen Erzähltexten.</italic></p>
+  </fn>
+  <fn id="fn26">
+    <p>Albahari, <italic>Mutterland,</italic> 74.</p>
+  </fn>
+  <fn id="fn27">
+    <p>Albahari, <italic>Mutterland,</italic> 84.</p>
+  </fn>
+  <fn id="fn28">
+    <p>Die geschilderte Familienkonstellation entspricht jener Albaharis, wie sie vom internationalen bibliographischen Archiv Munzinger geschildert wird: „David <italic>Albahari</italic> wurde am 15. März 1948 im serbischen <italic>Péc</italic> im damaligen Jugoslawien geboren. Er stammt aus einer serbisch-jüdischen Familie. Seine bosnische Mutter, die 1938 zum Judentum konvertierte, verlor ihren ersten Mann, einen aschkenasischen Juden, im Konzentrationslager. Die beiden aus dieser ersten Ehe stammenden Kinder starben nach dem Zweiten Weltkrieg bei einem Zugunglück. Die Mutter war in zweiter Ehe erneut mit einem serbischen Juden sephardischer Abstammung, einem Überlebenden der Shoa, A.s Vater, verheiratet. Obwohl sein Vater regelmäßig zur Synagoge ging, wurde A. selbst nicht ausgeprägt religiös erzogen.“ Munzinger Online/Personen, Art. „Albahari, David“.</p>
+  </fn>
+  <fn id="fn29">
+    <p>Der Name Albahari wird in der 1954 erschienen Erzählung von Ivo Andrić <italic>„</italic>Auf dem jüdischen Friedhof in Sarajewo“ neben anderen auf den Grabsteinen zu findenden Familiennamen genannt. Namen und Grabsteine werden in der Erzählung zu Zeugnissen der sephardischen Diaspora, memoriert u. a. mittels Transkription von Grabsteininschriften sowie der damit aufgerufenen, von den Sepharden kultivierten Sprache, dem Judezmo. Geschrieben in hebräischen Buchstaben, artikuliert mit spanischer Aussprache und Phonetik, dokumentieren Namen und Sprache für Andrić das Überleben sephardischer Kultur und Poesie in Regionen des Balkans – erhalten über mehr als vier Jahrhunderte. Güde, „Inschriften“, 392. Auf die Frage, warum viele Leser seine Texte für anti-serbisch halten, obwohl er auch in Serbien ein anerkannter Schriftsteller sei, antwortete Albahari: „Das kann man so nicht verallgemeinern. Für die meisten bin ich ein Schriftsteller wie jeder andere. Aber es gibt Leute, die eine grundfalsche serbische Tradition Realität werden lassen wollen. Sie wollen nicht, dass ein Jude als bekannter Schriftsteller gilt. Mein Lektor in Deutschland schrieb einmal, die drei maßgeblichen Autoren aus Serbien seien Aleksander Tisma, Danilo Kis und David Albahari. Drei jüdische Namen. Es gibt einige, die das nicht gerne hören.“ Albahari, „Ich wollte nie als Exilant gesehen werden“. Das Wirken von Autoren sephardischer Herkunft im 20. und 21. Jahrhundert in den Maghreb- und Balkanländern ist hinsichtlich der historischen und kulturellen Entwicklung nachgezeichnet worden. Vgl. Liebl, <italic>Jüdisch-spanische Identität in narrativen Texten sephardischer Autoren des 20. und 21. Jahrhundert</italic>. Das Werk David Albaharis ist diesbezüglich noch zu würdigen. Gleiches gilt für Autoren sephardischer Herkunft in Lateinamerika, wie Myriam Moscona.</p>
+  </fn>
+  <fn id="fn30">
+    <p>Albahari, „Ich wollte nie als Exilant gesehen werden“.</p>
+  </fn>
+  <fn id="fn31">
+    <p>Lopičić und Kostić, “The Multicentric Identity of David Albahari”.</p>
+  </fn>
+  <fn id="fn32">
+    <p>Lopičić und Kostić, “The Multicentric Identity of David Albahari”, 233.</p>
+  </fn>
+  <fn id="fn33">
+    <p>Albahari, „Ich wollte nie als Exilant gesehen werden“.</p>
+  </fn>
+  <fn id="fn34">
+    <p>Albahari, <italic>Der Bruder,</italic> 153–54.</p>
+  </fn>
+  <fn id="fn35">
+    <p>Albahari, <italic>Der Bruder,</italic> 164–65.</p>
+  </fn>
+  <fn id="fn36">
+    <p>Albahari, <italic>Der Bruder,</italic> 165.</p>
+  </fn>
+  <fn id="fn37">
+    <p>Albahari, <italic>Der Bruder,</italic> 109-110.</p>
+  </fn>
+  <fn id="fn38">
+    <p>Vgl. Deppner, <italic>Wissenstransformationen in fiktionalen Erzähltexten,</italic> 358.</p>
+  </fn>
+  <fn id="fn39">
+    <p>Albahari, <italic>Der Bruder,</italic> 151.</p>
+  </fn>
+  <fn id="fn40">
+    <p>Albahari, <italic>Mutterland,</italic> 116–118<italic>.</italic></p>
+  </fn>
+  <fn id="fn41">
+    <p>Albahari, <italic>Der Bruder,</italic> 75. Borges hat der biblischen Legende von der Sprachenentzweiung die Erzählung <italic>Die Bibliothek von Babel</italic> gewidmet. Borges beschreibt eine Bibliothek mit selbstgenerierenden Eigenschaften, durch welche sie über das Potenzial einer normalen Bibliothek hinausweist: Ihre Ordnung ist durch die Kombination von Buchstaben einer beständigen Dynamik unterzogen. Die von Borges darin thematisierte Legende vom Turmbau zu Babel kann als eine Metapher für die auf der Differenz innerhalb der Sprache basierende Pluralität verstanden werden.</p>
+  </fn>
+  <fn id="fn42">
+    <p>Insbes. Albahari, <italic>Das Tierreich</italic>.</p>
+  </fn>
+  <fn id="fn43">
+    <p>Albahari, <italic>Der Bruder,</italic> 133–34.</p>
+  </fn>
+  <fn id="fn44">
+    <p>Bereits der Titel von Roberts Diplomarbeit „Borges, ein argentinischer Schriftsteller“ kann als Hinweis auf eine essentialistische Deutung (Argentinien!) eines <italic>Oeuvres</italic> verstanden werden, das von Borges selbst als Universalliteratur verstanden wird. Vgl. Borges, „El escritor argentino y la tradición“, 273.</p>
+  </fn>
+  <fn id="fn45">
+    <p>Albahari, <italic>Der Bruder,</italic> 133.</p>
+  </fn>
+  <fn id="fn46">
+    <p>Was bleibt, ist eine stetige Umkehrung, die Albahari als Stilmittel einsetzt. Durch Roberts Perspektive ergibt sich eine doppelte Wendung: Aristoteles Poetik ist ein nicht-originäres Werk, das inhaltlich jedoch eine mimetische Funktion von Literatur einklagt. Borges’ Hinwendung zu Fiktionen und intertextuellen Gefügen sei dagegen innovativ und ohne Einflussnahme entstanden. Die von Filip im Roman beschworene aristotelische Einheit von Zeit, Handlung und Ort (Albahari, <italic>Der Bruder,</italic> 132) wird demgemäß in einer weiteren Wendung zerschlagen: die ästhetische Struktur, die verspricht die Wirklichkeit nachahmen zu können, wird aufgehoben und in eine „fragmentarische Struktur“ überführt (Albahari, <italic>Der Bruder,</italic> 80–82). Der Roman vollzieht so eine Strukturanalogie zur Literatur Borges’. Der argentinische Autor bekennt sich zu Kopie und Abschrift und verschiebt damit die Haltung zum Verständnis einer Ursprünglichkeit, die damit außer Kraft gesetzt wird.</p>
+  </fn>
+  <fn id="fn47">
+    <p>Albahari, <italic>Der Bruder,</italic> 133.</p>
+  </fn>
+  <fn id="fn48">
+    <p>Albahari, <italic>Der Bruder,</italic> 140.</p>
+  </fn>
+  <fn id="fn49">
+    <p>Albahari, <italic>Der Bruder,</italic> 137.</p>
+  </fn>
+  <fn id="fn50">
+    <p>Albahari, <italic>Der Bruder,</italic> 137.</p>
+  </fn>
+  <fn id="fn51">
+    <p>Albahari, <italic>Der Bruder,</italic> 83, 101 und 128.</p>
+  </fn>
+  <fn id="fn52">
+    <p>Albahari, <italic>Der Bruder,</italic> 128–29.</p>
+  </fn>
+  <fn id="fn53">
+    <p>Albahari, <italic>Der Bruder,</italic> 128–29.</p>
+  </fn>
+  <fn id="fn54">
+    <p>Das an dieser Stelle erwähnte chinesische „Buch der Wandlungen“ weist ebenfalls darauf hin.</p>
+  </fn>
+  <fn id="fn55">
+    <p>Albahari, <italic>Der Bruder,</italic> 129.</p>
+  </fn>
+  <fn id="fn56">
+    <p>Judith Butler, <italic>Körper von Gewicht,</italic> 23.</p>
+  </fn>
+  <fn id="fn57">
+    <p>Die Reaktion auf Judith Butlers Buch <italic>Das Unbehagen der Geschlechter</italic> „konzentrierte sich stark auf die Frage nach dem Verhältnis von Körperlichkeit und Diskurs, Butlers damit im Kern zusammenhängende Problematisierung der Heterosexualität wurde dagegen eher im Kontext von Queer-Theory und Lesbenforschung aufgegriffen.“ Becker-Schmidt und Knapp, <italic>Feministische Theorien,</italic> 85. Vgl. Duden, „Die Frau ohne Unterleib“; Andreas Kraß, <italic>Queer denken</italic>.</p>
+  </fn>
+  <fn id="fn58">
+    <p>Albahari, <italic>Der Bruder,</italic> 143.</p>
+  </fn>
+  <fn id="fn59">
+    <p>Albahari, <italic>Der Bruder,</italic> 69–70.</p>
+  </fn>
+  <fn id="fn60">
+    <p>Susan Sontag, <italic>Über Fotografie,</italic> 11.</p>
+  </fn>
+  <fn id="fn61">
+    <p>Albahari, <italic>Der Bruder,</italic> 42.</p>
+  </fn>
+  <fn id="fn62">
+    <p>Albahari, <italic>Der Bruder,</italic> 105.</p>
+  </fn>
+  <fn id="fn63">
+    <p>Albahari, <italic>Der Bruder,</italic> 70.</p>
+  </fn>
+  <fn id="fn64">
+    <p>Sontag, <italic>Über Fotografie,</italic> 73.</p>
+  </fn>
+  <fn id="fn65">
+    <p>Vgl. Sontag, <italic>Über Fotografie,</italic> 41.</p>
+  </fn>
+  <fn id="fn66">
+    <p>Roland Barthes, <italic>Die helle Kammer,</italic> 86.</p>
+  </fn>
+  <fn id="fn67">
+    <p>Albahari, <italic>Der Bruder,</italic> 71.</p>
+  </fn>
+  <fn id="fn68">
+    <p>Albahari, <italic>Der Bruder,</italic> 71.</p>
+  </fn>
+  <fn id="fn69">
+    <p>Albahari, <italic>Der Bruder,</italic> 74, 71 und 74.</p>
+  </fn>
+  <fn id="fn70">
+    <p>Benjamin, „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“, 461. In „Kleine Geschichte der Photographie“ heißt es dazu: „Es ist ja eine andere Natur, welche zur Kamera als welche zum Auge spricht; anders vor allem so, daß an die Stelle eines vom Menschen mit Bewußtsein durchwirkten Raums ein unbewusst durchwirkter tritt.“ Das „Optisch-Unbewusste“ werde dank der „Hilfsmittel […]: Zeitlupen, Vergrößerungen“ erfahrbar wie das „Triebhaft-Unbewusste durch die Psychoanalyse.“ Die Fotografie eröffnet mit Hilfe ihrer Technik – analog zu der Strukturbeschaffenheit medizinischer Technik – „in diesem Material die physiognomischen Aspekte, Bildwelten, welche im Kleinsten wohnen, deutbar und verborgen genug, um in Wachträumen Unterschlupf gefunden zu haben […] ersichtlich zu machen.“ Benjamin, „Kleine Geschichte der Photographie“, 371–72.</p>
+  </fn>
+  <fn id="fn71">
+    <p>Kofman, „Freud – Der Fotoapparat“, 60–66.</p>
+  </fn>
+  <fn id="fn72">
+    <p>Albahari, <italic>Der Bruder,</italic> 103.</p>
+  </fn>
+  <fn id="fn73">
+    <p>Loewy, „Fotografie“, 364. Hanno Loewy beruft sich diesbezüglich auf den amerikanischen Fotografen Jason Francisco, der das Verhältnis von Fotografie und Diaspora auch für die Erinnerungsdimension der Fotografie für wirkmächtig hält: „Ihre [der Fotografie, C.D.] Erinnerungsspuren formen einen negativen Raum, eine Mitteldistanz zwischen Artefakt und Relikt, zwischen Gemachtem und Überrest, einen Dialog zwischen Absenz und Präsenz.“ Loewy, „Fotografie,“ 364.</p>
+  </fn>
+  <fn id="fn74">
+    <p>Albahari, <italic>Der Bruder,</italic> 102.</p>
+  </fn>
+  <fn id="fn75">
+    <p>Judith Butler zufolge ist jedwede Geschlechtsidentität „performativ hervorgebracht und erzwungen. Innerhalb des überlieferten Diskurses der Metaphysik der Substanz erweist sich also die Geschlechtsidentität als performativ, d. h., sie selbst konstituiert die Identität, die sie angeblich ist.“ Butler, <italic>Das Unbehagen der Geschlechter,</italic> 49.</p>
+  </fn>
+  <fn id="fn76">
+    <p>Die in den Romanen thematisierten Landkarten verkörpern die zeitlichen und örtlichen Wechsel der Grenzen in Folge des Kriegsverlaufs. Sie dokumentieren damit auch das Vergangene, das bereits durch die nächste Kriegshandlung obsolet geworden ist. Die Karten, die molare, d. h. hegemoniale und der Macht verpflichtete Repräsentationen verkörpern, erfahren als „Werkzeuge zur Strukturierung von Welt“ bei Albahari eine gegenläufige Erinnerungsarbeit. Sie werden durch Eingriffe multilinearer Gefüge, die, so Deleuze und Guattari, einem „Werden“ zuarbeiten, untergraben, mit transhistorischem Ziel: Der Protagonist in <italic>Snezni covek</italic> malt mit Filzstiften in den Atlas, er fügt seine eigenen Punkte und Linien hinzu. Er hängt in seinem Wohnzimmer die verschiedenen Karten nebeneinander auf und multipliziert diese punktuellen Systeme. „Fluchtlinien“ erscheinen zwischen ihnen. Hitzke, „Raumzeitliche Kartierungspraktiken“, 261.</p>
+  </fn>
+  <fn id="fn77">
+    <p>Hitzke, <italic>Nomadisches Schreiben nach dem Zerfall Jugoslawiens</italic>. Die anhand poststrukturalistischer Paradigmen entworfene Dimension des Nomadischen zielt auf eine Begründung literarischer Verfahren, die sich u. a. durch intermediale Bewegungen, kulturelle Transformationen und Destabilisierungsprozesse auszeichnen. Dabei wendet sich Hitzke gegen polarisierende Zuschreibungen, die auch die Frage nach der jüdischen Identität Albaharis betreffen. Favorisiert werden Bewegungen zwischen Punkten, im „Sinne eines Netzwerkes von Wegstrecken“ (419). „In den nomadischen Texten“ – so Hitzke weiter – ginge es nicht um die „Repräsentation verschiedener Sprachpositionen, sondern um das Schreiben über Fluchtlinien jenseits der gefestigten Narrative von Identität, Geschichte und Nation“ (422). Die ausführlichen Schilderungen jüdischer Quellen im Werk Albaharis einschließlich Diasporaerfahrung (64) und dessen Äußerung, der Talmud sei „vermutlich eines der besten postmodernen Bücher“ (231), werden nicht als strukturelle Entsprechung für unabschließbare Kommentarkultur einschließlich der Verknüpfung von Oralität und Literalität, Fragmentierung und Vernetzung des Denkens über Zeitebenen hinweg gedeutet, sondern als Zuweisung zu einer festen Identität; der jüdischen. Die hinsichtlich des nomadischen Schreibens aufgerufene Begründung durch Deleuze und Guattari, deren Favorisierung des „Werdens“, der Rhizomisierung „im Sinne eines Netzes von Wegstrecken“ (419), wäre allerdings ihrerseits auf die Einbeziehung jüdischer Denkstrukturen und deren pluralen Deutungsdimensionen zu befragen. Letzteres hat hinsichtlich des poststrukturalistischen Denkens von Jacques Derrida zu erhellenden Erkenntnissen geführt. Die auch hier problematisierte Dynamisierung der Narrative, einerseits hervorgerufen durch wechselnde literarische Ausrichtungen wie Mimesis und Fiktion, andererseits veranschaulicht durch fotografisch gelenkte Schriftbildlichkeit, Verkleidung, Performanz und Transgender wird entsprechend mit diasporistischen, gleichfalls nomadischen Reflexionen verknüpft, die jüdisch-sephardischen Erfahrungen, Auslegungen und Konstruktionsenergien zu verdanken sind (vgl. Anm. 83).</p>
+  </fn>
+  <fn id="fn78">
+    <p>In der Poetik von Aristoteles heißt es dazu: Der Mensch unterscheide sich dadurch „von anderen Lebewesen, daß er am meisten zur Nachahmung befähigt ist und das Lernen sich bei ihm am Anfang durch Nachahmung vollzieht; und außerdem freuen sich alle Menschen an den Nachahmungen. Ein Beweis dafür ist das, was wir bei Kunstwerken erleben. Was wir nämlich in der Wirklichkeit nur mit Unbehagen anschauen, das betrachten wir mit Vergnügen, wenn wir möglichst getreue Abbildungen vor uns haben, wie etwa die Gestalten von abstoßenden Tieren oder von Leichnamen.“ Aristoteles, <italic>Poetik,</italic> 26–27.</p>
+  </fn>
+  <fn id="fn79">
+    <p>Albahari, <italic>Der Bruder,</italic> 52.</p>
+  </fn>
+  <fn id="fn80">
+    <p>Derrida, <italic>Die Schrift und die Differenz,</italic> 235. Die Formulierung wurde geprägt von Joyce, <italic>Ulysses,</italic> 622.</p>
+  </fn>
+  <fn id="fn81">
+    <p>Derrida, <italic>Die Schrift und die Differenz,</italic> 234. Dem Kapitel „Gewalt und Metaphysik: Essay über das Denken Emmanuel Levinas“ ist als Motto das erhellende Zitat von Matthew Arnold vorangestellt: „Hebraism and Hellenism, – between these two points of influence moves our world.“ Derrida, <italic>Die Schrift und die Differenz,</italic> 121.</p>
+  </fn>
+  <fn id="fn82">
+    <p>Guiseppe Veltri, „Rabbinische Streitkultur“.</p>
+  </fn>
+  <fn id="fn83">
+    <p>Die in rabbinischer Tradition gepflegte Textdeutung, die eine Umstellung der Buchstaben und Silben einschließt, sei ein „Prozess permanenter Transformation“, da die Wörter „gewissermaßen permutiert werden und zu ganz unterschiedlichen Bedeutungen ausgefaltet werden können“. Reichert, „Das Fremde als das Eigene“, 3, 5. – Dieses Prinzip leitet sich ab aus einem Schriftverständnis, das auf die identitätsstiftende Urszene am Sinai zurück geht. Der biblischen Legende zum Erhalt der Zehn Gebote ist zu entnehmen, dass das göttliche Wort in verschiedenen Aggregatzuständen überliefert wurde: als mündliche Tora, als schriftliche Tora und schließlich als übersetzter Text, der von Moses übertragen wird. Die am Sinai erhaltene Schrift ist kein referenzielles, sondern ein abstraktes Zeichensystem, das im Gegensatz zu der unmittelbaren Präsenz der Stimme als transkriptives Phänomen verstanden wird, womit sich ein konstruktiver Charakter offenbart. In den Talmudlesungen von Emmanuel Lévinas heißt es entsprechend, dass die Kommentare des Talmuds von der ganzen Fülle der biblischen Überlieferung, mit ihren „praktisch nie auszuschöpfenden Möglichkeiten“, ausgehen. „In diesem Sinne kommentiert der Talmud die Bibel. Es gibt eine unaufhörliche Bewegung des Kommens und Gehens. […] Der Bedeutungsmöglichkeiten sind bei konkreten, von ihrer Geschichte befreiten Gegenständen unzählige. […] Sie verlangen nichtalltägliche, spekulative Fähigkeiten und bewegen sich in einem multidimensionalen Raum.“ Lévinas, <italic>Vier Talmudlesungen,</italic> 17–18.</p>
+  </fn>
+  <fn id="fn84">
+    <p>Albahari, <italic>Der Bruder,</italic> 93.</p>
+  </fn>
+  <fn id="fn85">
+    <p>Sontag, „Anmerkungen zu ‚Camp‘“, 339.</p>
+  </fn>
+  <fn id="fn86">
+    <p>Sontag, „Anmerkungen zu ‚Camp‘“, 338–39.</p>
+  </fn>
+  <fn id="fn87">
+    <p>Sontag, „Anmerkungen zu ‚Camp‘“, 339.</p>
+  </fn>
+  <fn id="fn88">
+    <p>2019 zeigte das Metropolitan Museum of Art (MMA) in New York die Ausstellung „Camp – Notes on Fashion“, die sich explizit an den einzelnen Kapiteln Susan Sontags ausrichtete und insbesondere den ästhetischen Charakter der Verkleidungen und Inszenierungen des Körpers herausstellte. Damit wurde u. a. die Aktualität der bereits in den sechziger Jahren des 20. Jahrhunderts verfassten „Notes on Camp“ verdeutlicht.</p>
+  </fn>
+  <fn id="fn89">
+    <p>Vgl. Grözinger, <italic>Jüdisches Denken,</italic> 47–59.</p>
+  </fn>
+  <fn id="fn90">
+    <p>Vgl. Anm. 83.</p>
+  </fn>
+  <fn id="fn91">
+    <p>„Arme Schwester, arme, arme, habe Robert wiederholt, sagte Filip, und dabei geschaukelt wie ein frommer Jude vor der Klagemauer.“ Albahari, <italic>Der Bruder,</italic> 119–20.</p>
+  </fn>
+  <fn id="fn92">
+    <p>Albahari, <italic>Der Bruder,</italic> 130.</p>
+  </fn>
+</fn-group>
+<ref-list>
+<title>Bibliographie</title>
+<ref>
+<mixed-citation>
+Albahari, David. <italic>Der Bruder.</italic> Übersetzt von Mirjana und Klaus Wittmann. Frankfurt am Main: Schöffling &amp; Co., 2012. Zuerst 2008.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Mutterland.</italic> Übersetzt von Mirjana und Klaus Wittmann. Frankfurt am Main: Eichborn, 2013. Zuerst 1996.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Das Tierreich</italic>. Übersetzt von Mirjana und Klaus Wittmann. Frankfurt am Main: Schöffling &amp; Co., 2017. Zuerst 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Ich wollte nie als Exilant gesehen werden“. Interview mit Sonja Vogel. <italic>Konkret,</italic> Heft 5, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Aristoteles. <italic>Poetik</italic>. Stuttgart: Reclam, 1961.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Barthes, Roland. <italic>Die helle Kammer:</italic> <italic>Bemerkung zur Photographie</italic>. Übersetzt von Dietrich Leube. Frankfurt am Main: Suhrkamp, 1985. Zuerst 1969.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Becker-Schmidt, Regina und Gudrun-Axeli Knapp. <italic>Feministische Theorien: Zur Einführung</italic>. Hamburg: Junius, 2000.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Benjamin, Walter. „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“. Erste Fassung. In <italic>Gesammelte Schriften,</italic> von Walter Benjamin, herausgegeben von Rolf Tiedemann und Hermann Schweppenhäuser, Band 1, <italic>Abhandlungen,</italic> 435–69. Frankfurt am Main: Suhrkamp, 1974. Zuerst 1939.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Kleine Geschichte der Photographie.“ <italic>Gesammelte Schriften,</italic> von Walter Benjamin, herausgegeben von Rolf Tiedemann und Hermann Schweppenhäuser, Band 2, <italic>Aufsätze, Essays, Vorträge,</italic> 368–85. Frankfurt am Main: Suhrkamp, 1980. Zuerst 1931.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Borges, Jorge Luis. „El escritor argentino y la tradición“. In <italic>Obras Completas,</italic> Band 1, 267–74. 3. Aufl. Barcelona: Emecé Editores, 1996. Zuerst 1951.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Butler, Judith. <italic>Das Unbehagen der Geschlechter</italic>. Übersetzt von Kathrina Menke. Frankfurt am Main: Suhrkamp, 1991. Zuerst 1990.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Körper von Gewicht: Die diskursiven Grenzen des Geschlechts</italic>. Übersetzt von Karin Wördemann. Frankfurt an Main: Suhrkamp, 1997. Zuerst 1993.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Deppner, Corinna. <italic>Wissenstransformationen in fiktionalen Erzähltexten: Literarische Begegnungen mit jüdischer Erinnerungskultur im Werk von Jorge Luis Borges, Mario Vargas Llosa und Moacyr Scliar</italic>. Frankfurt am Main: Peter Lang, 2016.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Derrida, Jacques. <italic>Die Schrift und die Differenz.</italic> Übersetzt von Rodolphe Gasché. 4. Aufl. Frankfurt am Main: Suhrkamp, 1989. Zuerst 1967.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Duden, Barbara. „Die Frau ohne Unterleib: Zu Judith Butlers Entkörperung ‚Ein Zeitdokument‘“. In <italic>Theorie – Geschlecht – Fiktion,</italic> herausgegeben von Nathalie Amstutz und Martina Kuoni, 153–66. Basel: Stroemfeld, 1994.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Foucault, Michel. <italic>Die Ordnung der Dinge.</italic> Frankfurt am Main: Suhrkamp<italic>,</italic> 1974. Zuerst 1960.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Güde, Elisabeth. „Inschriften: Vom Fortleben des Judezmo in der Literatur.“ In <italic>Caminos de leche y miel. Jubilee Volume in Honor of Michael Studemund-Halévy,</italic> herausgegeben von David M. Bunis, Ivana Vucina Sinović und Corinna Deppner, 385–405. Barcelona: Editión Tirocinio, 2018.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Grözinger, Karl Erich. <italic>Jüdisches Denken: Theologie Philosophie Mystik</italic>. Band 2, <italic>Von der mittelalterlichen Kabbala zum Hasidismus.</italic> Frankfurt: Campus, 2005.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Hitzke, Diana. <italic>Nomadisches Schreiben nach dem Zerfall Jugoslawiens: David Albahari, Bora Ćosić und Dubravka Ugrešić</italic>. Frankfurt am Main: Peter Lang, 2014.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Raumzeitliche Kartierungspraktiken: Karten und Mapping im theoretischen Diskurs und in den Texten von David Albahari.“ <italic>Historical Social Research</italic> 38 (2013): 246–63.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Joyce, James. <italic>Ulysses</italic>. London: Penguin Books, 1992. Zuerst 1922.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kofman, Sarah. „Freud – Der Fotoapparat“. In <italic>Paradigma Fotografie: Fotokritik am Ende des fotografischen Zeitalters,</italic> herausgegeben von Herta Wolf, 60–66. Frankfurt am Main: Suhrkamp, 2001.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kosofsky-Sedgwick, Eve. „Epistemologie des Verstecks“. In <italic>Queer denken: Gegen die Ordnung der Sexualität (Queer Studies),</italic> herausgegeben von Andreas Kraß, 113–143. Frankfurt am Main: Suhrkamp, 2003.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kraß, Andreas, Hg. <italic>Queer denken: Gegen die Ordnung der Sexualität (Queer Studies)</italic>. Frankfurt am Main: Suhrkamp, 2003.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Lévinas, Emmanuel. <italic>Vier Talmudlesungen</italic>. Übersetzt von Frank Miething. Frankfurt am Main: Neue Kritik, 1993. Zuerst 1968.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Loewy, Hanno. „Fotografie“. In <italic>Enzyklopädie jüdischer Geschichte und Kultur,</italic> Band 2, herausgegeben von Dan Diner, 361–66. Stuttgart: Metzler, 2012.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Liebl, Christina. <italic>Jüdisch-spanische Identität in narrativen Texten sephardischer Autoren des 20. und 21. Jahrhundert.</italic> Romanische Literaturen und Kulturen 4. Bamberg: University of Bamberg Press, 2011.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Lopičić, Vesna und Milena Kostić, „The Multicentric Identity of David Albahari: A Jewish Serbian-Canadian Writer“. ФИЛОЛОГ–ЧАСОПИС ЗА ЈЕЗИК, КЊИЖЕВНОСТ И КУЛТУРУ 10 (2014): 226–39.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Munzinger Online/Personen – Internationales Biographisches Archiv<italic>.</italic> „Albahari, David“. Abgerufen am 13.03.2020. <ext-link ext-link-type="uri" xlink:href="http://www.munzinger.de/document/00000025260">http://www.munzinger.de/document/00000025260</ext-link>
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Reichert, Klaus. „Das Fremde als das Eigene: Übersetzung als Transformation und Selbstsetzung.“ In <italic>Übersetzung und Transformation,</italic> herausgegeben von Hartmut Böhme, Christof Rapp und Wolfgang Rösler, 1–18. Berlin: de Gruyter, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Sontag, Susan. „Anmerkungen zu ‚Camp‘“. In <italic>Kunst und Antikunst. 24 literarische Analysen,</italic> von Susan Sontag, übersetzt von Mark W. Rien, 322–41. 10. Aufl. Frankfurt am Main: Fischer, 2012, zuerst 1964.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Über Fotografie</italic>. Übersetzt von Mark W. Rien und Gertrud Baruch. 21. Aufl. Frankfurt am Main: Fischer, 2013. Zuerst 1977.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Veltri, Giuseppe. „Rabbinische Streitkultur: Gottes Widerspruch“. <italic>Frankfurter Allgemeine Zeitung,</italic> 3. Juli 2019.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

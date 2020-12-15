@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN"
+                  "JATS-publishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="de">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">JNDF</journal-id>
+<journal-title-group>
+<journal-title>Judaica: Neue digitale Folge</journal-title>
+<abbrev-journal-title>JNDF</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2673-4273</issn>
+<publisher>
+<publisher-name>Bern Open Publishing</publisher-name>
+<publisher-loc>Bern, Switzerland</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">https://doi.org/10.36950/jndf.1.2</article-id>
+<title-group>
+<article-title>Grundgeschichte und Chronik: Die Fragestellung der frühjüdischen Chronikbücher und ihre Haltung zur Mosesüberlieferung</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Willi</surname>
+<given-names>Thomas</given-names>
+</name>
+<email>thomas.willi@uni-greifswald.de</email>
+<aff>Universität Greifswald</aff>
+</contrib>
+<author-comment><p>Der folgende Beitrag stellt anhand der oft marginal behandelten Chronikbücher judaistische Aspekte bibelwissenschaftlicher Forschung heraus und begleitet in diesem Sinn den Neustart von <sc>Judaica.</sc> Bislang nur mündlich inner- wie ausserhalb exegetischer Fachkreise, zuletzt anlässlich einer internationalen Tagung in Lausanne vom 18.–19. Nov. 2019 sowie im Hamburger Forschungskolloquium Biblische Exegese und Frühjüdische Religionsgeschichte am 29. Nov. 2019 vorgetragen und diskutiert, verdankt er diesen Anlässen die schriftliche Fassung, wie sie hier vorliegt. In Würdigung der redaktionellen und konzeptionellen Übergangssituation von <sc>Judaica</sc> sei damit auch ehrend jener Persönlichkeiten gedacht, die die Zeitschrift gegründet, gestaltet und jahrzehntelang redigiert haben: Robert Brunner, Zürich (1945–1971), Kurt Hruby, Paris (1971–1992) und Stefan Schreiner, Tübingen (1999–2018).</p></author-comment>
+</contrib-group>
+<pub-date pub-type="epub">
+<month>10</month>
+<year>2020</year>
+</pub-date>
+<volume>1</volume>
+<permissions>
+<copyright-statement>Copyright © 2020, Thomas Willi. This work is licensed under Creative Commons Attribution 4.0 International.</copyright-statement>
+<copyright-year>2020</copyright-year>
+<copyright-holder>Thomas Willi</copyright-holder>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This work is licensed under Creative Commons Attribution 4.0 International.</license-p>
+</license>
+</permissions>
+<abstract>
+<p>The Chronicler used two types of sources in writing history: In general, the chronistic narration is based on the „Deuteronomistic history“ as it is called today. Nonetheless, the Pentateuch in its priestly components is another key to its concept.</p>
+<p>In his historical outline, the Chronicler is aware of differences of time: There is, first of all, the <italic>epoch of Moses</italic> and of the Mosaic institutions given to a wandering Israel. A new age, second, started with <italic>David</italic> gathering a scattered people toward the new center in Jerusalem.</p>
+<p>These epochs are characterized by both <italic>continuity</italic> in the worship of Yhwh and <italic>discontinuity</italic> of the performance of that worship. The ark, the mobile sanctuary in the tent of the desert, was now to find its definite place and house, to be built and inhabited by Yhwh, prepared by David and finally realized by Solomon.</p>
+<p>According to the Chronicler, God’s word had been present in both epochs, but in different forms. Originally, it was given orally to Moses. Yet, the history of Israel as described by Chronicles refers to written documents (<italic>kakkātûb</italic>). In light of their attribution in Chronicles we should not call them „priestly“—as it has been customary since the 19<sup>th</sup> century (de Wette, Wellhausen—but more adequately „Mosaic“ tradition.</p>
+<p>For the Chronicler, such Mosaic tradition was applied and performed by David’s Israel. Of prime importance is the new position of Levi, Moses’ own tribe. According to the P-sources in the Pentateuch, the Levites had to do physical labour for the holy tent. But, in the era of the temple, they gained a new responsibility by interpreting, instructing and applying Tora in its broadest sense. The Priests’s duties for their part are presupposed rather than itemized. Since the time of the Exodus—which is deliberately not a topic in Chronicles—they have remained the same.</p>
+<p>Decisive for the Chronicler is the new presence of Moses’ revelation in the ongoing history of Israel and its kings, accompanied and guided by Moses’ tribe, the Levites.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<sec id="das-neue-im-alten-das-chronikbild-der-neueren-forschung-und-die-fragestellung-der-chronikbücher">
+  <label>1</label>
+  <title>Das Neue im Alten: Das Chronikbild der neueren Forschung und die Fragestellung der Chronikbücher</title>
+  <p>Die Geschichtsdarstellung der biblischen Chronikbücher (Chr) wird durch die Menschheits- und Bürgerlisten (1Chr 1,1–10,14) zu Beginn und durch die abschliessende Feststellung „bis zur Königsherrschaft des Königtums von Persien“ (2Chr 36,20) eindeutig begrenzt. Es handelt sich also von vornherein um eine vom sogenannten „deuteronomistischen Geschichtswerk“<xref ref-type="fn" rid="fn1">1</xref> (DtrG) unterschiedene Anlage. Von der angeblichen Parallelität beider Geschichtsentwürfe ging die Forschung bis tief ins 20. Jhd. aus, nicht zuletzt unter dem Einfluss von M. Noth, der das deuteronomistische und das chronistische Geschichtswerk geradezu bestürzend parallel auffasste und abhandelte.</p>
+  <p>Dennoch verführte die scheinbare Parallele beider Geschichtsentwürfe immer wieder dazu, in der Chronik eine Darstellung zu erwarten, die entlang der grossen Linien die Themen und Ereignisse erzählt, die diesen zeitlichen Rahmen ausfüllen. Auch die moderne historisch-kritische Forschung an der Chronik ging davon aus.</p>
+  <p>Seltsam berührt nun allerdings, dass ganze Partien und Abschnitte dieser Geschichte eigenartig behandelt oder, noch auffälliger, schlicht übergangen scheinen. Und zwar sind das durchaus bedeutende Epochen, die eine Kennerin der Sache zu dem Urteil bringen: „The intermediate history of Israel, told in Exodus through 1Samuel, is not found in Chronicles. […] As a result, some of the most important events in the history of Israel, such as the descent into Egypt, the exodus, the revelation at Mount Sinai, the conquest of the land of Canaan, the settlement, and the period of Joshua, the judges, and Saul are not described.“ Folgt daraus: „There is no break, not even any ‚history‘ , between Jacob and salvation.“<xref ref-type="fn" rid="fn2">2</xref></p>
+  <p>Die hier von Sara Japhet summarisch aufgezählten Zeiten und Inhalte sind dem Chronisten zweifellos bekannt. Aber sie sind nicht sein Thema. In seiner Neuerzählung aus dem Quell der alten Überlieferung behandelt der Chronist – nach dem Tableau der Völkerwelt und der Israelstämme als den den Rahmen abgebenden Prolegomena – nur die sogenannt staatliche Zeit Israels, geprägt und überragt durch die Gestalt Davids. Dabei sind es ganz andere Inhalte und Gesichtspunkte, die ihn leiten als jene, die die alte „Davidshausgeschichte“ ausmachen, die ihrerseits der Davidsdarstellung im sogenannten „deuteronomistischen Geschichtswerk“ (DtrG) zugrunde liegt. Man wird J. Wellhausen schon hier kaum zustimmen können, wenn er gleich eingangs in dem 1878 in Greifswald niedergeschriebenen berühmten Chronik-Kapitel der später so betitelten „Prolegomena zur Geschichte Israels“ notiert: „Die Chronik […] geht im Stoff vollkommen den Büchern Samuelis und der Könige parallel.“<xref ref-type="fn" rid="fn3">3</xref></p>
+  <p>Wer die Neuerzählung des Chronisten zutreffend würdigen und verstehen will, muss nicht nur sie selber lesen und studieren, sondern ebenso jene Epochen und Gegenstände ernstnehmen, die nicht eigentlich abgehandelt, sondern zugrunde gelegt und vorausgesetzt sind. Um den wichtigsten Punkt gleich vorwegzunehmen: Wenn die Offenbarung am Sinai und die Wüstenwanderung nicht berichtet werden, offenkundig also nicht Teil der chronistischen Geschichte sind – was sind sie dann, und welcher Stellenwert kommt ihnen zu? Denn die Inhalte selber fehlen ja nicht, sondern sind auf Schritt und Tritt gegenwärtig, allerdings nicht als Erzählstoff, wohl aber in der Person des Moses und dem, was von ihm zum einen als schriftlich dokumentiert „verschriftet“ (<italic>biktāb</italic>) gilt, zum andern durch den Stamm Levi, dem er angehört und der sein Erbe aufrechterhält, lebendig vertreten wird.</p>
+  <p>Eine behutsame und differenzierte Wahrnehmung ist hier nötig. Wenn nach J. Wellhausen im DtrG die Vergangenheit verurteilt, dagegen „in der Chronik […] die Geschichte des alten Israel nach Massgabe des Priesterkodex umgedichtet“ werde,<xref ref-type="fn" rid="fn4">4</xref> so sind damit die beiden Geschichtswerke in ein bestimmtes Verhältnis zueinander gestellt, das sich diskutieren lässt. Das Modell mag zur Erhellung der alttestamentlichen Literaturwerdung beigetragen haben. Aber es transportiert unterschwellig Fehleinschätzungen und Begrifflichkeiten, die den Blick auf die Chronik nachhaltig getrübt und gestört haben. Dazu gehört in erster Linie die Unterstellung einer ­– modern gesprochen – „dogmatisch“ motivierten Korrektur der alten Überlieferung durch die Chronik. Sie disqualifiziere sich in ihrer Geschichtsdarstellung als williges Vollzugsorgan kultisch und klerikal motivierter Programmatik.</p>
+  <p>Das widerspricht aber der Psychologie, nicht nur der biblischen, sondern überhaupt jeder antiken Überlieferungsbildung und Literaturwerdung. Hier sind Autorität und Geltung des Altüberlieferten unhinterfragter Massstab. Dieses <italic>Anciennitätsprinzip</italic> äussert sich etwa bei Euseb gleich zu Beginn seiner Kirchengeschichte (h.e. I,1,1) wo er jegliche „Neuerungssucht“, νεωτεροποιία,<xref ref-type="fn" rid="fn5">5</xref> vehement ablehnt.<xref ref-type="fn" rid="fn6">6</xref></p>
+  <p>Auch der Begriff eines „Priesterkodex“, auf dem nach J. Wellhausen „der Unterschied im Geist der Zeiten beruht“,<xref ref-type="fn" rid="fn7">7</xref> weckt nach beiden Wortteilen Assoziationen, die nicht sachgemäss sind, besonders wenn die Bezeichnung dann folgendermassen gefüllt wird: „Der Priesterkodex wurde das definitive ‚mosaische Gesetz‘ “.<xref ref-type="fn" rid="fn8">8</xref> Die Begrifflichkeit suggeriert sowohl hinsichtlich von „Priester“ wie von „Kodex“ ein Konzept der überkommenen Tradition, die nicht das des Chronisten ist. Seine Beziehung zu dem auf Moses zurückgeführten geistigen Erbe ist zunächst die des Historikers, der die alten Überlieferungen zwar zweifellos als göttliche Kundgabe würdigt und ehrt, der daraus aber kein starres Konstrukt einer „Theokratie“ entwickelt<xref ref-type="fn" rid="fn9">9</xref> und seine Geschichtsschreibung schon gar nicht als ein Pamphlet einer schlecht und recht getarnten „Hierokratie“<xref ref-type="fn" rid="fn10">10</xref> beziehungsweise als klerikales Programm entfaltet. Was dem Chronisten als mosaische Tradition vorlag, war ihm schon durch deren Anciennität ehrwürdig. Das heisst aber nicht, dass sein Verhältnis dazu durch buchstabengläubige Servilität geprägt gewesen wäre. Im Gegenteil, er bedient sich, wie unten skizziert werden soll, der Tora in kreativer, ja kühner Weise, gerade auch um seine Geschichtserzählung in ihrer gegenüber den ihm verfügbaren Quellen, vorab den ihm als „prophetisch“ geltenden Bestandteilen des sogenannten deuteronomistischen Geschichtswerks, neu auf <italic>sein</italic> Thema hin zu gestalten, anschaulich und verständlich zu machen und zu begründen. In mancher Hinsicht stellt sein Neuentwurf von Israels staatlicher Geschichte geradezu ein Gegengewicht zu der in P vorausgesetzten Überlieferung und Praxis dar, aber nicht deren unhinterfragte Propagierung. Das verrät schon seine Behandlung der Bevölkerungssegmente Israels. 2Chr 19,8 stellt etwa in völlig unverdächtiger Beschreibung das Israel der Zeit Joschafats als „die Leviten und die Priester und die Familienhäupter Israels“ vor, und zwar in dieser Aufeinanderfolge. Sie alle sind für die traditionsorientierte Rechtswahrung, „für Weisung und Gebot und Grundrechte und Rechtsbestimmungen“ (V. 10), zuständig. Die Kompetenz dafür setzt nicht nur entsprechende Kenntnisse der Bestimmungen voraus, sondern auch die Fähigkeit, sie produktiv und situationsbezogen anzuwenden.</p>
+  <p>Ein Blick in das ja oft in einem Atemzug mit der Chronik genannte Buch Esra mag diese Einschätzung von <italic>tōrā</italic> stützen und ihre Bedeutung für das Frühjudentum erhellen. Die hier vorausgesetzte Schriftgemäßheit<xref ref-type="fn" rid="fn11">11</xref> bedeutet keine untertänige Bindung an einen toten Buchstaben. Wer die Geltung der Tora und den Prozess ihrer Aufnahme und Anwendung im Frühjudentum gründlicher studiert, wird eine eigenartige Feststellung machen. Aussagekräftig ist dabei der Aufbau der zur Chronik etwa zeitgenössischen Esrageschichte. Es ist nicht so, dass das göttliche Wort und Gebot bzw. die Tora, von Esra seit langem gehütet, dann mitgebracht und angewendet, am Anfang stünden. Sondern es verhält sich im Gegenteil genau umgekehrt. Am Anfang steht große Unsicherheit. Die Ratlosigkeit wird – etwa in Esr 9 – an Esra herangetragen. Er selbst hat kein Patentrezept, so dass er nur zur Bibel greifen und den einschlägigen Vers oder Paragraphen des „Gesetzes“ konsultieren müsste, damit die Probleme gelöst wären. Das Besondere an diesem Esra ist vielmehr, dass er sich dem, was ihm da vorgetragen wird, vorbehaltlos öffnet und mit seiner Bestürzung (hebr. <italic>šmm</italic>) sowie mit seinem Buss- und Bittgebet darauf reagiert (Esr 9,3-15). Nimmt man die Abfolge in der Esrageschichte ernst, so folgt daraus: Nicht die Tora führt zur Praxis, sondern der gemeinsame Entschluss und die daraufhin ergriffenen Maßnahmen machen den Weg <italic>zum neuen Hören der Tora</italic> frei. In späterer Begrifflichkeit ausgedrückt: die Halacha, die Gehorsams-, Gebots- und Lebenspraxis begründet und bereitet der Tora ihren Platz und <italic>geht ihr</italic> insofern <italic>voraus</italic>. Israels berühmtes „Wir tun’s, wir hören’s“ aus Ex 24,7 – und zwar in dieser Reihenfolge –, wie es von der rabbinischen Tradition<xref ref-type="fn" rid="fn12">12</xref> scharf beobachtet und entsprechend aufgefasst worden ist, schlägt auch hier durch.</p>
+  <p>Ein entsprechender dynamischer Umgang mit <italic>tōrā</italic> bestimmt auch den Neuentwurf der Geschichte in der Chronik mit ihrem Kern, der ausführlichen Erzählung, wie es zum Jerusalemer Tempel gekommen sei. Der in 1Kön 6f. vorgegebene eher knappe Bericht über den Tempelbau wird in 1Chr 17-29 umfänglich begründet, vorbereitet, ausgeführt und ausgemalt. Dabei ist es ein Hauptanliegen des Chronisten, von David jeden Verdacht der νεωτεροποιία fernzuhalten, obwohl der Schritt vom mobilen „Begegnungszelt“, der Stiftshütte, zum präzedenzlosen „Haus“ eine, ja gewissermassen <italic>die</italic> Zäsur in Israels Kult und Gottesbeziehung darstellt. Der Verfasser der neuen Geschichte sieht sich vor die Aufgabe gestellt, aufzuweisen, wie in aller Diskontinuität doch Kontinuität vom früheren zu dem nun eben nicht neuen, sondern erneuerten, Gottesdienst besteht. Dabei berücksichtigt er nach Möglichkeit alle ihm vorliegenden Überlieferungen, Informationen, Nachrichten, Quellen und sucht sie ins rechte Licht zu rücken, gerade weil er – und auch das gehört zum Rüstzeug des Historikers – die Differenz der Zeiten und Epochen kennt und anerkennt.</p>
+  <p>Damit ergibt sich eine völlig andere Ausgangssituation für das Verständnis der Chronik als die von der allgemein verbreiteten Auffassung favorisierte, nach der es deren Ziel gewesen wäre, die „Vergangenheit auf grund des Gesetzes um(zu)dicht(e)n“.<xref ref-type="fn" rid="fn13">13</xref> Die vorhin in groben Zügen skizzierte Rekonstruktion der Geschichte und vor allem der Literaturgeschichte des alten Israel<xref ref-type="fn" rid="fn14">14</xref> stellte seit dem 19. Jahrhundert ganz überwiegend die Frage in den Vordergrund, wie die Chronik die Vergangenheit umgebaut habe – <italic>sous entendu,</italic> dass sie das im Dienst und im Interesse ihrer Gegenwart, ihrer Partei und der sie leitenden (Vor-)Urteile getan habe.</p>
+</sec>
+<sec id="moseszeit-und-davidszeit">
+  <label>2</label>
+  <title>Moseszeit und Davidszeit</title>
+  <p>Für den Chronisten als antiken Historiker ist die Fragestellung aber eine andere: Was unterscheidet die von ihm dargestellte Davids- und Königszeit von der Moseszeit, vor allem – aber nicht ausschliesslich – hinsichtlich des Kultes? Wenn David nach der chronistischen Erzählung den „altneuen“ Dienst in Jerusalem einrichtet, bestätigt und bekräftigt – was ist daran alt, was ist neu?</p>
+  <list list-type="order">
+    <list-item>
+      <p>Der Kult der Exodus- und Wüstenzeit galt demselben Gott, dem David nach chronistischer Darstellung in hervorragender Weise dient. Getragen wurde der alte Gottesdienst, den priesterschriftlichen Überlieferungen zufolge, von dem Israel der zwölf Stämme. Ihre Einheit zeigt sich in der Sicht der Chronik in der Folge gefährdet. Sie löst sich schliesslich unter Saul (1Chr 10) nahezu völlig auf, bis sie – und hier beginnt der Chronist seine Erzählung – von David neu hergestellt wird: „Und sie versammelten sich, ganz Israel, um David“ (1Chr 11,1).</p>
+    </list-item>
+    <list-item>
+      <p>Während zweitens in den pentateuchischen Zeiten Israels Gottesdienst keinen festen Platz hat und die Lade im Heiligtum des Zelts der Begegnung mobil ist, zeichnet sich die neue Ära dadurch aus, dass Israels Gott und sein auf die Lade fokussierter Kult dank David ihren festen „Ort“, <italic>māqôm,</italic> für das Haus zu Jerusalem gefunden haben. Die Bedeutung des „Orts“ zeigt sich in 1Chr 13,11; 14,11, sodann in 1Chr 15,1.3, und zwar als Einleitung zu 1Chr 16, hier vor allem V. 27, sodann über das diesbezüglich entscheidende Kapitel 1Chr 21 hinaus bis hin zum Zielvers 2Chr 3,1.<xref ref-type="fn" rid="fn15">15</xref></p>
+    </list-item>
+    <list-item>
+      <p>Sowohl in der Wüste wie nun in Jerusalem sind drittens Gottesdienst und Leben Israels durch die Anweisungen <sc>Jhwh</sc>s geregelt. Der Jerusalemer Tempel ist freilich gewiss kein „Sanctuary of silence“.<xref ref-type="fn" rid="fn16">16</xref> Sein Kult ist vom Wort – auch in der für die Chronik so wichtigen musikalischen Gestalt des „Gesangs“, <italic>šîr,</italic> – begleitet und erfüllt. Nachdem dieses am Sinai Moses mündlich gegeben wurde, wird sich das Geschehen von jetzt an <italic>kakkātûb,</italic> „wie geschrieben, schriftkonform“, realisieren.</p>
+    </list-item>
+  </list>
+  <p>Während also (1.) eine eindeutige Kontinuität zwischen Wüsten- und Davidszeit in dem einig-einzigen <italic>Gott</italic> besteht, dem der Dienst gilt, so leitet David nun andererseits (2.) einen Übergang vom beweglichen <italic>Zelt</italic> zum festen Haus ein. Den Wendepunkt von der früheren Epoche zum neuen Zeitalter beschreibt das Kapitel 1Chr 17. Aus chronistischer Perspektive handelt es sich weniger um ein Entweder-Oder als um eine Übergangssituation, in der Salomo das von Moses überkommene „Zelt“ nach 2Chr 1,3f. in Gibeon aufsucht, während die Lade gleichzeitig in dem ihr von David behelfsmässig errichteten „Zelt“ in Jerusalem aufbewahrt ist. Die Situation ergibt sich dem Chronisten durch die ihm in der Tradition vorliegenden Angaben.<xref ref-type="fn" rid="fn17">17</xref> Davids Plan, <sc>Jhwh</sc> ein Haus zu bauen, erfährt in 1Chr dabei nicht minder eine Absage als in 2Sam 7. Die Zusage, dass <sc>Jhwh</sc> selbst es bauen werde, bekommt aber eine völlig andere Ausrichtung und Zielsetzung. Das „Haus“ ist nicht im übertragenen Sinne das (davididische) Königshaus wie im DtrG, sondern es handelt sich um ein reales Haus. Als „Gottes-Haus“ weist der künftige Tempel zu Jerusalem allerdings übermenschliche, ja überirdische Dimensionen auf, denn der Bau-Herr ist kein anderer als der König und Herr der Schöpfung selber, der von hier aus sein Weltkönigtum über Israel und über die Völkerwelt ausübt.<xref ref-type="fn" rid="fn18">18</xref></p>
+</sec>
+<sec id="moses-in-davids-israel">
+  <label>3</label>
+  <title>Moses in Davids Israel</title>
+  <p>Bei allen damit eintretenden Veränderungen ist der Kult am künftigen Tempel zu Jerusalem keine radikale Neuerung, sondern er geschieht bei allen Unterschieden nach den Standards der alten – als solcher in der Chronik nicht thematisierten – Früh- oder Ursprungszeit, chronistisch gesprochen „gemäss der Tora Moses’“. Moses’ Vermächtnis soll für die mit David anbrechende neue Zeit verwirklicht werden. Moses selber wird in der Chronik 21mal erwähnt, und zwar in unterschiedlicher, aber insgesamt doch konvergierender Perspektive. An erster Stelle ist dabei der genealogische Gesichtspunkt zu nennen. In 1Chr 5,29 und 23,13 wird er dezidiert als Sohn Amrams angeführt, diesbezüglich auf <italic>einer</italic> Generationenebene mit seinem älteren Bruder Aaron und seiner jüngeren Schwester Mirjam. Bereits darin verrät sich der genealogisch interessierte historische Zugang des Chronisten zur Mosesgestalt. Aussagekräftig ist sodann die Näherbestimmung durch den Knecht/<italic>ʿebed</italic>-Titel in 1Chr 6,34; 2Chr 1,3; 24,6.9. Die vier Stellen sind anders gelagert als das Gros der 36 Belege in den – mehrheitlich (nach-) dtr – Stellen des MT, wo <italic>ʿebed</italic> meist den „Gesetzesmittler“ bezeichnet<xref ref-type="fn" rid="fn19">19</xref>. Auf Moses als „Gottesknecht“ gehen in der Chronik die alten Opfer- und weitergehenden Anordnungen zurück (2Chr 1,3; 24,6.9). „Gerade mit Hilfe der Nennung des <italic>ʿebed</italic>-Titels (wird) die Wüstentradition explizit in die Chronikbücher aufgenommen“.<xref ref-type="fn" rid="fn20">20</xref> Hingegen teilt Moses die Bezeichnung „Gottesmann“ (<italic>ʾîš hā-ʾelōhîm</italic>) in 1Chr 23,14f. mit David (2Chr 8,14).</p>
+  <p>Der „Gottesknecht Moses“ beschreibt in den meisten chronistischen Belegen Moses als den, der dem Israel der Wüstenzeit in <sc>Jhwh</sc>s Auftrag die nötigen Anordnungen für sein Leben vor Gott und in der Welt übermittelt hat. In <italic>seiner Person</italic> ist also die sonst in der Chronik nicht behandelte – aber nichtsdestoweniger normative – Exodus- und Sinaizeit gegenwärtig. Moses ist und bleibt die Instanz, die Israel wie seine kultischen Vollzüge geprägt hat und – wie auch immer – prägen wird.</p>
+  <p>Genealogisch und historisch steht Moses auf <italic>einer</italic> Ebene mit seinem älteren Bruder Aaron. Durch das ihm anvertraute Wort erscheint er aber als weisungsbefugt, und zwar auch für die opferdienstlichen – d. h. spezifisch priesterlichen – Belange. Der Gottesdienst, wie David ihn für das neue, auf Dauer erwählte Heiligtum in Jerusalem einrichtet, geschieht „wie geschrieben steht“, das heisst nach der von Moses vermittelten und schriftlich aufgezeichneten Tradition: Die Priestertora ist von der Mosestora ausgegangen.<xref ref-type="fn" rid="fn21">21</xref> Moses empfing die Unterweisung von <sc>Jhwh</sc> und gab sie weiter an jene, die sie ­– als Priester – finden mussten.</p>
+  <p>Die <italic>Institution des Kults</italic> ist dadurch <italic>charismatisch</italic> begründet und eingebettet. Diesbezüglich – und das ist wichtig – zieht die Chronik im Grunde mit ihrer Darstellung der staatlichen Geschichte Israels nur die Linien aus, die bereits in einschlägigen Teilen der – insofern zu Unrecht – als (exklusiv) „priesterlich“ apostrophierten Partien des Pentateuch angelegt sind. Dies zeigt Lev 9-10 nach der eingehenden Analyse von Andreas Ruwe.<xref ref-type="fn" rid="fn22">22</xref> Ihm zufolge formuliert Lev 9-10 als „Kopfstück“ die Gesichtspunkte und Leitlinien des anschliessenden Grossabschnitts in Lev 11ff.<xref ref-type="fn" rid="fn23">23</xref> Dabei ist Aaron der Inbegriff des Priestertums. Der Levit Moses dagegen personifiziert die prophetische – oder charismatische – Tradition mit ihrer Betonung von Themen wie Auszug, Gerechtigkeit usw. Die ihm entgegengebrachte Observanz gewährleistet nach Lev 9-10 die positive Auswirkung des von Israel dargebrachten Kults; Missachtung seiner Anweisungen hingegen führt zu todbringenden Effekten. Was nicht „mosaischer“ bzw. – in der Mosesnachfolge – „levitischer“ Lehre und Verhaltensnorm entspricht, ist demgemäss <italic>zār</italic>. Mit diesem Begriff werden „Elemente im Jerusalemer Kult“ bezeichnet, die als „fremdreligiös“ gelten.<xref ref-type="fn" rid="fn24">24</xref> Den Textpartien liegt demnach an einem „konstitutionell verfassten Priesteramt“, das „kultisch auf Mose bezogen“ ist.<xref ref-type="fn" rid="fn25">25</xref></p>
+  <p>Wie eine solche bereits im Pentateuch angelegte „Konstitutionalisierung des Priesteramts“ dereinst aussehen würde, davon vermittelt die in der Chronik entworfene Geschichte des davidischen Israel ein lebendiges Bild, vorrangig dank der Rolle, die die Leviten in ihr spielen. Wenn es zutrifft, dass „die P-Texte keineswegs die ungezügelte Macht priesterlicher Interessen“ vertreten und vermitteln, sondern in ihrer Weise den „Impuls des Deuteronomiums“ fortsetzen,<xref ref-type="fn" rid="fn26">26</xref> so ist dieses der Hintergrund und die Motivation für das auffällige und immer beobachtete Interesse der Chronik nicht eigentlich an einem besonderen Priestertum, sondern an „den Leviten“ im umfassenden Verständnis.</p>
+</sec>
+<sec id="levi-in-davids-neuem-israel">
+  <label>4</label>
+  <title>Levi in Davids neuem Israel</title>
+  <p>Für die Chronik ist es nicht allein die historisch lange zurückliegende Gestalt des Moses, der mittels seiner Tora für die Kontinuität zwischen dem Gottesdienst am einstigen „Zelt der Übereinkunft“ und dem Gottesdienst am neuen „Haus“ zu Jerusalem bürgt. Sondern dafür steht auch sein Stamm, der Stamm Levi, der durch seinen Umgang mit der Tradition, mit Wort und Gesang und damit der Lehre im allgemeinen Sinne dem davidischen Jerusalem den Stempel aufdrückt. Zusätzlich zu der als „verschriftet“ (<italic>biktāb</italic>) angeführten Referenz steht er für lebendige, mündliche Aktualisierung und Anwendung. Was die „Leviten“ etwa bei dem an sich rein materiellen Bauunternehmen des geplanten und entstehenden Tempels in die Waagschale zu werfen hatten, war der geistige Aspekt. Gerade dieses einzigartige „Haus“ sollte auf der Tora als der umfassenden Bildungs-, Rechts-, Religions- und Lebensgrundlage „Israels“ beruhen. Die Leviten „wachten“ darüber und garantierten durch ihre Existenz, dass schon der Bau wie dann der Kult am Jerusalemer Tempel nicht irgendwie, sondern „gemäss der Tora Moses’“ – des Leviten <italic>par excellence</italic>! – geschah.</p>
+  <p>Der Übergang vom mobilen zum stabilen Heiligtum betrifft – immer laut Chronik – ganz speziell den Stamm Levi. In ihrer Rolle verkörpern die Leviten sozusagen die Kontinuität in der Diskontinuität. Das spiegelt sich in verschiedenen kleineren wie grösseren Eigentümlichkeiten im Aufriss von 1Chr. So eröffnen beispielsweise die Leviten – nicht etwa die <italic>Kohanim</italic> – das Bevölkerungstableau des gegenwärtigen und damit auch künftigen Israel, das David zu Ende seines Lebens Revue passieren lässt (1Chr 23). Ihre prominente Rolle ist aber mit 1Chr 5,27-6,66 bereits in einer Bestandesaufnahme aus früheren Zeiten, in den „Bürgerrechtslisten“ Israels (1Chr 1-8.9), präludiert. Schon hier nimmt Levi – nicht Aaron, nicht die Priesterschaft – eine zentrale Stellung ein: Levi ist die Mitte, das Herz des chronistischen Ganz-Israel. Mit seiner Einordnung und Anordnung Levis geht der Chronist seinen eigenen und neuen Weg. Seine Konzeption unterscheidet sich dabei von den älteren Darstellungen Levis, obwohl diese zum Teil auch die Quellen für 1Chr 6 sind.<xref ref-type="fn" rid="fn27">27</xref> Während nach Num 1,49-53; 26,57-62 und Jos 13-19 Levi gerade nicht „inmitten“ (<italic>bətôk</italic>) Israels, sondern als Grösse <italic>sui generis</italic> berücksichtigt werden soll,<xref ref-type="fn" rid="fn28">28</xref> gehört Levi nach dem chronistischen Konzept im Gegenteil mitten ins zwölfstämmige Israel hinein. Levi wird nicht im Zusammenhang mit Jerusalem, nicht wie in der Priesterschrift zusammen mit dem Heiligtum und dem Kult behandelt, sondern als integraler Teil des Volkes! Levi ist der Chronik zufolge in der Königszeit von David an etwas anderes geworden als wie er in der Priesterschrift erscheint. Aus der besonderen <italic>Zunft</italic> der Kultsachverständigen ist ein ins zwölfteilige Israel eingegliederter <italic>Stamm</italic> geworden. Für den Chronisten ist Levi <italic>eine,</italic> ja <italic>die</italic> Funktion Israels, Levi verkörpert Israel <italic>at its best,</italic> und umgekehrt ist <italic>Israel</italic> Levis Volk.<xref ref-type="fn" rid="fn29">29</xref></p>
+  <p>Die hier berührten Vergleichs- bzw. Quelltexte entstammen <italic>dem Pentateuch</italic>. Leviten kommen zwar auch in Esr-Neh vor. Aber nur der Pentateuch und die Chronik bemühen sich, je auf eigene Weise, die zweifellos lange zurückreichende Geschichte der Leviten und ihrer Funktion systematisch einzuordnen, und einzig die Chronik gewährt den alten Überlieferungen schon in den Bürgerrechtslisten Raum und sucht sie nun für die Darstellung der <italic>staatlichen</italic> Geschichte Israels fruchtbar zu machen. Gerade darin erweist sich der Chronist als umsichtiger Historiograph, der aus den alten Nachrichten als Quellen schöpft und die einschlägigen Texte neu zu lesen und zu exegesieren weiss, um sein Tableau über David und die Davidszeit zu entwerfen.</p>
+  <p>Die chronistische Auffassung von Levi hängt dabei mit dem alten, vorexilischen <italic>Stand</italic> Levi nur indirekt zusammen.<xref ref-type="fn" rid="fn30">30</xref> Für die Leviten der Vor- und Frühzeit existieren nur ganz wenige aussagekräftige Nachrichten, und man wird J. Jeon nur zustimmen können, wenn er resümiert, dass „no consensus has yet been made among critics concerning the date and origin of the Levites or Levitical priesthood“.<xref ref-type="fn" rid="fn31">31</xref></p>
+  <p>Mit der realen Situation und Funktion von Leviten im Betrieb des zweiten Tempels ist das chronistische Bild kaum deckungsgleich. Was einst zu den hervorragendsten charismatischen Phänomenen nordisraelitischen religiösen Lebens gehört hatte, war durch die Entwicklung der Umstände dreifach bis ins Mark ihrer Existenz getroffen. Israel, das Nordreich, hatte als selbständiges Gemeinwesen aufgehört zu existieren. Im Süden liefen die Reformmassnahmen Josias auf eine Stärkung der Priesterschaft Jerusalems hinaus. Zu ihr gehörte dann auch der von Haggaj und Sacharja erwähnte Seniorpriester Josua b. Jozadak, mit dem sich der Wiederaufbau des Heiligtums verbindet. Leviten erscheinen hier und auf lange Zeit überhaupt nicht auf der Bildfläche.<xref ref-type="fn" rid="fn32">32</xref> Das Levitentum war keine <italic>condicio sine qua non</italic> für die Ausübung der priesterlichen Funktionen. Der Jerusalemer Klerus war eine lokale Priesterschaft unter Hunderten anderer im weiten achämenidischen Reich. Sollte er „israelitisch“ im Sinne der Konformität mit Tradition und Schrift sein, dann konnte und durfte er aber auf das levitische Element nicht verzichten.</p>
+  <p>Das Zeugnis des Maleachibuches verrät manches von dieser Spannung zwischen Realität und Norm, zwischen gegenwärtiger Wirklichkeit und altehrwürdigem Ideal, zwischen Praxis und – vielleicht auch hier weitgehend schriftlicher – Tradition. Eine sorgfältige syntaktische Untersuchung kommt zu dem Schluss: „While the Book of Malachi equates the function of <italic>kohen</italic> and <italic>lewî/benê-lewî</italic> the book offers no contextual ground by which to explain this equation.“<xref ref-type="fn" rid="fn33">33</xref> Ein Stamm wie die anderen Stämme zu sein, setzte familiäre, ortsbürgerliche, landschaftliche, territoriale Bindungen voraus. Und genau diese fehlten dem charismatischen und oft auch nomadisierenden Levitentum der Frühzeit – sein „Anteil“ war <sc>Jhwh</sc>, wie es die alte Levitenregel Ex 32,29 im Positiven wie im Negativen festhält: „Da sprach Moses: Füllt heute eure Hände zum Dienst für den <sc>Herr</sc>n – denn ein jeder ist wider seinen Sohn und Bruder gewesen –, damit euch heute Segen gegeben werde“ (Vgl. auch den Levi-Segen in Dtn 33,8).</p>
+  <p>Wenn also, wohl im ausgehenden 5. Jahrhundert v. Chr., die chronistische Darstellung der Geschichte Israels von David an die Leviten als eine Art „Stamm der Stämme“ Israels behandelt, so hängt das mit der Eigenart der chronistischer Historiographie zusammen. Nicht eine weitgehende hypothetische Gesamtdarstellung im Sinne eines DtrG ist für die Chronik bei ihrem Geschichtsentwurf massgebend, sondern – und das ist etwas durchaus Anderes – die in ihm aufbewahrten und von ihm tradierten Überlieferungen und Materialien. Entscheidend ist, dass es sich bei dem, was heute als „deuteronomistisches Geschichtswerk“ firmiert und diskutiert wird, aus chronistischer Sicht um ein <italic>Florilegium</italic> diverser Quellen und Nachrichten aus der Feder von <italic>Propheten</italic> unterschiedlicher Epochen und Regionen handelt.</p>
+  <p>Diese auch literarisch fassbare Hochschätzung der Boten Gottes (2Chr 36,15f.)<xref ref-type="fn" rid="fn34">34</xref> macht es von vornherein unwahrscheinlich, dass entsprechende Überlieferungen und Äusserungen aus einer der behandelten Zeit vorangehenden Epoche einfach übergangen, ja gezielt verdrängt sein sollten. Auch wenn sie nicht als prophetisch anzusprechen sind, so haben sie eigentlich nicht weniger, sondern im Grunde <italic>noch mehr</italic> Anspruch auf Autorität und Gültigkeit. Was <italic>Moses</italic> in seiner ihm aufgetragenen Tätigkeit und Tora, was <italic>Aaron</italic> in seiner Einrichtung des Kults einst gebracht haben und für Israel auf Dauer bedeuten, ist und bleibt nicht nur unvergleichlich, sondern elementar.</p>
+  <p>Diese bleibende Gültigkeit bringt es mit sich, dass die – nach moderner Nomenklatur ­– pentateuchische Überlieferung mit ihren so vielfältigen Facetten (den sogenannten vor- wie nachexilischen „Quellenschriften“) eine besondere Qualität aufweist, <italic>last but not least</italic> für die Chronik, die sich zwar explizit überhaupt nicht mit diesen Zeiten und Dingen befasst, implizit dagegen umso mehr auf sie bezogen bleibt.<xref ref-type="fn" rid="fn35">35</xref> Gerade weil der Pentateuch die <italic>Grundlagen</italic> der Entstehung und Entwicklung des Israel der zwölf Stämme dokumentiert, sieht sich der Chronist <italic>als Historiker</italic> vor die Frage gestellt, <italic>wie</italic> diese Grundlagen bewahrt und im Laufe der Geschichte von Fall zu Fall neu realisiert werden, wenn sich die Voraussetzungen ändern.<xref ref-type="fn" rid="fn36">36</xref> Der Chronist musste mit dem Kern des Pentateuchs in seiner Letztfassung davon ausgehen, dass die „Stiftshütte“, das „Zelt der Übereinkunft/Begegnung“, die Mitte nicht bloss des kultischen Geschehens, sondern des Lebens der Israelstämme insgesamt bildete. Denn sie barg die Lade, das Unterpfand der Gottesgegenwart und -gemeinschaft. Dann erhob sich folgerichtig die Frage: Inwiefern ist der Jerusalemer Tempel noch das alte Heiligtum, und inwiefern ist er es nicht? Was ist aus dem reich ausgebauten Gottesdienst in der Wüste und mit denen, die ihn verantworteten und ausführten, eigentlich geworden?<xref ref-type="fn" rid="fn37">37</xref></p>
+  <p>Die Transformation, die damit eingetreten ist, steht dem Chronisten vor Augen. In einprägsamer Bildhaftigkeit macht er sie an einer ganz bestimmten Stelle, anhand des Wandels in der Funktion der Leviten, dingfest. Früher hatten sie nach Dtn 10,8 rein physisch die Aufgabe, die Lade zu tragen, wie die Erzählung von der Überführung der Lade in 1Chr 15,2.15.26f. einschärft. Nun aber, da diese ihren festen Platz gefunden hat, sind die Leviten mit der <italic>Überlieferung</italic> und dem <italic>Wort</italic> betraut, sollen die <italic>Tora</italic> anwenden und die <italic>Schrift</italic> auslegen. In bemerkenswert gegensätzlich-paralleler Formulierung zu 1Chr 15,2 hält aber nun David am Ende seines Lebens als Vermächtnis fest: „<sup>25</sup>Denn David sagte: <sc>Jhwh</sc>, der Gott Israels, hat seinem Volk Ruhe verschafft und in Jerusalem Wohnung genommen auf Weltzeit. <sup>26</sup>So haben auch die Leviten nicht mehr das Wohngemach und all seine Geräte zu seinem Dienst zu tragen. <sup>27</sup>Aber tatsächlich sind sie in den letzten anordnenden Worten Davids (da, und zwar) als Zahl der Leviten im Alter von zwanzig Jahren und darüber, <sup>28</sup>denn ihre Stellung ist [nun] an der Seite der Söhne Aarons, zum Dienst am Hause <sc>Jhwh</sc>s […]“ Diese „Wahrung“ der Tradition, von der 1Chr 23 abschliessend mit Verwendung der hebr. Wurzel <italic>šmr</italic> spricht (V. 32), stellt die Fortführung der alten Levitenobliegenheiten unter den neuen Bedingungen des festen Heiligtums dar. Sie weitet die physischen Verrichtungen der Leviten aus, indem sie sie vergeistigt zu ihrer Handhabung des Wortes, der Tora, ja der Schrift.<xref ref-type="fn" rid="fn38">38</xref> Aus dem <italic>Stand</italic> der charismatisch inspirierten Aussenseiter ist in der Chronik vermittels kreativer Auslegung<xref ref-type="fn" rid="fn39">39</xref> der <italic>Stamm</italic> Levi geworden, dem der grundsätzlich gleiche Auftrag obliegt, jetzt freilich als Herz des Zwölfstämmevolks.</p>
+  <p>Die Leviten, an ihrer Spitze Moses, „wachen“ demnach darüber, dass der Kult am zu bauenden Heiligtum nach der Israel anvertrauten Art geschieht, wie sie Moses von Gott zuhanden Israels übergeben wurde und als Schrift vorliegt. Der jeweilige Sachverhalt geschieht konform zu dem, was „geschrieben“ ist.</p>
+  <p>Die chronistischen Schriftkonformitätsklauseln (nicht Zitationsformeln!) betonen die Selbigkeit der Autorisierung, die Identitätsstiftung zwischen der grundlegenden Offenbarung von einst und ihrer Realisierung von jetzt, wie sie in der Chronik auf David zurückgeführt wird.<xref ref-type="fn" rid="fn40">40</xref> Im Rückgang auf Moses betont die Chronik (wie in seiner Weise auch das Buch Esr-Neh), diese oder jene Massnahme sei nicht zufällig oder arbiträr nach menschlichem Gutdünken vollzogen worden, sondern sei geschehen <italic>kakkātûb,</italic> „wie geschrieben“ – nämlich nieder„geschrieben“ und somit vor„geschrieben“ – steht. Das betonen 1Chr 16,40; 28,19; 2Chr 23,18; 30,5.18; 31,3; 35,4.12.26; in etwas anderer Weise auch 1Chr 24,6. Die Ausdrucksweise wird variiert:</p>
+  <list list-type="order">
+    <list-item>
+      <p>in der Formulierung „nach (dem Buch, der Verschriftung) der Weisung <sc>Jhwh</sc>s durch Moses“: 2Chr 23,18; 2Chr 25,4 (zit. Dtn 24,16); 30,16; ähnlich 33,8; dann 34,14 und 35,12;</p>
+    </list-item>
+    <list-item>
+      <p>mit der Betonung „ganz wie Moses […] geboten hat“: 1Chr 6,34; 15,15; etwas modifiziert 22,13 und 2Chr 25,4;</p>
+    </list-item>
+    <list-item>
+      <p>schliesslich auf der Ebene der Ausführung (nicht der Übermittlung und daher ohne Bezug auf Moses) „nach dem Gebot/der Regelung/der Vorschrift Davids (und Salomos)“, aber auch „des Königs (sc. Hiskia oder Josia)“: „Nach dem Gebot (<italic>miṣwȃ</italic>)“: Neh 11,23; 12,24.45; 2Chr 8,13.14 (mit <italic>mišpāṭ</italic>).15; 29,15 (mit <italic>dibrē <sc>Jhwh</sc></italic>).25bis; 30,12 (mit <italic>dəbar <sc>Jhwh</sc></italic>); 35,10.15.16. – Entsprechend begegnet die Verbalwurzel <italic>ṣwh</italic>: Esr 4,3; Neh 8,1.14; 1Chr 6,34; 15,15; 16,40; 22,6; 24,19 (neben <italic>mišpāṭ</italic>; 2Chr 25,4 // 2Kön 14,6. – „Nach der Regelung (<italic>mišpāṭ</italic>)“: Esr 3,4; Neh 8,18; 1Chr 6,17; 15,13 (mit <italic>drš</italic>); 23,31; 24,19 (neben <italic>ṣwh</italic> pi.); 2Chr 4,7.20; 8,14 (neben <italic>miṣwȃ</italic>); 30,16 (neben <italic>tôrȃ</italic>); 35,13. – „Nach der (Vor-)Schrift (<italic>kətāb</italic>)“: 1Chr 28,19; 2Chr 2,10; 35,4. Das aramaisierende Substantiv <italic>kətāb</italic> begegnet weitaus am häufigsten im Buch Esth.</p>
+    </list-item>
+  </list>
+  <p>Die Verschriftlichung der dem Moses mündlich erteilten Tora ist sozusagen die technische Seite der Sache. Davids Vorbereitungen für Heiligtum und Kult hängen aber mit der Grundgeschichte der Wüstenzeit nicht nur dadurch zusammen, dass sie über die schriftliche Fassung mit dem göttlichen Wort zusammenstimmen, sondern auch dadurch, dass nun in der Linie des Moses auch sein Stamm für dessen Geltung bürgt. Die Personalisierung durch Levi begleitet und schützt sozusagen die Schriftwerdung der Tradition.</p>
+</sec>
+<sec id="grundgeschichte-und-chronik-nach-chronistischem-selbstverständnis">
+  <label>5</label>
+  <title>„Grundgeschichte“ und Chronik nach chronistischem Selbstverständnis</title>
+  <p>Von diesen Voraussetzungen her gestaltet der Chronist seine Geschichtserzählung. Weil er die Zeit des Tempels als eine von der Väter- und Exoduszeit grundsätzlich unterschiedene kennt und beschreibt, sieht er sich vor die Aufgabe gestellt, dem fundamentalen Übergang, der sich mit David vollzieht, und dem Altüberlieferten, das da <italic>neu</italic> wird, nachzuspüren. Das historische Bewusstsein für den Bruch der Zeiten – der im DtrG so nicht existiert – macht es möglich und nötig, eine neue Darstellung der Geschichte zu schreiben.</p>
+  <p>Die alten Überlieferungen zur Schöpfung und den Vätern, zum Exodus und zur Wüstenzeit in ihrer ganzen Vielschichtigkeit haben nicht erst die moderne Forschung angezogen und irritiert. Das zeigt sich schon am Spektrum ihrer althergebrachten Bezeichnungen: Rein technisch ist von <italic>Bərēšȋt, Šəmȏt</italic> usw., nach der Überlieferungsform von <italic>hakkatub,</italic> dem „schriftlich Festgehaltenen“ oder ebenso allgemein von <italic>sēfer,</italic> „Verschriftung“ die Rede, die nach dem Übermittler als <italic>sēfer Mȏše,</italic> nach der Gattung als <italic>sēfer Tȏrȃ,</italic> präzisiert wird,<xref ref-type="fn" rid="fn41">41</xref> die sich später zum <italic>Pentateuch</italic> als dem Fünf-<italic>Buch</italic> zusammenfassen lassen.</p>
+  <p>Auch der Chronik sind diese Überlieferungen, paradoxerweise gerade weil sie <italic>nicht</italic> ihr Thema sind, alles andere als eine bedeutungslose Nebensache. Im Gegenteil: Dank der chronistischen Historiographie und ihrer Anlage gewinnen sie eine ganz neue Qualität. Sie bilden die unabdingbare Voraussetzung, die Basis und den Hintergrund für die mit David anhebende Geschichte Israels im Zeitalter des Ersten Tempels, gerade dort, wo es um ihre <italic>Transformation</italic> geht. Für die <italic>Geschichte,</italic> die nach der Chronik mit David neu beginnt, sind jene nicht thematisierten, wohl aber selbstverständlich vorausgesetzten Traditionskomplexe sozusagen das narrative Grundwissen im Sinne einer Grundgeschichte.<xref ref-type="fn" rid="fn42">42</xref></p>
+  <p>Der Ausdruck <italic>Grundgeschichte</italic> ist als solcher nicht neu. Wenn er auch in der neueren alttestamentlichen Wissenschaft, vorab in ihrer Form- und Literaturgeschichte, u.W. bislang nicht angewendet wurde, so belegte er doch seinen Platz im werdenden historischen Denken der Barockzeit und vor allem dann in der beginnenden universalgeschichtlichen Betrachtungsweise des 19. Jahrhunderts, anders ausgedrückt im Umfeld der Untersuchungen Wilhelm Martin Leberecht de Wettes oder Heinrich Grafs und im Vorfeld der darauf aufbauenden Entwürfe Julius Wellhausens. So spricht etwa der christliche Kabbalist Christian Knorr von Rosenroth (1631-1689) im Blick auf Ri 11: „Die Grundgeschichte von des Jephtha Tochter lautet […]“<xref ref-type="fn" rid="fn43">43</xref>– Bei Ernst Moritz Arndt bezeichnet der Begriff „das Unmittelbare und Ursprüngliche, was als <italic>Grundgeschichte des Lebens der Völker</italic> in der Fabel und dem Mythos liegt“.<xref ref-type="fn" rid="fn44">44</xref> – Nach Friedrich Schlegel in seiner <italic>Philosophie der Geschichte</italic> haben „die tieferen Forschungen […] wiederholt hingewiesen“ auf „diese <italic>Grundgeschichte</italic> […] der Griechen.“<xref ref-type="fn" rid="fn45">45</xref></p>
+  <p>Der Begriff der <italic>Grundgeschichte</italic> in diesem umfassenden Sinne trägt der Tatsache Rechnung, dass <italic>tȏrȃ</italic> als Bezeichnung für den umfassenden Inhalt des Pentateuchs auch einen historischen Aspekt aufweist, wie er dem Chronisten bei seiner Geschichtsschreibung vorschwebte.</p>
+  <p>Grundgeschichte ist dabei etwas anderes als eine Gründungs- oder eine blosse Vorgeschichte, die die Voraussetzungen für das, was danach kommt, klärt, selber aber abgetan und vergangen und insofern bedeutungslos ist. Die Grundgeschichte, das, was in ihr „aufgeschrieben“ ist, bildet vielmehr die Referenz, den Massstab für die neue, anders gelagerte Zeit, die der Chronist in seinem Werk beschreibt: jene des – in diesem Falle – Ersten Tempels, des davidisch-salomonischen Jerusalemer Heiligtums, in dem das einstige mobile Ladeheiligtum sein Ziel und Ende gefunden hat und den Anspruch erhebt, als Residenz des Weltreichskönigs zu dienen.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+  <fn id="fn1">
+    <p>So Martin Noths Konzept in den 1943 erschienenen, inzwischen aber diesbezüglich weitgehend in Frage gestellten <italic>Überlieferungsgeschichtlichen Studien I,</italic> wonach es sich um ein ursprünglich selbständiges Geschichtswerk mit dem Dtn als programmatischer Einleitung gehandelt hätte. Vgl. die Diskussion bei Dietrich, <italic>Martin Noth,</italic> 181–98.</p>
+  </fn>
+  <fn id="fn2">
+    <p>Japhet, „Conquest and Settlement in Chronicles“, 39 und 50–51; sehr pointiert hier: „The story of the exodus is not told in Chronicles and […] even the references to the exodus […] are often omitted in the parallel texts in Chronicles.“</p>
+  </fn>
+  <fn id="fn3">
+    <p>Wellhausen, <italic>Prolegomena,</italic> 165. Allerdings erscheint dann auf S. 172, als „Zweck“ der Chronik zutreffender „David als Stifter des jerusalemischen Gottesdienstes“.</p>
+  </fn>
+  <fn id="fn4">
+    <p>Wellhausen, <italic>Prolegomena,</italic> VII.</p>
+  </fn>
+  <fn id="fn5">
+    <p>Instruktiv sind die Belegstellen für das dem Substantiv νεωτεροποιία, „Innovation“, das schlicht „Revolution“ oder „Umsturzgeist“ heisst, zugrundeliegende Verb νεωτερίζειν (mit Derivaten) „Neuerungen einführen“, dem in der klassischen Gräzität nahezu stets ein Element des Aufruhrs, der Insubordination, der Gewalttätigkeit, der Revolution innewohnt. Vgl. Liddell, Scott, Jones, <italic>Greek-English Lexicon,</italic> 1172b: „use forcible measures“, „take the law into one’s own hands“, „attempt political changes, make revolutionary movements“, „attempt to change; esp. in bad sense“.</p>
+  </fn>
+  <fn id="fn6">
+    <p>In diesem Zusammenhang kann übrigens, ganz im Gegensatz zu neueren Fehldeutungen, ein „<italic>Altes</italic> Testament“ nur ein Ehrentitel sein!</p>
+  </fn>
+  <fn id="fn7">
+    <p>Wellhausen, <italic>Prolegomena,</italic> 166.</p>
+  </fn>
+  <fn id="fn8">
+    <p>Wellhausen, <italic>Prolegomena,</italic> 404.</p>
+  </fn>
+  <fn id="fn9">
+    <p>Die so berufene „mosaische Theokratie“ gilt dabei als „unpolitisches Kunstprodukt“, s. Wellhausen, <italic>Prolegomena,</italic> 421.</p>
+  </fn>
+  <fn id="fn10">
+    <p>„Theokratie als Verfassung ist Hierokratie“, Wellhausen, <italic>Prolegomena,</italic> 420.</p>
+  </fn>
+  <fn id="fn11">
+    <p>Dazu unten Ende Abschnitt 4.</p>
+  </fn>
+  <fn id="fn12">
+    <p>bShab 88a u. ö.</p>
+  </fn>
+  <fn id="fn13">
+    <p>Wellhausen, <italic>Prolegomena,</italic> 292.</p>
+  </fn>
+  <fn id="fn14">
+    <p>Dabei trat die Chronik hauptsächlich als störendes Hindernis in den Weg, das es zunächst zu eliminieren galt! Besonders argwöhnisch wurden dabei die Inhalte beäugt, die dem Chronisten am Herzen lagen und die Israel aus seinem Gottesverhältnis heraus neu bestimmen sollten. Für eine unparteiische Würdigung der Darstellung des Kults in der Chronik war das Jahrhundert, das sich dem Kulturkampf und der Frontstellung gegen den „Ultramontanismus“ verschrieben hatte, kaum disponiert. Vgl. die Zusammenstellung von „mosaischer Verfassung“ und „Römischer Hierarchie“ als paralleler Gegenbilder zu der „ungemeinen Frische und Natürlichkeit“ einer lebendigen Geschichtsauffassung bei Wellhausen, <italic>Prolegomena,</italic> 410.</p>
+  </fn>
+  <fn id="fn15">
+    <p>Dazu Willi, „Suche nach dem Ort“, <sc>183–92.</sc></p>
+  </fn>
+  <fn id="fn16">
+    <p>Kaufmann, <italic>History,</italic> 2:477–78.; vgl. dazu Knohl, <italic>Sanctuary of Silence,</italic> 148–52.</p>
+  </fn>
+  <fn id="fn17">
+    <p>Zur Doppelheit des – mosaischen – Zelts in Gibeon und dem Zelt, in dem David die Lade in Jerusalem unterbrachte, s. Knoppers, „Hierodules, Priests, or Janitors?“, 61; Jeon, „Priestly Tent of Meeting“, 1–15.</p>
+  </fn>
+  <fn id="fn18">
+    <p>Dazu Lynch, <italic>Monotheism,</italic> 72–136 mit 2Chr 2,4 als chronistischer Schlüsselstelle: „Und das Haus, das ich nun baue, ist gross, denn gross ist unser Gott, mehr als alle Götter“, die Lynch im Sinne einer „vertical, or categorical, distinctiveness“ zwischen Gott und Tempel versteht (131), wonach dem Chronisten zufolge „Humans could not add anything to all that Yhwh owned“ (112), so dass der Tempel im eigentlichen Sinne allein auf Gott „as creator“ zurückgeht: „The temple was not […] the ‹Solomonic‹ temple“, vielmehr „Yhwh initiated its construction, and provides Solomon with wisdom […]“ (114, vgl. 117).</p>
+  </fn>
+  <fn id="fn19">
+    <p>Dörrfuss, <italic>Mose,</italic> 217. Die Beobachtungen, die Ernst Michael Dörrfuss in seiner so betitelten Untersuchung beibringt, sind sorgfältig zu erwägen, gerade wenn man seine Ansicht, dass Moses „ausschliesslich in sekundären Texteinheiten“ vorkomme und insofern „Mose […] für den Chronisten bedeutungslos“ sei (277), nicht – mehr – teilt. – Jiang, „God’s Law and Theocracy“, der ebenfalls auf Dörrfuss verweist, lässt dessen redaktionsgeschichtliche Verortung der chronistischen Moses-Texte S. 457, Anm. 53 vorsichtigerweise offen.</p>
+  </fn>
+  <fn id="fn20">
+    <p>Dörrfuss, <italic>Mose,</italic> 217.</p>
+  </fn>
+  <fn id="fn21">
+    <p>Vgl. zu diesem, „priesterliche“ <italic>Tora</italic> und „prophetisches“ <italic><sc>Jhwh-</sc>Wort</italic> einenden, Konzept Mi 4,2b, aufgenommen in Jes 2,3b.</p>
+  </fn>
+  <fn id="fn22">
+    <p>Ruwe, „Reden und Verstummen Aarons“, 169–96. – Es spielt dabei eine untergeordnete Rolle, ob man mit Knohl, <italic>Sanctuary of Silence</italic> passim, beziehungsweise mit Milgrom, <italic>Leviticus 17–22</italic> zwischen Teilen einer älteren „Priestly Torah“ und einer jüngern „Holiness School“ (Milgrom 1319 spricht von „H interpolations within the P complex“) differenziert, obwohl die Ausgangsposition der Chronik eher der letzteren entspricht.</p>
+  </fn>
+  <fn id="fn23">
+    <p>Ruwe, „Reden und Verstummen Aarons“, 176. – Vgl. zum Verhältnis pentateuchischer Stoffe zur Chronik auch die jüngst erschienene ausführliche Studie von Maskow, <italic>Tora in der Chronik,</italic> in der an den einschlägigen Texten der Chronik „danach gefragt [wird], auf welche Weise die Chronik die Tora rezipiert hat“ (51).</p>
+  </fn>
+  <fn id="fn24">
+    <p>Ruwe, „Reden und Verstummen Aarons“, 181–82 mit Anm. 42.</p>
+  </fn>
+  <fn id="fn25">
+    <p>Ruwe, „Reden und Verstummen Aarons“, 186.</p>
+  </fn>
+  <fn id="fn26">
+    <p>Ruwe, „Reden und Verstummen Aarons“, 193. – Schon Knoppers, „Hierodules, Priests, or Janitors?“, 69 spricht, speziell im Blick auf die Chronik, von „a false and misleading dichotomy“ zwischen Priestern und Leviten.</p>
+  </fn>
+  <fn id="fn27">
+    <p>Am ehesten liesse sich 1Chr 6 noch mit <italic>Ex 6,14–27</italic> vergleichen, wo die levitischen Sippen an die Familienhäupter Rubens und Simeons angeschlossen werden, allerdings nicht als deren Mittelpunkt, sondern mit Achtergewicht auf Moses und Aaron.</p>
+  </fn>
+  <fn id="fn28">
+    <p><italic>Num 1,49–53</italic> trennt Levi ausdrücklich vom übrigen Israel; nicht anders <italic>Num 3</italic> als Nachtrag zur Ordnung der Israelstämme von Num 2. <italic>Num 26,57–62</italic> ist ein Sonderanhang zu den bereits komplett aufgezählten Sippen der Israelstämme, und in <italic>Jos 13–19</italic> fehlt Levi überhaupt und wird deshalb in <italic>Jos 21</italic> separat abgehandelt. Ganz anders <italic>1Chr 6</italic> und schliesslich erst recht <italic>1Chr 23,6–24,31</italic> im Rahmen des in 1Chr 23–27 geschilderten davidischen Israel – kein Mensch käme hier auf den Gedanken, mit Num 1,49 oder 2,33 zu behaupten, dass Levi „nicht unter die Israeliten zu zählen“ sei.</p>
+  </fn>
+  <fn id="fn29">
+    <p>Dass dadurch eine auf die geschichtliche Ebene herabgebrochene Verbindung zu dem Konzept des „priesterlichen“ Textes Num 3,11–13 vorliegt, nach dem die Leviten die Stelle der „ausgelösten“ erstgeborenen Israeliten einnehmen, ist nicht zu verkennen.</p>
+  </fn>
+  <fn id="fn30">
+    <p>Zum Folgenden vgl. einführend und begleitend Willi, „Leviten, Priester und Kult“, 89–95, sowie zusammenfassend Willi, <italic>Chronik: BK XXIV/1,</italic> 204–6.</p>
+  </fn>
+  <fn id="fn31">
+    <p>Jeon, „ Levites“, 339.</p>
+  </fn>
+  <fn id="fn32">
+    <p>Signifikant für die Zurücksetzung der Angehörigen levitischer Gruppen und Familien ist die Evidenz aus dem 6. Jahrhundert in Ez 44 und aus der Mitte des 5. Jahrhunderts in Esr 8. – Esra ist sich nach diesem Kapitel der Bedeutung des levitischen Elements für das neue Jerusalem insofern bewusst, als er die Karawane nicht aufbrechen lässt, bis er ein – wenn auch höchst bescheidenes – Kontingent von rückkehrwilligen Leviten beisammen hat. Die Zeiten waren längst vergangen, wo jemand wie in Ri 18,3f. qua Levit und dank seiner Vertrautheit mit Überlieferung und Gesang zum Priesterdienst qualifiziert war. Gewiss mochte es einzelne Priester geben, die sich der levitischen Tradition verpflichtet wussten.</p>
+  </fn>
+  <fn id="fn33">
+    <p>O’Brien, <italic>Priest and Levite,</italic> 47, wo auch verschiedene Versuche zur Lösung des Problems genannt sind.</p>
+  </fn>
+  <fn id="fn34">
+    <p>Vgl. Willi, <italic>Chronik als Auslegung,</italic> 216–41.</p>
+  </fn>
+  <fn id="fn35">
+    <p>Auch die pentateuchischen Überlieferungen sind für den Chronisten nicht als – gar im Skopus unterschiedene – Konzepte im Sinne von „Quellenschriften“ von Belang, sondern als Erzählungen und Anweisungen aus Israels Frühzeit. Was etwa seine Haltung gegenüber „deuteronomistischer“ <italic>versus</italic> „priesterlicher“ Traditionen angeht, so wird man mit Knoppers, „Hierodules, Priests, or Janitors?“, 68 sagen müssen: „The Chronicler is heir to and interpreter of both traditions.“</p>
+  </fn>
+  <fn id="fn36">
+    <p>Daher ist der an die Chronik gerichtete Vorwurf, sie beschreibe ihr Israel nach dem Bild des Pentateuchs, besonders in seiner insgesamt „priesterschriftlich“ gestalteten Endfassung (vgl. oben bei Anm. 5) weithin unbegründet.</p>
+  </fn>
+  <fn id="fn37">
+    <p>Explizit stellt sich der Chronist dieser Frage in 2Chr 1,3–4.</p>
+  </fn>
+  <fn id="fn38">
+    <p>Vgl. den Versuch von Gertner, „Masorah and Levites“, 242–72, das frühjüdische Levitenamt über einen Rückschluss von den mittelalterlichen Masoreten auf die persisch-hellenistischen Verhältnisse zu bestimmen und in den „medieval masoretic masters“ geradezu ein „revival […] of the earlier, pre-talmudic, ideals“ zu erkennen (242).</p>
+  </fn>
+  <fn id="fn39">
+    <p>Nicht anders werden auch die Texte von Qumran ihr Bild von den Leviten mittels einer „simply text-centered creative exegesis“ entwerfen. Vgl. Samuel, „Levites“, 348.</p>
+  </fn>
+  <fn id="fn40">
+    <p>Dazu Willi, „Kakkatuv“, 51–54.</p>
+  </fn>
+  <fn id="fn41">
+    <p>Zur Vorprägung dieser beiden letztgenannten Begriffe in der chronistischen Verwendung von <italic>tōrat <sc>Jhwh</sc></italic> gegenüber <italic>tôrat Moše</italic> vgl. die oben in Anm. 19 erwähnte Untersuchung von Jiang, „God’s Law and Theocracy“, 444–58, die Willi, „Tora in den biblischen Chronikbüchern“, 102–5.148–51 aufgreift und weiterführt.</p>
+  </fn>
+  <fn id="fn42">
+    <p>Maskow, <italic>Tora in der Chronik</italic> (s. oben Anm. 23) nimmt die Kehrseite in den Blick und bezeichnet pointiert die Chronik als „auch eine Fortsetzung der Tora mit literarischen Mitteln“ (550).</p>
+  </fn>
+  <fn id="fn43">
+    <p>Vgl. Knorr von Rosenroth, <italic>Pseudodoxia,</italic> 820 im Blick auf Ri 11: „Die Grundgeschichte von des Jephtha Tochter lautet […]“</p>
+  </fn>
+  <fn id="fn44">
+    <p>Arndt, <italic>Schriften,</italic> 4:305.</p>
+  </fn>
+  <fn id="fn45">
+    <p>Schlegel, <italic>Philosophie der Geschichte 1,</italic> 223.</p>
+  </fn>
+</fn-group>
+<ref-list>
+<title>Literatur</title>
+<ref>
+<mixed-citation>
+Arndt, Ernst Moritz. <italic>Schriften für und an seine lieben Deutschen,</italic> Bd. 1–4, Berlin: Weidmann, 1855.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Dietrich, Walter. „Martin Noth und die Zukunft des deuteronomistischen Geschichtswerkes“. In <italic>Von David zu den Deuteronomisten. Studien zu den Geschichtsüberlieferungen des Alten Testaments,</italic> von Walter Dietrich, 181–98. BWANT 156. Stuttgart: Kohlhammer, 2002.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Dörrfuss, Ernst Michael. <italic>Mose in den Chronikbüchern: Garant theokratischer Zukunftserwartung</italic>: Beihefte zur Zeitschrift für die Alttestamentliche Wissenschaft 219. Berlin: de Gruyter, 1994.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Gertner, Menachem. „Masorah and Levites: An Essay in the History of a Concept“. Vetus Testamentum 10 (1960): 242–72.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Japhet, Sara. „Conquest and Settlement in Chronicles“. In <italic>From The Rivers of Babylon to the Highlands of Judah,</italic> von Sara Japhet, 38–52. Winona Lake: Eisenbrauns, 2006.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Jeon, Jaeyoung. „The Priestly Tent of Meeting in Chronicles: Pro-Priestly or Anti-Priestly?“. <italic>Journal of Hebrew Scriptures</italic> 18 (2018): Art. 7, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10:5508/jhs.2018.v18.a7">https://doi.org/10:5508/jhs.2018.v18.a7</ext-link>.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. Art. „Levites: I. Hebrew Bible/Old Testament“, In <italic>Encyclopedia of the Bible and Its Reception</italic> 16 (2018): 336–46.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Jiang, Shuai. „God’s Law and Theocracy: The Use of ‚<sc>Yhwh’</sc>s Torah‘ in Chronicles“. <italic>Zeitschrift für die Alttestamentliche Wissenschaft</italic> 131, H. 3 (2019): 444–58.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Kaufmann, Yehezkel. <italic>History of the religion of Israel,</italic> Bd. 2. Jerusalem: Hebrew University, 1977.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Knohl, Israel. <italic>The sanctuary of silence: The priestly torah and the holiness school</italic>. Minneapolis: Fortress Press, 1995, repr. 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Knoppers, Gary N. „Hierodules, Priests, or Janitors? The Levites in Chronicles and the History of the Israelite Priesthood“. <italic>Journal of Biblical Literature</italic> 118 (1999): 49–72.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Knorr von Rosenroth, Christian (Pseudonym dt. Rautner, lat. Peganius). Des vortrefflichen Engelländers Thomae Brown … Psevdodoxia Epidemica. Das ist Untersuchung derer Irrthümer, so bey dem gemeinen Mann … im Schwange gehen: In Sieben Büchern … und dann ferner in denen übrigen sechs Büchern von den Irrthümern, die Mineralien, Gewächse, Thiere … betreffend. Aus dem Englischen und Lateinischen übersetzt durch Christian Peganium, in Teutsch Rautner genannt. Frankfurt am Main, 1680.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Liddell, Henry George, Robert Scott und Henry Stuart Jones. <italic>A Greek-English Lexicon</italic>. 9. Aufl. Oxford: Clarendon Press, 1940–61 usw.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Lynch, Matthew. <italic>Monotheism and Institutions in the Book of Chronicles: Temple, Priesthood, and Kingship in Post-exilic Perspective</italic>: Forschungen zum Alten Testament, 2. Reihe, Bd. 64. Tübingen: Mohr Siebeck, 2013.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Maskow, Lars. <italic>Tora in der Chronik: Studien zur Rezeption des Pentateuchs in den Chronikbüchern.</italic> Forschungen zur Religion und Literatur des Alten und Neuen Testament 274. Göttingen: Vandenhoeck &amp; Ruprecht, 2019.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Milgrom, Jacob. <italic>Leviticus 17–22</italic>. The Anchor Yale Bible 3A. New Haven: Yale University Press, 2006.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Noth, Martin. <italic>Überlieferungsgeschichtliche Studien. Teil 1: Die sammelnden und bearbeitenden Geschichtswerke im Alten Testament</italic>. Schriften der Königsberger Gelehrten Gesellschaft, Geisteswissenschaftliche Klasse, Bd. 18. Halle: Niemeyer 1943.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+O’Brien, Julia M. <italic>Priest and Levite in Malachi</italic>. Society of Biblical Literature, Dissertation Series, Bd. 121 Atlanta GA: Scholars Press, 1990.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Ruwe, Andreas. „Das Reden und Verstummen Aarons vor Mose: Lev 9–10 im Buch Leviticus“. In <italic>Behutsames Lesen: Alttestamentliche Exegese im interdisziplinären Methodendiskurs; Christof Hardmeier zum 65. Geburstag,</italic> herausgegeben von Silke Lubs, Louis Jonker, Andreas Ruwe und Uwe Weise, 169-96. Arbeiten zur Bibel und ihrer Geschichte 28. Leipzig: Evangelische Verlagsanstalt, 2007.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Samuel, Harald. Art. „Levites: II. Judaism“, In <italic>Encyclopedia of the Bible and Its Reception,</italic> herausgegeben von Constance M. Furey, Brian Matz, Steven L. McKenzie, Thomas Römer, Jens Schröter, Barry Dov Walfish und Eric Ziolkowski, Bd. 16, 346–48. Berlin: De Gruyter, 2018.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Schlegel, Friedrich. <italic>Philosophie der Geschichte I</italic>. In <italic>Sämtliche Werke,</italic> von Friedrich Schlegel, Bd. 13. Wien: Klang, 1846.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Wellhausen, Julius. <italic>Prolegomena zur Geschichte Israels</italic>. 6. Aufl. Berlin: de Gruyter, 1927.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+Willi, Thomas. „Leviten, Priester und Kult in vorhellenistischer Zeit: Die chronistische Optik in ihrem geschichtlichen Kontext.“ In <italic>Gemeinde ohne Tempel/Community without Temple: Zur Substituierung und Transformation des Jerusalemer Tempels und seines Kults im Alten Testament, antiken Judentum und frühen Christentum,</italic> herausgegeben von Beate Ego, Armin Lange und Peter Pilhofer, 75–98. Welt und Umwelt des Neuen Testaments 118. Tübingen: Mohr Siebeck, 1999.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Die Chronik als Auslegung.</italic> Forschungen zur Religion und Literatur des Alten und Neuen Testament 106. Göttingen: Vandenhoeck &amp; Ruprecht, 1972.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Tora in den biblischen Chronikbüchern“. <italic>Judaica</italic> 36, Nr. 3 (1980): 102–5; Nr. 4 (1980): 148–51.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. <italic>Chronik 1,1–10,14.</italic> Biblischer Kommentar<italic>,</italic> Bd. 24, Teilbd. 1. Neukirchen-Vluyn: Neukirchener Verlag, 1991–2009.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Kakkatuv: Die Tora zwischen Mündlichkeit und Schriftlichkeit“. In <italic>Die philosophische Aktualität der jüdischen Tradition,</italic> herausgegeben von Werner Stegmaier, 43–61. Frankfurt am Main: Suhrkamp, 2000.
+</mixed-citation>
+</ref>
+<ref>
+<mixed-citation>
+———. „Die Suche nach dem Ort in der Chronik: Eine U-topie?“ In <italic>Worlds that could not be: Utopia in Chronicles, Ezra and Nehemiah,</italic> herausgegeben von Stephen J. Schweitzer und Frauke Uhlenbruch, 183–92. LHBOTS 620. London: Bloomsbury, 2016.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

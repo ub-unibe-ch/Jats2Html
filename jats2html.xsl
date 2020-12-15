@@ -41,6 +41,7 @@
   </xsl:template>
 
   <xsl:template name="toc-div">
+    <xsl:if test="string(/article/body/sec[1])">
     <div class="toc">
       <h2>
         <xsl:if test="/article/@xml:lang='en'">
@@ -55,6 +56,7 @@
         <br/>
       </xsl:for-each>
     </div>
+    </xsl:if>
   </xsl:template>
 
 
@@ -414,9 +416,14 @@
   <xsl:template match="/article/back/fn-group">
     <h2>
       <xsl:attribute name="id">
-        <xsl:value-of select="@id"/>
+        <xsl:text>id-fn-group</xsl:text>
       </xsl:attribute>
-      <xsl:value-of select="/article/back/fn-group/title"/>
+      <xsl:if test="/article/@xml:lang='en'">
+        Notes
+      </xsl:if>
+      <xsl:if test="/article/@xml:lang='de'">
+        Anmerkungen
+      </xsl:if>
     </h2>
     <div class="author-comment">
       <xsl:value-of select="/article/front/article-meta/contrib-group/author-comment"/>
