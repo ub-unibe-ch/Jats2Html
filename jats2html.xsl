@@ -441,13 +441,6 @@
     </div>
   </xsl:template>
   
-  <xsl:template match="/article/front/article-meta/contrib-group/author-comment">
-    <div class="author-comment">
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>
-
-
   <xsl:template match="/article/back/fn-group">
     <h2>
       <xsl:attribute name="id">
@@ -460,8 +453,8 @@
         Anmerkungen
       </xsl:if>
     </h2>
-    <div class="author-comment">
-      <xsl:value-of select="/article/front/article-meta/contrib-group/author-comment"/>
+    <div class="article-meta-notes">
+      <xsl:value-of select="/article/front/article-meta/notes"/>
     </div>
     <ol class="fn-group">
       <xsl:apply-templates/>

@@ -30,11 +30,11 @@
           <email>johndoe@somwhere.org</email>
           <aff>University of Somewhere</aff>
         </contrib>
-        <author-comment>
-          <p>This article is based on presentations given at many important conferences. I would
-            like to thank Prof. X and Prof. Y for their important support and advice.</p>
-        </author-comment>
       </contrib-group>
+      <notes>
+        <p>This article is based on presentations given at many important conferences. I would
+          like to thank Prof. X and Prof. Y for their important support and advice.</p>
+      </notes>
       <pub-date pub-type="epub">
         <month>10</month>
         <year>2020</year>
