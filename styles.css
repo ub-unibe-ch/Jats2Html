@@ -205,6 +205,10 @@ div.metadata {
     margin-top: 1em;
 }
 
+div.frontmatter {
+    margin-bottom: 1em;
+}
+
 
 div.table-wrap {
     margin-top: 2ex;

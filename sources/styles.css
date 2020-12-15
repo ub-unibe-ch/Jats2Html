@@ -112,7 +112,7 @@ sub {
 }
 
 .abstract {
-    font-size: 95%;
+    font-size: 100%;
     line-height: 1.6;
     margin-bottom: 2em;
     padding-left: 2%;
@@ -205,18 +205,10 @@ div.metadata {
     margin-top: 1em;
 }
 
-div.abstract {
-    font-size: 90%;
-    font-style: normal;
-    line-height: 1.6;
-    margin: 0;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    padding-bottom: 0.5em;
-    padding-top: 0.5em;
-    border-top: 1px solid #44bb91;
-    border-bottom: 1px solid #44bb91;
+div.frontmatter {
+    margin-bottom: 1em;
 }
+
 
 div.table-wrap {
     margin-top: 2ex;
@@ -225,7 +217,7 @@ div.table-wrap {
 
 
 
-div.author-comment {
+div.article-meta-notes {
     font-size: 90%;
     font-style: normal;
     line-height: 1.6;
@@ -541,8 +533,6 @@ table[content-type = "parallel-r2l"] tr {
 
 
 table[content-type = "parallel"] tr td:nth-child(1) {
-    text-align: right;
-    direction: rtl;
     vertical-align: top;
 }
 
@@ -579,6 +569,20 @@ a.fn-back {
 
 
 @media screen and (min-width: 1000px) {
+
+  div.abstract {
+    font-style: normal;
+    line-height: 1.6;
+    margin: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    border-top: 1px solid #44bb91;
+    border-bottom: 1px solid #44bb91;
+}
+
+
 .toc {
     position: fixed;
     z-index: 1; /* Stay on top */
@@ -618,7 +622,6 @@ a.fn-back {
 }
 
 
-
 /* Style page content */
 .main {
 /*    margin-left: 280px; /* Same as the width of the sidebar *\/*/
@@ -636,6 +639,18 @@ a.fn-back {
     margin: 0;
   }
   
+  div.abstract-and-toc {
+    font-style: normal;
+    line-height: 1.6;
+    margin: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    border-top: 1px solid #44bb91;
+    border-bottom: 1px solid #44bb91;
+}
+ 
   /* The TOC */
 
 .toc {
@@ -648,12 +663,16 @@ a.fn-back {
 
 /* The navigation menu links */
 .toc a {
-    padding-left: 0em;
-    padding-right: 1em;
-    padding-top:0.5em;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0em;
     text-decoration: none;
     color: black;
     display: inline-block;
+}
+
+.toc a:first-of-type {
+    padding-top: 0em;
 }
 
 .toc a:hover {
@@ -663,6 +682,8 @@ a.fn-back {
 
 .toc h2 {
     margin-top: 0em;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 div.abstract {

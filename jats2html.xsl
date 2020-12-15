@@ -101,6 +101,7 @@
 
 
   <xsl:template match="/article/front">
+    <div class="frontmatter">
     <div class="main">
     <h1 class="article-title">
       <xsl:apply-templates select="article-meta/title-group/article-title"/>
@@ -161,6 +162,7 @@
       </div>
     </xsl:if></div>
     <xsl:call-template name="toc-div"/>
+    </div>
     </div>
   </xsl:template>
 
