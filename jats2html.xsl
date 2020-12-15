@@ -39,6 +39,25 @@
       <xsl:value-of select="title"/>
     </a>
   </xsl:template>
+  
+  <xsl:template name="fn-group-heading-in-toc">
+    <a>
+      <xsl:attribute name="href">
+        <xsl:text>#</xsl:text>
+        <xsl:text>id-fn-group</xsl:text>
+      </xsl:attribute>
+      <xsl:if test="string(label)">
+        <xsl:value-of select="label"/>
+        <xsl:text>&#x00A0;</xsl:text>
+      </xsl:if>
+       <xsl:if test="/article/@xml:lang='en'">
+        <xsl:text>Notes</xsl:text>
+      </xsl:if>
+      <xsl:if test="/article/@xml:lang='de'">
+        <xsl:text>Anmerkungen</xsl:text>
+      </xsl:if>
+    </a>
+  </xsl:template>
 
   <xsl:template name="toc-div">
     <xsl:if test="string(/article/body/sec[1])">
@@ -51,7 +70,15 @@
           Inhalt
         </xsl:if>
       </h2>
-      <xsl:for-each select="//sec | //fn-group | //ref-list">
+      <xsl:for-each select="//sec">
+        <xsl:call-template name="heading-in-toc"/>
+        <br/>
+      </xsl:for-each>
+      <xsl:for-each select="//fn-group">
+        <xsl:call-template name="fn-group-heading-in-toc"/>
+        <br/>
+      </xsl:for-each>
+      <xsl:for-each select="//ref-list">
         <xsl:call-template name="heading-in-toc"/>
         <br/>
       </xsl:for-each>
