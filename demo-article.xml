@@ -31,10 +31,6 @@
           <aff>University of Somewhere</aff>
         </contrib>
       </contrib-group>
-      <notes>
-        <p>This article is based on presentations given at many important conferences. I would
-          like to thank Prof. X and Prof. Y for their important support and advice.</p>
-      </notes>
       <pub-date pub-type="epub">
         <month>10</month>
         <year>2020</year>
@@ -53,8 +49,7 @@
       </permissions>
       <abstract>
         <p>But I must explain to you how all this <italic>mistaken</italic> idea of
-            <bold>denouncing</bold> pleasure and <strike>praising</strike> 
-          <underline>pain</underline> was born and I will give you a complete account of the system,
+          <bold>denouncing</bold> pleasure and <strike>praising</strike> <underline>pain</underline> was born and I will give you a complete account of the system,
           and expound the actual teachings of the great explorer of the truth, the master-builder of
           human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is
           pleasure, but because those who do not know how to pursue pleasure rationally encounter
@@ -63,6 +58,10 @@
           circumstances occur in which toil and pain can procure him some great pleasure.</p>
       </abstract>
     </article-meta>
+    <notes>
+      <p>This article is based on presentations given at many important conferences. I would
+        like to thank Prof. X and Prof. Y for their important support and advice.</p>
+    </notes>
   </front>
   <body>
     <boxed-text content-type="dedication">

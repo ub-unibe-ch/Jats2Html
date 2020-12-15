@@ -2,7 +2,8 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lang="http://www.w3.org/1999/xhtml">
 
-  <xsl:strip-space elements="*"/>
+  <!--   <xsl:strip-space elements="*"/>  -->
+
   <xsl:output method="html" indent="yes"/>
 
 
@@ -99,7 +100,7 @@
   <xsl:template match="/article/front">
     <div class="main">
     <h1 class="article-title">
-      <xsl:value-of select="article-meta/title-group/article-title"/>
+      <xsl:apply-templates select="article-meta/title-group/article-title"/>
     </h1>
     <xsl:for-each select="article-meta/contrib-group/contrib">
       <span class="author-name">
@@ -441,10 +442,6 @@
     </div>
   </xsl:template>
   
-  <xsl:template match="/article/front/article-meta/notes">
-      <xsl:apply-templates/>
-  </xsl:template>
-  
   <xsl:template match="/article/back/fn-group">
     <h2>
       <xsl:attribute name="id">
@@ -458,7 +455,7 @@
       </xsl:if>
     </h2>
     <div class="article-meta-notes">
-      <xsl:apply-templates select="/article/front/article-meta/notes"/>
+      <xsl:apply-templates select="/article/front/notes"/>
     </div>
     <ol class="fn-group">
       <xsl:apply-templates/>
