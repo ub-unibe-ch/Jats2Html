@@ -586,6 +586,8 @@ a.fn-back {
     margin: 3em auto;
     background-color: #eee;
     overflow-x: hidden; /* Disable horizontal scroll */
+    max-height: calc(100vh - 9rem);
+    overflow-y: auto;
     padding-top: 1em;
     padding-bottom: 1.5em;
 	padding-left: 1em;
