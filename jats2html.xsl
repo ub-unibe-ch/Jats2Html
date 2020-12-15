@@ -147,6 +147,7 @@
       <br/>
     </div>
     </div>
+    <div class="abstract-and-toc">
     <div class="main"><xsl:if test="string(article-meta/abstract)">
       <div class="abstract">
         <i>
@@ -156,6 +157,7 @@
       </div>
     </xsl:if></div>
     <xsl:call-template name="toc-div"/>
+    </div>
   </xsl:template>
 
   <!-- end front -->
