@@ -529,8 +529,6 @@ table[content-type = "parallel-r2l"] tr {
 
 
 table[content-type = "parallel"] tr td:nth-child(1) {
-    text-align: right;
-    direction: rtl;
     vertical-align: top;
 }
 
