@@ -2,11 +2,16 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lang="http://www.w3.org/1999/xhtml">
 
+<<<<<<< HEAD
 <!-- 
  <xsl:preserve-space  elements="p"/>
  <xsl:strip-space elements="*"/>
 -->
   
+=======
+  <!--   <xsl:strip-space elements="*"/>  -->
+
+>>>>>>> 5f91df9da61ed14ba8a634a483a0d0f70caa34e2
   <xsl:output method="html" indent="yes"/>
 
 
