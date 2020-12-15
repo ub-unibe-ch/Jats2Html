@@ -153,7 +153,7 @@
         <i>
           <xsl:text>Abstract: </xsl:text>
         </i>
-        <xsl:value-of select="article-meta/abstract"/>
+        <xsl:apply-templates select="article-meta/abstract"/>
       </div>
     </xsl:if></div>
     <xsl:call-template name="toc-div"/>
@@ -441,6 +441,10 @@
     </div>
   </xsl:template>
   
+  <xsl:template match="/article/front/article-meta/notes">
+      <xsl:apply-templates/>
+  </xsl:template>
+  
   <xsl:template match="/article/back/fn-group">
     <h2>
       <xsl:attribute name="id">
@@ -454,7 +458,7 @@
       </xsl:if>
     </h2>
     <div class="article-meta-notes">
-      <xsl:value-of select="/article/front/article-meta/notes"/>
+      <xsl:apply-templates select="/article/front/article-meta/notes"/>
     </div>
     <ol class="fn-group">
       <xsl:apply-templates/>
