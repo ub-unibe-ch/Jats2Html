@@ -425,6 +425,15 @@
       <xsl:apply-templates/>
     </div>
   </xsl:template>
+  
+  <!-- Das hier wäre einfacher 
+    Dafür muss man aber die Identity Transformation weiter unten aktivieren...
+  <xsl:template match="boxed-text">
+    <div>
+      <xsl:apply-templates select="@* | node()"/>
+    </div>
+  </xsl:template>
+  -->
 
   <xsl:template match="//p">
     <p>
