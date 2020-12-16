@@ -191,9 +191,8 @@
     </sec>
 
     <sec id="selectedfeature">
-      <title>Selected Features</title>
       <label>3</label>
-
+      <title>Selected Features</title>
       <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except
         to obtain some advantage from it? But who has any right to find fault with a man who chooses
         to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that
@@ -400,10 +399,10 @@
         procure him some great pleasure.</p>
 
       <list list-type="order">
-        <list-item>A number list item</list-item>
-        <list-item>A number list item</list-item>
-        <list-item>A number list item</list-item>
-        <list-item>A number list item</list-item>
+        <list-item><p>A number list item</p></list-item>
+        <list-item><p>A number list item</p></list-item>
+        <list-item><p>A number list item</p></list-item>
+        <list-item><p>A number list item</p></list-item>
       </list>
 
       <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except
@@ -416,10 +415,10 @@
         the same as saying through shrinking from toil and pain.</p>
 
       <list list-type="bullet">
-        <list-item>A bullet list item</list-item>
-        <list-item>A bullet list item</list-item>
-        <list-item>A bullet list item</list-item>
-        <list-item>A bullet list item</list-item>
+        <list-item><p>A bullet list item</p></list-item>
+        <list-item><p>A bullet list item</p></list-item>
+        <list-item><p>A bullet list item</p></list-item>
+        <list-item><p>A bullet list item</p></list-item>
       </list>
 
       <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except
