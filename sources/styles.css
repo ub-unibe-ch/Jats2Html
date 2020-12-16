@@ -490,10 +490,18 @@ p.table_label {
     padding-top: 1em;
 }
 
-div[content-type = "dedication"] {
+div[content-type = "dedication"],
+div[content-type = "epigraph"]
+{
     text-align: right;
     margin-left: 3em;
     font-style: italic;
+}
+
+div[content-type = "dedication"] + p,
+div[content-type = "epigraph"] + p
+{
+    margin-top: 1em
 }
 
 ol,

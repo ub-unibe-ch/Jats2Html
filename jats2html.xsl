@@ -296,20 +296,20 @@
     <div align="center" class="table-wrap">
       <xsl:attribute name="id">
         <xsl:value-of select="@id"/>
-      </xsl:attribute>
-      <xsl:if test="string(caption)">
+      </xsl:attribute>  
+     <xsl:if test="string(caption)">
         <p class="table_caption">
           <xsl:if test="string(label)">
             <xsl:value-of select="label"/>
             <xsl:text>:&#x00A0;</xsl:text>
           </xsl:if>
-          <xsl:value-of select="caption"/>
+          <xsl:apply-templates select="caption/p/node()"/>
         </p>
       </xsl:if>
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="table"/>
     </div>
   </xsl:template>
-
+  
   <xsl:template match="//table-wrap/caption"/>
   <xsl:template match="//table-wrap/label"/>
 
@@ -515,12 +515,13 @@
   <xsl:template match="/article/back/ref-list/title"/>
 
   <!-- end back -->
-
-  <!--  <xsl:template match="@*|node()">
+<!--  
+<xsl:template match="@*|node()">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
-  </xsl:template>-->
+  </xsl:template>
+  -->
 
   <xsl:template match="/article/back/fn-group/fn/@id"/>
 
