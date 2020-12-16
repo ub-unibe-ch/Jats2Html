@@ -501,7 +501,7 @@ div[content-type = "epigraph"]
 div[content-type = "dedication"] + p,
 div[content-type = "epigraph"] + p
 {
-    margin-top: 1em
+    margin-top: 2em
 }
 
 ol,
