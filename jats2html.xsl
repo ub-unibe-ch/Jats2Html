@@ -452,10 +452,11 @@
   <!-- back -->
   
   <xsl:template match="/article/back">
-    <div class="main">
-      <xsl:apply-templates/>
-    </div>
+        <div class="main">
+          <xsl:apply-templates/>
+        </div>
   </xsl:template>
+  
   
   <xsl:template match="/article/back/fn-group">
     <h2>
@@ -523,8 +524,11 @@
   </xsl:template>
 
   <xsl:template match="/article/back/ref-list/title"/>
+  
+  <xsl:template match="/article/back/fn-group/fn/@id"/>
 
   <!-- end back -->
+  
 <!--  
 <xsl:template match="@*|node()">
     <xsl:copy>
@@ -532,7 +536,5 @@
     </xsl:copy>
   </xsl:template>
   -->
-
-  <xsl:template match="/article/back/fn-group/fn/@id"/>
 
 </xsl:stylesheet>
