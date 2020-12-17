@@ -9,7 +9,7 @@
 
 <xsl:output method="html" indent="yes"/>
 
-<xsl:param name="stylesheet">styles.css</xsl:param>
+<xsl:param name="stylesheet">../../../styles.css</xsl:param>
 
   <xsl:template match="/">
     <html>
