@@ -7,8 +7,9 @@
  <xsl:strip-space elements="*"/>
 -->
 
-  <xsl:output method="html" indent="yes"/>
+<xsl:output method="html" indent="yes"/>
 
+<xsl:param name="stylesheet">styles.css</xsl:param>
 
   <xsl:template match="/">
     <html>
@@ -16,7 +17,7 @@
         <title>
           <xsl:value-of select="/article/front/article-meta/title-group/article-title"/>
         </title>
-        <link rel="stylesheet" type="text/css" href="styles.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="{$stylesheet}" media="screen"/>
       </head>
       <body>
           <xsl:apply-templates/>
