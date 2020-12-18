@@ -73,14 +73,14 @@
   <xsl:template name="toc-div">
     <xsl:if test="string(/article/body/sec[1])">
     <div class="toc">
-      <h2>
+      <h3>
         <xsl:if test="/article/@xml:lang='en'">
           Contents
         </xsl:if>
         <xsl:if test="/article/@xml:lang='de'">
           Inhalt
         </xsl:if>
-      </h2>
+      </h3>
       <xsl:for-each select="//sec">
         <xsl:call-template name="heading-in-toc"/>
         <br/>
@@ -156,9 +156,9 @@
     <div class="abstract-and-toc">
     <div class="main"><xsl:if test="string(article-meta/abstract)">
       <div class="abstract">
-        <i>
-          <xsl:text>Abstract: </xsl:text>
-        </i>
+        <h3>
+          <xsl:text>Abstract</xsl:text>
+        </h3>
         <xsl:apply-templates select="article-meta/abstract"/>
       </div>
     </xsl:if></div>

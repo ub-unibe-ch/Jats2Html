@@ -584,10 +584,14 @@ a.fn-back {
     margin: 0;
     margin-top: 2em;
     margin-bottom: 2em;
-    padding-bottom: 0.5em;
+    padding-bottom: 1em;
     padding-top: 0.5em;
     border-top: 1px solid #44bb91;
     border-bottom: 1px solid #44bb91;
+}
+
+.abstract h3 {
+    margin-top: 0em;
 }
 
 
@@ -625,7 +629,9 @@ a.fn-back {
 }
 
 
-.toc h2 {
+.toc h2,
+.toc h3
+{
     display: none;
 }
 
@@ -654,7 +660,7 @@ a.fn-back {
     margin-top: 2em;
     margin-bottom: 2em;
     padding-bottom: 0.5em;
-    padding-top: 0.5em;
+    padding-top: 1em;
     border-top: 1px solid #44bb91;
     border-bottom: 1px solid #44bb91;
 }
@@ -688,14 +694,20 @@ a.fn-back {
   background-color: transparent;
 }
 
-.toc h2 {
+.toc h2,
+.toc h3 {
     margin-top: 0em;
     padding-left: 2%;
     padding-right: 2%;
 }
 
 div.abstract {
+    margin-top: 0em;
     margin-bottom: 0em;
+}
+
+div.abstract h3 {
+margin-top: 0em;
 }
 
 }
