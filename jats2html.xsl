@@ -365,13 +365,19 @@
         <xsl:value-of select="@id"/>
       </xsl:attribute>
     </img>
-    <p class="pic_label">
-      <xsl:value-of select="label"/>
-    </p>
-    <p class="pic_caption">
-      <xsl:value-of select="caption"/>
-    </p>
+    <xsl:if test="string(caption)">
+      <p class="pic_caption">
+        <xsl:if test="string(label)">
+          <xsl:value-of select="label"/>
+          <xsl:text>:&#x00A0;</xsl:text>
+        </xsl:if>
+        <xsl:apply-templates select="caption/p/node()"/>
+      </p>
+    </xsl:if>
   </xsl:template>
+  
+  <xsl:template match="//table-wrap/caption"/>
+  <xsl:template match="//table-wrap/label"/>
 
   <xsl:template match="//ext-link">
     <a>

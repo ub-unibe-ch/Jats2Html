@@ -297,12 +297,12 @@
         procure him some great pleasure.</p>
 
       <fig id="fig1">
+        <label>Figure 1</label>
         <caption>
-          <p>Figure 1: A figure</p>
+          <p>A figure</p>
         </caption>
         <graphic mimetype="image" mime-subtype="jpeg" xlink:href="img1.jpg" xlink:title=""/>
       </fig>
-
       <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except
         to obtain some advantage from it? But who has any right to find fault with a man who chooses
         to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that
