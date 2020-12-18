@@ -368,17 +368,14 @@
     <xsl:if test="string(caption)">
       <p class="pic_caption">
         <xsl:if test="string(label)">
-          <xsl:value-of select="label"/>
+          <span class="pic_caption_label"><xsl:value-of select="label"/></span>
           <xsl:text>:&#x00A0;</xsl:text>
         </xsl:if>
-        <xsl:apply-templates select="caption/p/node()"/>
+        <span class="pic_caption_text"><xsl:apply-templates select="caption/p/node()"/></span>
       </p>
     </xsl:if>
   </xsl:template>
   
-  <xsl:template match="//table-wrap/caption"/>
-  <xsl:template match="//table-wrap/label"/>
-
   <xsl:template match="//ext-link">
     <a>
       <xsl:attribute name="href">
