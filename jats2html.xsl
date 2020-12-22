@@ -282,7 +282,7 @@
         <xsl:attribute name="dir">
           <xsl:text>rtl</xsl:text>
         </xsl:attribute>
-        <xsl:value-of select="."/>
+        <xsl:apply-templates/>
       </div>
     </xsl:if>
   </xsl:template>
