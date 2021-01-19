@@ -2,14 +2,14 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lang="http://www.w3.org/1999/xhtml">
 
-<!-- 
+<!--
  <xsl:preserve-space  elements="p"/>
  <xsl:strip-space elements="*"/>
 -->
 
 <xsl:output method="html" indent="yes"/>
 
-<xsl:param name="stylesheet">../../../styles.css</xsl:param>
+<xsl:param name="stylesheet"/>
 
   <xsl:template match="/">
     <html>
@@ -17,7 +17,9 @@
         <title>
           <xsl:value-of select="/article/front/article-meta/title-group/article-title"/>
         </title>
-        <link rel="stylesheet" type="text/css" href="{$stylesheet}" media="screen"/>
+        <xsl:if test="string($stylesheet)">
+          <link rel="stylesheet" type="text/css" href="{$stylesheet}" media="screen"/>
+        </xsl:if>
       </head>
       <body>
           <xsl:apply-templates/>
@@ -29,9 +31,8 @@
     <xsl:apply-templates> </xsl:apply-templates>
   </xsl:template>
 
-
   <!-- toc -->
-  
+
   <xsl:template name="heading-in-toc">
     <a>
       <xsl:attribute name="href">
@@ -45,8 +46,8 @@
       <xsl:value-of select="title"/>
     </a>
   </xsl:template>
-  
-  <!-- 
+
+  <!--
     Das hier ist möglicherweise zu kompliziert.
     man es sich sparen, wenn man jeweils den Titel bei der fn-group einträgt.
     oder man baut ein prä-prozessor xsl...
@@ -297,7 +298,7 @@
     <div align="center" class="table-wrap">
       <xsl:attribute name="id">
         <xsl:value-of select="@id"/>
-      </xsl:attribute>  
+      </xsl:attribute>
      <xsl:if test="string(caption)">
         <p class="table_caption">
           <xsl:if test="string(label)">
@@ -310,7 +311,7 @@
       <xsl:apply-templates select="table"/>
     </div>
   </xsl:template>
-  
+
   <xsl:template match="//table-wrap/caption"/>
   <xsl:template match="//table-wrap/label"/>
 
@@ -375,7 +376,7 @@
       </p>
     </xsl:if>
   </xsl:template>
-  
+
   <xsl:template match="//ext-link">
     <a>
       <xsl:attribute name="href">
@@ -429,8 +430,8 @@
       <xsl:apply-templates/>
     </div>
   </xsl:template>
-  
-  <!-- Das hier wäre einfacher 
+
+  <!-- Das hier wäre einfacher
     Dafür muss man aber die Identity Transformation weiter unten aktivieren...
   <xsl:template match="boxed-text">
     <div>
@@ -453,14 +454,14 @@
 
   <!-- end body -->
   <!-- back -->
-  
+
   <xsl:template match="/article/back">
         <div class="main">
           <xsl:apply-templates/>
         </div>
   </xsl:template>
-  
-  
+
+
   <xsl:template match="/article/back/fn-group">
     <h2>
       <xsl:attribute name="id">
@@ -502,7 +503,7 @@
         </xsl:attribute>&#11025;</a>
     </p>
   </xsl:template>
-  
+
   <xsl:template match="/article/back/ref-list">
     <h2>
       <xsl:attribute name="id">
@@ -527,12 +528,12 @@
   </xsl:template>
 
   <xsl:template match="/article/back/ref-list/title"/>
-  
+
   <xsl:template match="/article/back/fn-group/fn/@id"/>
 
   <!-- end back -->
-  
-<!--  
+
+<!--
 <xsl:template match="@*|node()">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
